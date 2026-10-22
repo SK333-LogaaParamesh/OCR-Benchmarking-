@@ -1,0 +1,5532 @@
+{
+ "degraded_handwritten/hin_0": {
+  "text": "",
+  "sec": 6.012932777404785,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_1": {
+  "text": "",
+  "sec": 4.934881687164307,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_10": {
+  "text": "",
+  "sec": 5.538529634475708,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_11": {
+  "text": "",
+  "sec": 5.9952309131622314,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_12": {
+  "text": "",
+  "sec": 11.007270336151123,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_13": {
+  "text": "",
+  "sec": 6.957109212875366,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_14": {
+  "text": "",
+  "sec": 3.356862783432007,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_15": {
+  "text": "",
+  "sec": 17.87779998779297,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_16": {
+  "text": "24",
+  "sec": 8.587705373764038,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_17": {
+  "text": "EA",
+  "sec": 11.395421743392944,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_18": {
+  "text": "",
+  "sec": 3.2038557529449463,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_19": {
+  "text": "",
+  "sec": 15.887152910232544,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_2": {
+  "text": "",
+  "sec": 3.174896240234375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_20": {
+  "text": "",
+  "sec": 9.266700506210327,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_21": {
+  "text": "S",
+  "sec": 17.88710856437683,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_22": {
+  "text": "Aaenr",
+  "sec": 6.549237012863159,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_23": {
+  "text": "",
+  "sec": 9.742515802383423,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_24": {
+  "text": "",
+  "sec": 5.809566974639893,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_25": {
+  "text": "",
+  "sec": 9.075259447097778,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_26": {
+  "text": "",
+  "sec": 3.5805764198303223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_27": {
+  "text": "",
+  "sec": 4.058196544647217,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_28": {
+  "text": "2",
+  "sec": 7.25198769569397,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_29": {
+  "text": "",
+  "sec": 9.915036916732788,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_3": {
+  "text": "",
+  "sec": 7.167619466781616,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_4": {
+  "text": "",
+  "sec": 7.980331182479858,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_5": {
+  "text": "37121 -71011",
+  "sec": 7.4554524421691895,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_6": {
+  "text": "",
+  "sec": 2.7144954204559326,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_7": {
+  "text": "",
+  "sec": 6.4576215744018555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_8": {
+  "text": "",
+  "sec": 3.0782792568206787,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_9": {
+  "text": "",
+  "sec": 2.5878427028656006,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_0": {
+  "text": "?",
+  "sec": 31.608044624328613,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_1": {
+  "text": "",
+  "sec": 15.458650588989258,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_10": {
+  "text": "180410",
+  "sec": 22.346919059753418,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_11": {
+  "text": "",
+  "sec": 20.7070894241333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_12": {
+  "text": "",
+  "sec": 19.184293746948242,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_13": {
+  "text": "",
+  "sec": 12.306079387664795,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_14": {
+  "text": "",
+  "sec": 30.670938968658447,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_15": {
+  "text": "[",
+  "sec": 28.557379245758057,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_16": {
+  "text": "",
+  "sec": 32.01603698730469,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_17": {
+  "text": "",
+  "sec": 26.164100170135498,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_18": {
+  "text": "",
+  "sec": 10.720512390136719,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_19": {
+  "text": "",
+  "sec": 14.184201002120972,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_2": {
+  "text": "",
+  "sec": 4.681851387023926,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_20": {
+  "text": "L",
+  "sec": 24.93436884880066,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_21": {
+  "text": "",
+  "sec": 7.241576194763184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_22": {
+  "text": "08",
+  "sec": 18.197609901428223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_23": {
+  "text": "",
+  "sec": 20.297244787216187,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_24": {
+  "text": "の",
+  "sec": 5.253517150878906,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_25": {
+  "text": "",
+  "sec": 7.386732816696167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_26": {
+  "text": "",
+  "sec": 10.522800207138062,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_27": {
+  "text": "BL",
+  "sec": 14.19170880317688,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_28": {
+  "text": "",
+  "sec": 7.24531102180481,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_29": {
+  "text": "",
+  "sec": 3.378868579864502,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_3": {
+  "text": "のp Q",
+  "sec": 16.071499586105347,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_4": {
+  "text": "",
+  "sec": 1.9207396507263184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_5": {
+  "text": "BTL6",
+  "sec": 1.849755048751831,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_6": {
+  "text": "",
+  "sec": 2.14774489402771,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_7": {
+  "text": "",
+  "sec": 2.091810703277588,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_8": {
+  "text": "",
+  "sec": 3.006923198699951,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_9": {
+  "text": "# L! n",
+  "sec": 10.028682470321655,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_0": {
+  "text": "",
+  "sec": 13.02383303642273,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_1": {
+  "text": "",
+  "sec": 9.084615468978882,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_2": {
+  "text": "",
+  "sec": 5.3339173793792725,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_3": {
+  "text": "",
+  "sec": 8.26575231552124,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_4": {
+  "text": "120",
+  "sec": 9.01823902130127,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_5": {
+  "text": "",
+  "sec": 4.3261189460754395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_0": {
+  "text": "",
+  "sec": 6.208080053329468,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_1": {
+  "text": "",
+  "sec": 13.773316860198975,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_2": {
+  "text": "1RRHKRR) God",
+  "sec": 6.611549377441406,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_3": {
+  "text": "",
+  "sec": 5.907192945480347,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_4": {
+  "text": "!5liM Ree! Lo jeobkiet biPsioto ",
+  "sec": 6.645938873291016,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_5": {
+  "text": "",
+  "sec": 4.4640586376190186,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_0": {
+  "text": "olle4tsai9est tel4 alte.8, xte.dtt-4tsllstt btte Ho",
+  "sec": 3.056321859359741,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_1": {
+  "text": "hHH",
+  "sec": 6.21813178062439,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_2": {
+  "text": "SRiSH 8:30 q u e. es  (15.00 y.",
+  "sec": 4.239986181259155,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_3": {
+  "text": "",
+  "sec": 6.994271993637085,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_4": {
+  "text": "4H4q228 e. O",
+  "sec": 20.422794103622437,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_5": {
+  "text": "12h2h1b1c%121022235mp1b315211t 1b18312R",
+  "sec": 3.8345232009887695,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_0": {
+  "text": "h hlle",
+  "sec": 3.808072566986084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_1": {
+  "text": "市",
+  "sec": 4.015757083892822,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_2": {
+  "text": "3",
+  "sec": 3.5248000621795654,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_3": {
+  "text": "",
+  "sec": 7.564857244491577,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_4": {
+  "text": "",
+  "sec": 3.0939414501190186,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_5": {
+  "text": "",
+  "sec": 4.118668556213379,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_0": {
+  "text": "",
+  "sec": 8.268845558166504,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_1": {
+  "text": "",
+  "sec": 3.5477888584136963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_2": {
+  "text": "",
+  "sec": 2.723914623260498,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_3": {
+  "text": "",
+  "sec": 9.142957925796509,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_4": {
+  "text": "ee",
+  "sec": 7.604379177093506,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_5": {
+  "text": "",
+  "sec": 2.6139297485351562,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_0": {
+  "text": "V:39 99",
+  "sec": 4.091581344604492,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_1": {
+  "text": "U 9  gu GMT 12.00 jlJg xg siwl ae",
+  "sec": 3.053509473800659,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_2": {
+  "text": "ulgol jg? ggo",
+  "sec": 4.164844274520874,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_3": {
+  "text": "",
+  "sec": 4.0089826583862305,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_4": {
+  "text": "",
+  "sec": 3.5028555393218994,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_5": {
+  "text": "Slgeus o e Gy pla shi ciw Sl",
+  "sec": 4.046635866165161,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/lus_0": {
+  "text": "Hebrewchhungkawnundan chu-pawn lamah hmana ni",
+  "sec": 4.967183351516724,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_1": {
+  "text": "A hnuah Cambridge-aAddenbrooke Damdawi inah sawn leh a ni.",
+  "sec": 6.891130685806274,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_2": {
+  "text": "Nimahsela, a khalhtu ber chuan a lu ah hliam na tak a tuar a ni.",
+  "sec": 3.3406143188476562,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_3": {
+  "text": "Kangthelhtu ten dar 11:35 velah kang an thelh mit",
+  "sec": 5.856391668319702,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_4": {
+  "text": "",
+  "sec": 4.277559518814087,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_5": {
+  "text": "AnichuKum2016ahPresidentni turinainpuahchahmektiasawiani.",
+  "sec": 4.58942174911499,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/mai_0": {
+  "text": "        ",
+  "sec": 4.570071458816528,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_1": {
+  "text": "",
+  "sec": 2.7796788215637207,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_2": {
+  "text": "",
+  "sec": 2.4795682430267334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_3": {
+  "text": "",
+  "sec": 3.4162204265594482,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_4": {
+  "text": "",
+  "sec": 3.3655712604522705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_5": {
+  "text": "Jppph",
+  "sec": 4.173124313354492,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_0": {
+  "text": "nn@)(8 60mo5 cm0m0oU63U8 00(01 11:35 6306S 07 60S20101",
+  "sec": 4.379772186279297,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_1": {
+  "text": "",
+  "sec": 6.4865522384643555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_2": {
+  "text": "",
+  "sec": 8.618258237838745,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_3": {
+  "text": "",
+  "sec": 3.5296871662139893,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_4": {
+  "text": "",
+  "sec": 2.1244287490844727,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_5": {
+  "text": "",
+  "sec": 3.807969331741333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_0": {
+  "text": "",
+  "sec": 6.127309799194336,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_1": {
+  "text": "",
+  "sec": 3.1688427925109863,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_2": {
+  "text": "",
+  "sec": 3.5282530784606934,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_3": {
+  "text": "",
+  "sec": 3.7502541542053223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_4": {
+  "text": "lle Plhable pel IDpIpq Ihel>ls Ihe 3 aHep",
+  "sec": 2.8046438694000244,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_5": {
+  "text": " 2016  y   3",
+  "sec": 2.730194330215454,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_0": {
+  "text": "",
+  "sec": 3.1969053745269775,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_1": {
+  "text": "",
+  "sec": 3.4208874702453613,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_2": {
+  "text": "",
+  "sec": 3.566439390182495,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_3": {
+  "text": "",
+  "sec": 2.9933297634124756,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_4": {
+  "text": "",
+  "sec": 2.8903369903564453,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_5": {
+  "text": "",
+  "sec": 2.204266309738159,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_0": {
+  "text": "boghh 1nehhD Hh",
+  "sec": 6.90830135345459,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_1": {
+  "text": "",
+  "sec": 3.0913848876953125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_2": {
+  "text": "",
+  "sec": 3.5176422595977783,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_3": {
+  "text": "",
+  "sec": 6.007042407989502,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_4": {
+  "text": "",
+  "sec": 2.5002031326293945,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_5": {
+  "text": "802.112.4Gh5.0G",
+  "sec": 4.055720329284668,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_0": {
+  "text": "",
+  "sec": 2.4798190593719482,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_1": {
+  "text": "",
+  "sec": 2.8766422271728516,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_2": {
+  "text": "11U291318593939399U955399359B6889383999",
+  "sec": 2.7385289669036865,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_3": {
+  "text": "",
+  "sec": 5.173497915267944,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_4": {
+  "text": "676546t2191",
+  "sec": 3.0616278648376465,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_5": {
+  "text": "",
+  "sec": 2.338261365890503,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_0": {
+  "text": "",
+  "sec": 2.4621243476867676,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_1": {
+  "text": "HHLhaPPHRH IYP",
+  "sec": 2.458599805831909,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_2": {
+  "text": "ffrfaeff",
+  "sec": 4.522751808166504,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_3": {
+  "text": "8:30(15.00UTC).",
+  "sec": 3.9600443840026855,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_4": {
+  "text": "",
+  "sec": 5.3210766315460205,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_5": {
+  "text": "",
+  "sec": 3.4071810245513916,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_0": {
+  "text": "",
+  "sec": 2.80603289604187,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_1": {
+  "text": "",
+  "sec": 2.6164772510528564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_2": {
+  "text": "",
+  "sec": 3.027222156524658,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_3": {
+  "text": "g 3R A: 3:  H  H g: 3R1",
+  "sec": 4.253475666046143,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_4": {
+  "text": "",
+  "sec": 3.1905202865600586,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_5": {
+  "text": "uRaRA",
+  "sec": 10.628583431243896,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_0": {
+  "text": "",
+  "sec": 3.461516857147217,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_1": {
+  "text": "08299920929229990905.67987524909699890808920059",
+  "sec": 3.2196567058563232,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_2": {
+  "text": "",
+  "sec": 5.757946014404297,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_3": {
+  "text": "",
+  "sec": 3.2601547241210938,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_4": {
+  "text": "",
+  "sec": 3.6362149715423584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_5": {
+  "text": "",
+  "sec": 4.235432863235474,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_0": {
+  "text": "",
+  "sec": 2.595846652984619,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_1": {
+  "text": "gl (uxa> p.m. GMT 09:19) 9ul。07:19 g2g",
+  "sec": 3.9821078777313232,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_2": {
+  "text": "uol gb plgla9unle",
+  "sec": 3.0373756885528564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_3": {
+  "text": "",
+  "sec": 2.178896427154541,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_4": {
+  "text": "",
+  "sec": 2.3926432132720947,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_5": {
+  "text": "gglolaoiiaulailish",
+  "sec": 2.1038272380828857,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_0": {
+  "text": "",
+  "sec": 6.969950914382935,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_1": {
+  "text": "",
+  "sec": 7.1003196239471436,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_2": {
+  "text": "120",
+  "sec": 3.738149404525757,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_3": {
+  "text": "",
+  "sec": 4.05670690536499,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_4": {
+  "text": "",
+  "sec": 4.417454957962036,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_5": {
+  "text": "",
+  "sec": 4.423610210418701,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_0": {
+  "text": "",
+  "sec": 9.064631938934326,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_1": {
+  "text": "",
+  "sec": 4.573224782943726,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_2": {
+  "text": "",
+  "sec": 7.642787218093872,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_3": {
+  "text": "90@0@00 90500 9055@03903588e0 300000850960",
+  "sec": 3.570221185684204,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_4": {
+  "text": "",
+  "sec": 3.11055850982666,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_5": {
+  "text": "",
+  "sec": 3.5876407623291016,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_0": {
+  "text": "",
+  "sec": 2.9496161937713623,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_1": {
+  "text": "100 wl",
+  "sec": 11.860544681549072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_2": {
+  "text": "",
+  "sec": 2.3195955753326416,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_3": {
+  "text": "",
+  "sec": 3.3297781944274902,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_4": {
+  "text": "",
+  "sec": 4.5042405128479,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_5": {
+  "text": "",
+  "sec": 3.7020633220672607,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_0": {
+  "text": "可 , 25, 可 , 21可可",
+  "sec": 3.12884521484375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_1": {
+  "text": "可可 可",
+  "sec": 3.2663626670837402,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_2": {
+  "text": "       AGAANMNNGAA",
+  "sec": 5.198418855667114,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_3": {
+  "text": "MDT W  0:00-S:00     ",
+  "sec": 4.32719612121582,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_4": {
+  "text": "1920     可-    ",
+  "sec": 2.875922441482544,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_5": {
+  "text": "   -  g",
+  "sec": 3.7167415618896484,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_0": {
+  "text": "MAA N 0, O    -  g",
+  "sec": 3.719923734664917,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_1": {
+  "text": "    ",
+  "sec": 4.456841945648193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_2": {
+  "text": "G     N M  NI",
+  "sec": 3.8836240768432617,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_3": {
+  "text": "  R g   E",
+  "sec": 3.8474154472351074,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_4": {
+  "text": "",
+  "sec": 5.491408109664917,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_5": {
+  "text": "AA 可A   A  ",
+  "sec": 4.7787253856658936,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_0": {
+  "text": "le qosHi elglq loie &, Hi E2 Hld-l8 G qlsla 4l2 Ha.",
+  "sec": 4.098668813705444,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_1": {
+  "text": "ppb %b @hshm P pe pt H P",
+  "sec": 3.4491233825683594,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_2": {
+  "text": "Sl2isH Hal2 8 8:30 qla yl q. 2els HHa (15.00 geel)",
+  "sec": 4.609841823577881,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_3": {
+  "text": "8a2, 44e Adl 2lHoll Hsdl 4a sdl Hl2 %a4e l4 ?.",
+  "sec": 3.3145933151245117,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_4": {
+  "text": "hpHRh?  2e 2 2h !hbR",
+  "sec": 4.362845182418823,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_5": {
+  "text": "lea %al Hl2 sl8 4eal dus S2e2oll 2la %lall 42u2t 8.",
+  "sec": 4.010115146636963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_0": {
+  "text": "      .",
+  "sec": 3.8087077140808105,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_1": {
+  "text": "",
+  "sec": 2.951802968978882,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_2": {
+  "text": "H 可 I 4I, 可 I 可RH 市  HH  3?.",
+  "sec": 3.5747485160827637,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_3": {
+  "text": "市  3f 9f.",
+  "sec": 11.168701171875,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_4": {
+  "text": "3l 可f 3a g 市  3  d 12 1",
+  "sec": 5.081153869628906,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_5": {
+  "text": " ,  市  时    可3.",
+  "sec": 4.777836561203003,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_0": {
+  "text": ",oO.",
+  "sec": 4.219452142715454,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_1": {
+  "text": "のの のo e",
+  "sec": 5.502420425415039,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_2": {
+  "text": "βBB？o3pBoBmbbéS\"?B",
+  "sec": 3.9348316192626953,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_3": {
+  "text": "",
+  "sec": 4.748640775680542,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_4": {
+  "text": "oo,,.",
+  "sec": 5.474632024765015,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_5": {
+  "text": "oo.",
+  "sec": 4.518371343612671,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_0": {
+  "text": "-h lg 中",
+  "sec": 10.604917287826538,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_1": {
+  "text": "GMT 12.00 jl Jg j Hshwl  pi..",
+  "sec": 3.95890474319458,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_2": {
+  "text": "Lies 3,3 lgol jg ggo\" J\" Lw 'm L.e",
+  "sec": 3.5929911136627197,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_3": {
+  "text": "",
+  "sec": 4.600142002105713,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_4": {
+  "text": "Jl M16  gil9 9j -Guu. D GWLw",
+  "sec": 3.50842022895813,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_5": {
+  "text": "gei  og   pL cw g",
+  "sec": 6.387430906295776,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/lus_0": {
+  "text": "Hebrew chhungkaw nundan chu pawn  lamah hman a ni.",
+  "sec": 5.428881406784058,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_1": {
+  "text": "A hnuah Cambridge-a Addenbrooke Damdawi inah sawn leh a ni.",
+  "sec": 3.6807241439819336,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_2": {
+  "text": "Nimahsela, a khalhtu ber chuan a lu ah hliam na tak a tuar a ni.",
+  "sec": 5.163917303085327,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_3": {
+  "text": "Kangthelhtu ten dar 11:35 velah kang an thelh mit.",
+  "sec": 3.341081380844116,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_4": {
+  "text": "U.S President George B Bush chu thu puanah a lawm hle.",
+  "sec": 5.341310739517212,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_5": {
+  "text": "Ani chu Kum 2016 ah President ni turin a inpuahchah mek tia sawi a ni.",
+  "sec": 4.753709077835083,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/mai_0": {
+  "text": "l@le E hh l2k lle  lg2 Hl EelhtEh",
+  "sec": 4.888277530670166,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_1": {
+  "text": "可  ,    ",
+  "sec": 4.087912559509277,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_2": {
+  "text": "",
+  "sec": 2.340001106262207,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_3": {
+  "text": " 可 可, ,  可 3       ",
+  "sec": 3.8946950435638428,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_4": {
+  "text": "    3       31",
+  "sec": 3.118464469909668,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_5": {
+  "text": "llB    Ele Ele  bEg",
+  "sec": 3.1580283641815186,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_0": {
+  "text": " 60m 6mmoS6B 0のl 11:35 6306S 0% 60S2007 .",
+  "sec": 3.657335042953491,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_1": {
+  "text": "B00lm008, 6m0Gem8 630 eelo2307 60 6em08 G28o0 m5wyo.",
+  "sec": 4.202065706253052,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_2": {
+  "text": "602b500l0 64 00m00, (Se6 66026e6 20l6e00s",
+  "sec": 3.192769765853882,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_3": {
+  "text": "m  mwm  2  m00 6%.",
+  "sec": 3.8127598762512207,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_4": {
+  "text": "",
+  "sec": 3.4999747276306152,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_5": {
+  "text": "'60 b0l 00lm60 @0gni @0mm0 \"\"nOmGO0\"\" \"\"mmIBB6O\"\"",
+  "sec": 5.544442176818848,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_0": {
+  "text": "pbelh Epe heeh hhle be Phle Ee?e g",
+  "sec": 2.9641244411468506,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_1": {
+  "text": " o 可a 可o ga , 可 可o 3 市 中l",
+  "sec": 3.630716562271118,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_2": {
+  "text": "a aR yqiI Jed    3axu 3.",
+  "sec": 3.0745346546173096,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_3": {
+  "text": ",  3   3 oi a  el.",
+  "sec": 2.8037846088409424,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_4": {
+  "text": "    I bald d aiq 3.",
+  "sec": 3.2599470615386963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_5": {
+  "text": " 2016  udq    3 .",
+  "sec": 3.4229114055633545,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_0": {
+  "text": "",
+  "sec": 3.9314372539520264,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_1": {
+  "text": "的 可 可 后网 可  可 1",
+  "sec": 4.301522731781006,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_2": {
+  "text": " ",
+  "sec": 3.058164358139038,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_3": {
+  "text": ",",
+  "sec": 3.987792730331421,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_4": {
+  "text": "",
+  "sec": 4.577721834182739,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_5": {
+  "text": "35mm C 可   可可 36mm  24mm 可1",
+  "sec": 4.655263900756836,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_0": {
+  "text": "hh",
+  "sec": 3.0616328716278076,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_1": {
+  "text": "qdR     3 1Bgi2lr bl2heh lhpg Lebhle ",
+  "sec": 4.984260082244873,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_2": {
+  "text": "     f  H ",
+  "sec": 2.9716901779174805,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_3": {
+  "text": "        :  1",
+  "sec": 3.5248446464538574,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_4": {
+  "text": "cRcd g H  URuR HaR Td6 g1",
+  "sec": 3.0838024616241455,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_5": {
+  "text": "802.11n H 2.4Ghz  5.0Ghz  I  1",
+  "sec": 3.0085079669952393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_0": {
+  "text": "2 gB 1by 99 B 139R BIBhUB BBB B IRR",
+  "sec": 3.2893829345703125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_1": {
+  "text": "",
+  "sec": 2.4851667881011963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_2": {
+  "text": "989 HURIBI BIB9 9bI 5U9  凹59 39B  885BB",
+  "sec": 4.277391672134399,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_3": {
+  "text": "",
+  "sec": 2.582294225692749,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_4": {
+  "text": "42l F02I 66m 4gml ( Q6q7 66m 2dg 69l9I 621241",
+  "sec": 4.013639450073242,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_5": {
+  "text": "1SBIB BIB9 89BUIBB69 9BIRIB,B DBIB9 YBIUB B9B%95 8B%",
+  "sec": 2.992396116256714,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_0": {
+  "text": " PPEP  YHHk  lP2H PE2kE p P2Ph PRP",
+  "sec": 3.430635690689087,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_1": {
+  "text": "    H     1",
+  "sec": 3.1509366035461426,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_2": {
+  "text": " . e a PeP  PPH g IP g g  H&h",
+  "sec": 4.135254144668579,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_3": {
+  "text": "H He 8:30 E  eI HEq HHi (15.00 UTC).",
+  "sec": 3.1384284496307373,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_4": {
+  "text": "      M    3",
+  "sec": 3.5437300205230713,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_5": {
+  "text": " ERPR Ek Hi2bR bE[YHiP.PI22k YHg",
+  "sec": 5.300277948379517,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_0": {
+  "text": "aafaa: i  ok edi ",
+  "sec": 3.5862576961517334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_1": {
+  "text": ": 3aq    oaf 3",
+  "sec": 3.6737804412841797,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_2": {
+  "text": "可   T,  Y: RU HA 3  Haf",
+  "sec": 3.5422565937042236,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_3": {
+  "text": "J 3 f: 3:     Y: 31",
+  "sec": 3.021221160888672,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_4": {
+  "text": "1200 GMT 可  a 可 3  1",
+  "sec": 3.887312412261963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_5": {
+  "text": "a RaR 3f : H ay 3Had 1",
+  "sec": 3.305943012237549,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_0": {
+  "text": "O2.(n N2>D 2.6Ghz > .0Ghz > 9>7b5c27 >2G2c b.Uc",
+  "sec": 4.723567008972168,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_1": {
+  "text": "",
+  "sec": 3.9377458095550537,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_2": {
+  "text": "",
+  "sec": 4.408518075942993,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_3": {
+  "text": "2022 U5. >2, 7U7299 922209U 902P QvC >2 92P P22",
+  "sec": 4.169941663742065,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_4": {
+  "text": "0 79 99 0.9 059.? 9a29-;  79 bO9 02 0c n976",
+  "sec": 5.0465898513793945,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_5": {
+  "text": "&aG9 .2m&0 2&0 7G69 9'&7G 9&2& '2K GG 2GM &dGd 9G22& 2GNG7 &GdG0",
+  "sec": 4.230109930038452,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_0": {
+  "text": "Ll ueg elel Lelio n ualliu.g LjK\" jbio w",
+  "sec": 2.918708324432373,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_1": {
+  "text": "g.l a lil.jl (u u&o> p.m. GMT 09:19) \"g uol。 07:19 g Z g",
+  "sec": 2.8353850841522217,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_2": {
+  "text": "gbe.bp-p-n J",
+  "sec": 4.811951398849487,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_3": {
+  "text": "Lc e E   g. Ueu?",
+  "sec": 5.180463790893555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_4": {
+  "text": "Ulg uug regl a Gelo Jlu\" .l j?g [omn i",
+  "sec": 3.846923589706421,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_5": {
+  "text": "L Egb c' clko crite Ulwei u l gbwj! mmn",
+  "sec": 3.8561813831329346,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_0": {
+  "text": "LG 更L出可 @LGL更 T乐,  @66 乐.",
+  "sec": 4.270092487335205,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_1": {
+  "text": " T的L 6T 中F T的山 B中 甲山乐.",
+  "sec": 3.7523908615112305,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_2": {
+  "text": "6TM 12.00 GMT-出 L面S山雪.",
+  "sec": 4.755090236663818,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_3": {
+  "text": ", L%L LTG6 6T 甲面 6l606 Tj.",
+  "sec": 3.704054355621338,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_4": {
+  "text": "",
+  "sec": 3.768646240234375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_5": {
+  "text": "G乐TLT9围 6DBLP出围, 乐L出中 甲mLL FT围 6",
+  "sec": 4.77396297454834,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_0": {
+  "text": ".",
+  "sec": 3.3583364486694336,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_1": {
+  "text": ",.g ,.",
+  "sec": 3.9069414138793945,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_2": {
+  "text": "O swの .",
+  "sec": 3.038516044616699,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_3": {
+  "text": "g  e.",
+  "sec": 3.0645978450775146,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_4": {
+  "text": "b O.",
+  "sec": 3.063173294067383,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_5": {
+  "text": "12o.",
+  "sec": 2.993459463119507,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_0": {
+  "text": "？",
+  "sec": 3.9690117835998535,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_1": {
+  "text": "100",
+  "sec": 3.2980966567993164,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_2": {
+  "text": "",
+  "sec": 2.9039762020111084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_3": {
+  "text": "clw  l lggo",
+  "sec": 3.2924444675445557,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_4": {
+  "text": "gg",
+  "sec": 3.2807607650756836,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_5": {
+  "text": "",
+  "sec": 2.7682580947875977,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "funsd/funsd_0": {
+  "text": "ATT.GEN.ADMIN.0FFICE FaX:614-466-5087 Dec 10.98 17:46 P.01 Attorney General Betty D. Montgomery CONFIDENTIALFACSIMILE TRANSMISSIONCOVERSHEET FAX NO.(614) 466-5087 TO:George Baroody FAXNUMBER: (336)335-7392 PHONENUMBER:(336)335-7363 DATE: 12/10/98 NUMBEROFPAGESINCLUDINGCOVERSHEET: 3 SENDER/PHONENUMBER: JuneFlynnforEricBrown/(614)466-8980 SPECIALINSTRUCTIONS: IFYOUDONOTRECEIVEANYOFTHEPAGESPROPERLY PLEASECONTACTSENDER ASSOONASPOSSIBLE NOTE: THISMESSAGEISINTENDED ONLYFORTHEUSE OF THEINDIVIDUAL ORENTITY TO WHOMITISADDRESSEDANDMAYCONTAININFORMATIONTHATISPRIVILEGED, CONFIDENTIAL,AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW.If.the readerofthismessageinttheintendedrepinrthelyeeoragentresponsilerdelivrin themessage ttheinedpnyouarebytifiedtanydintindisibn copyingor conveying f this communication in aymanner s srictly prohfredIf youhave received this communication in error,please notiy us immediately by telephone ndreurn the oniginlmeatusathaddressbewviatUPostalSeicThankyuforyw 8 2 cooperation. 0 6 心 State OfficeTower/30 EastBroad Street/Colurmbus,Ohio43215-3428 www.ag.state.oh.us AnEqualOpporunityEmployer",
+  "sec": 16.8263840675354,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_1": {
+  "text": "09/17/97 10:55 503 841 1898 LORILLARD PTLD 001 TO: K. A. Sparraw FROM: T. D. Blachly MAY12 AUG4 JUN23 SEP 15 SUBJECT: QLD GOLD MENTHOL LIGHTS&ULTRALIGHTS 10O'S-PROGRESS.REPQRL REGI0N: (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE) DIVISION: DIVISION: Partland #REPS: DIVISION: Seattle South #REPS:7 DIVISION: Boise # REPS: 2.5 DIVISION:Seattle North #REPS:4 DIVISION: Eugene  REPS: 5 DIVISION: Helena #REPS:4 (15+STORES)STOCKINGNOOLD GOLDMENTHOLLIGHTSORULTRALIGHTS 10O'S RIDLOR DLORL NAMEOFACCDUNE VOLUME STORES NAMEOEAEGOONT VOLUME STORES Taxaco-Scattle 105/5 225 Texaco-Portland 61/3 27 Maid-O-Clover 20/2 15 Darl-Mart 125/5 31 Zip Trip 106/ 4 18 Maverick 77/1 19 Astro Gas 600/7 20 8 9 L R-1: 0GMUg-15,xde Page1 of 3 Pages",
+  "sec": 11.382704734802246,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_10": {
+  "text": "CASE FORM CASE NAME: Donald D. Sellers and Robin J . Sellers v. Raybestos-Manhattan, et al. COURT: San Francisco Superior Court-No.996382 LORILLARD ENTITTES: Lorillard Tobacco Company DATE FILED: DATE SERVED: August 3, 1998 CASE TYPE: Asbestos PLAINTIFF'S COUNSEL: Wartnick,Chaber,Harowitz,Smith& Tigerman StephenM.Tigerman 101 California Street,Suite 2200 San Francisco, California 94111 415/986-5566 LORILLARD COUNSEL: JUDGE: TRIAL DATE: 94625115 8 0 8 9 2",
+  "sec": 6.180272102355957,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_11": {
+  "text": "LORILLARD RGN#11 001/004 05/01/00 10:21 T612 894 9690 TOBACCOCOMPANY To Mr.Randy Spell From:RickRedfield Fax: Date: May1,2000 CC: Mr. Fred Paternostro Fax: 952894-9690 Re: Legal-lowa Pages: 4 suefun s Attachedts thelowaDepartrmentofRevenueandFinanceMinimumLegalPrices on Cigarettes as ofApri 3,2000.Iam attempting to obtain a copy of the actual FairTrade Law and will forward as soon as obtained. Rick CONFIDENTIALITY NOTE Thisfacsllyonainpivgedanconitialfoatlonidnlyftuofhendvidulenlynamd 8 abova.ffthrdeftfacillsntthintededeplntormyerentresnsileforefveringitt 2 ie 5 v 9 facsimlle to us at the address below via the U. S, Postal Service. 2 0 20SRIverRidge Clrcle P.O.8ax1589 Bumsvile, MN 55337 Telephone: (952) 894-2238",
+  "sec": 11.277893543243408,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_12": {
+  "text": "XC: 2BS 12-9.99 COVINGTON&BURLING DEC-91999 R.B.SPELL 1201 Pennsylvania Avenue, N.W. P.O.Box 7566 Washington,D.C.20044-7566 (202) 662-6000 Fax Numbers (202) 662-6291 or (202) 737-0528 Fax Operator:(202)662-6280 THISFACSIMILE TRANSMISSIONISINTENDED ONLY FOR THE ADDRESSEE SHOWN BELOW.ITMAYCONTAININFORMATIONTHATISPRIVILEGED,CONFIDENTIALOROTHERWISE PROTECTEDFROMDISCLOSURE.ANYREVIEWDISSEMINATIONORUSEOFTHISTRANSMISSION ORITS CONTENTSBYPERSONS OTHERTHANTHEADDRESSEEISSTRICTLYPROHIBITED.IF MAILTHEORIGINALTOUSATTHEABOVEADDRESS. Date: December9,1999 To: Haney H. Bell, Esq. From: David H.Remes (202) 778-5212-directfax Room: 803E Pages (including cover) MESSAGE: C 。 f 100 COVINGTON &BURLING 12/09/99 11:09 FAX",
+  "sec": 10.675871849060059,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_13": {
+  "text": "NEWCOMPETITIVEPRODUCTS mKA REPORTEDBY: BOBBY MILLS, REGIONAL SALES MGR.,INDIANAPOLIS, IN DATE:. 8/10/90 TIME: SOURCEOF NFORMATION: HALL RODECAP, NOBLESVILLE, IN M98 MANUFACTURER: BRANDNAME: VICEROY KING BOX AND VICEROY LIGHTS KING BOX TYPEOF PRODUCT: SIZEORSIZES: LISTPRICE: EXTENTOF DISTRIBUTION: OTHER INFORMATION: SEE ATTACHED INFORMATION SHEET cc: A.H.Tisch G.Telford J.J.Tatulli R.H.Orcutt F.J.Schultz L. H. Kersh 82837252 M.A.Peterson A.W.Spears J.R. Slater T. H. Mau N.P.Ruffalo Gordon T.L.Achey S.T.Jones J.P.Mastandrea P. J. McCann R.S.Goldbrenner A.J.Giacolo E.R. Harrow",
+  "sec": 7.70717716217041,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_14": {
+  "text": "JAN 11 *99 16:29 FR 8220 TO 3212#128557#002#P.01 FAXTRANSMISSION DICKSTEIN SHAPIRO MORINe OSHINSKY DATE: January 11,1999 CLIENT NO.: L8557.002 MESSAGETO:Dewey Tedder COMPANY; LorillardTobacco Company FAXNUMBER:336/373-6917 PHONE: 336/373-6750 FROM: Andy Zausner and RobMangas PHONE: 202/828-2259and202/828-2241 PAGES (Iincluding Cover Sheet):.2HARD cCOPYTOFOLLOW: YES X_NO MESSAGE:The following is for your rcview. IAN12 1999 If your receipt of this transmission is in rror, please notify this firm immediarely by collect call to our Facsimile Dcpartment at 202-861-9106, and send thc original transmission to us by return mail at the addrcss below, This transision is intcnded fo th sole use of the indiviul and nity to whom it isaddressed, and maycnaininnhtspivlgedcodenlnexmpfmdildcaplia law.Yo arehreby ntifed that ay dismiion,disiution r dupliion of ths trasissnby 8 soncone other than the intendcd acddresscc or its designatcd agent is strictly prohibited. 3 3 8 Z",
+  "sec": 10.379995584487915,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_15": {
+  "text": "/±2/ 1#:3ZFA21245U48UU DFW1046  UU2/UUf DAVISPOLK&WARDWELL Fax Transmittal Sender 450LexingtonAvenue CharlesDuggan NewYork,NY10017 Date NurnberofPages (this page included) 212-450-4000 November12,1999 6 Sender VoiceNumber If problems receiving thisfax,call 212-450-4785 212-450-4785 Sender Fax Number Reference 212-450-3785 17555-002 To Fax Number Company Recipient Phonc Number Thomas M. Sobol 617-439-3278 BrownRudnickFreed617-330-9000 &Gesmer Joseph F.Rice 843-720-9290 Ness,Motley, 843-720-9000 Loadholt, Richardson& Poole RobertV.Costello 617-722-0286 Schneider,Reilly, 617-227-7500 Jeffrey D.Woolf Zabin & Costello Richard M.Heimann 415-956-1008 Lieff,Cabraser& 415-956-1000 Heimann Michael P.Thornton 617-720-2445 Thomton,Early & 617-720-1333 Naumes Message: 8 3 5 5 3 3 了 3 Cotydli rtdfiiiy d piease motify us zamedistely by telephome ad retun the fecsinzileby mail.",
+  "sec": 980.2463660240173,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_16": {
+  "text": "WA Fee-Pary 01/14/9918:36 FAX 2066230594 HAGENS BERHAN 001/037 HAGENS BERMAN Altorneya utLaw 1301FITHAvENUE,SUIYEagoSEATTLE,WA8101 TELEPH0N& (2o6) 623-72g2 · FACS1M1LE (206) 6a3-0594 FACSIMILE COVERSHEET Date: January 14, 1999 From: SteveW.Berman FileNo.: 1129.01 Re: Tobacco-FeePayment Agreement and Release COMMENTS: Recipient(s): Company: Fax No.: Mr. Meyer G.Koplow Wachtell, Lipton,Rosen (212)403-1000 (212) 403-2000 &Katz Mr. Arthur F. Golden Davis, Polk & Wardwell (212) 450-4000 (212) 450-4800 Mr. Martin Barrington Philip Morris Inc. (917) 663-5399 Mr. F. Anthony Burke Brown & Williamson (502) 568-7297 Tobacco Corp. Mr. Ronald Milstein Lorillard Tobacco Co. (336) 335-7707 Mr. Charles A. Blixt R.J. Reynolds Tobacco (336) 741-2998 Co. Mr. Stephen R. Patton Kirkland & Ellis (312) 861-2000 (312) 861-2200 Urgent! Deliver Immediately. Please callthe Support Center at (206) 268-9312 or at ext. ifyou do not receive all of these pages or if there is a problem. 8 3 Thinsfsnypdyft 5 tinividlrhddyatdtlynnlfdlig ndn vil9r 3 atsaeittalTh 2 8 AFROFESSIONAL SERVICE CPORATION 2",
+  "sec": 21.943360567092896,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_17": {
+  "text": "09/22/97 7MON 15:35 FAX 12124554900 ROPER STARCH WORLDWII 001 R_O.P.E.R S\"T'A\"R\"C\"H TURNINE PATA INTO INTELLIOENCE WONLDWIDE Fax Fax Fax Fax Fax Fax Fax Fax Fax Date: September 22,1997 To: Ron Milstein From: “JJ\"Klen Company: Lorillard Fax Number: (910) 335-7707 Pages (including cover page): 8 6 9 3 6 Roper StarchWordwide nc. Roper Marketing and Public Opinion Researnh New York NY 10017 SiachAdverngandMdReh 2125590700Tel 212867 7008 Fox Friedinan Marken Senes INRA Wond Hesdquarters",
+  "sec": 11.773180723190308,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_18": {
+  "text": "FEB 25 '98 18:23 FR 128557*882#P.01 FAXTRANSMISSION DICKSTEIN SHAPIRO MORINe OSHINSKY LP DATE: Fcbruary 25,1998 CLIENT NO.: L8557.002 MESSAGETO:Ronald S.Milstcin COMPANY: LorillardTobaccoCompany FAXNUMBER:910/335-7707 PHONE: 910/335-7718 FROM: Andy Zausner PHONE: 202/828-2259 PAGES(Including Cover Sheet):12_HARD COPYTO FOLLOW: YES NO MESSAGE: Sec attached faxfrom the Committee on Commerce just received in my officc. Call me to discuss. If yourreceiptfthisransmissionisinerrorpleasenotilfythisfimmdiatly collect call to our Facsimile Department at 202-861-9106, and send the original transmission to us by rctum mail at thc address below. This trnmission is intd frthe sole scof the individual and cntity to whm itis adressed, and mayconininhtsigidntnmmdiseudliab Iw.Yuaebyidaydisminindibndlnftismisiy somcone other than the intended addrese orits designated agent is strictly prohibited. 8 CN 乙 6 8 2101 L Street NW Washington, DC 20037-1528Tel 202-785-9700 Fax 202-887-0689",
+  "sec": 18.607364416122437,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_19": {
+  "text": "CORP LEGAL P.1/6 887 Madison Avenue, New York, N.Y. 10021-8087 (212) 545-2920 Fax (212) 935-6801 Senior Vice Presicent Secretary &General Counssl EAX DATE: June 4,1997 TO: Dr. Spears/A.J. Stevens/R. Milstein FROM: Barry Hirsch TOTALNUMBEROFPAGESINCLUDINGTHISCOVERSHEET-6 IFYOUDONOTRECEIVEALLTHEPAGES,PLEASECALL CAROLD0KTORSKIAT(212)545-2934. OUR FAX NUMBER IS (212) 935-6801. THIETRANSMISSIO16IMTZDSD ONLY POR TE USS OP TB DNDIVIOGAL CR EMEITY O WEOMIT ISAODR28SD,AND HAY YOOARMOTTSINTNDDRZCIPIDRTYOUARBYNOTIVIEDTIOTANYDIEHOOTIOHDI9AISUTIONORCOPYNG CONTAININPORUATIONTHAT16PRIVILDGEDCONPIDNRLALADEIP VRONDISCLOSOREUNERAPLICABLELNTP 8 CF THIS COMMONICATIONI8 EERICTLYPROHIBITRD.IP YOU MAVS RZCZIVEDTIS COHMNIOHTION DNYRROR.PLRAS2 M NOTIPY US IPEDIATRLY DY TSLSVHCNE AN RETURN THB ORIGINAL YESAGB TO TG AT TIE ABOVE ADDRBSS VIA TE U.S. 9 POSTAL SRRVICE. TONK YOU. 5 6 3 5",
+  "sec": 11.491721630096436,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_2": {
+  "text": "COMPETITIVEPRODUCTINTRODUCTION PROGRESSREPORT :01 SamZolot MANUFACTURER: B&W FROM: D.J. Landro BRAND: Kool Waterfall DATE: 2-Dec-97 TYPE OFPACKINGS: All Packings REPORTINGPERIODS: Oct. Nov.X Dec. Jan. TESTMARKETGEOGRAPHY: Divisions 621and627 PRICE POINT: FULLS PIV$ (IndicateDistributor's CostPer Carton) SALESFORCEINVOLVEMENT: Theyhavecrewworkeddistributionnditsreporedthattheymaycrwworkitagain.Salesforcehasbenbusy promoting old style packsto clean up inventory.AllPOSisbeing converted toBKool DISTRIBUTORS-ACCEPTANCE/INTROTERMS/INTRODEALS/INVOLVEMENT: All accounts have the newpackaging.It was not a problem obtainingnew distribution.All accounts appear to have 100% distribution of new packings. CHAINS-ACCEPTANCE/MERCHANDISING: This has not been a problem. New packaging is just following up on the old \"packaging\". INDEPENDENTS-ACCEPTANCE/MERCHANDISING: Very wellreceived.The old packs are bcing consolidated and promoted in select retailocations at 40g off/S4.00 off cartons. 8 ADVERTISING-EFFECTIVENESSOFP.O.S. 乙 The theme B Kool has replaced all previous POS.They have effectively replaced all old POS. New 5 doorsignageousignsostermatsandclockshavethenewdesign.BKoolaloaearsnbilboars 0 in llinois. 3 7 PAGE 1 OF 2",
+  "sec": 13.694578886032104,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_3": {
+  "text": "11/05/97 11:03 813884 0663 LORILLARD_TAXPA_*+→GREENSBOR 002/003 RetailExcelProgressReport Submission for: July 31 Distribution by/to: DM to RSM 1st of Month August 29 () To: R.W.Caldarella RSM to R.W.C. 10th September 30() CC: D.O.S. October 31 (×) From: Kent B.Mills Ncvember 28（) December 30（） Area:5 Region:17 Acceptance/Response: What is the retailers response to Lorillard's Excel Merchandising plan? Chains: This program has been successfulto date with chains where our \"Elex Payment was not in place.The_chains. where we wereusing the\"Flex Payment” system.we have not been as successful_TheP.Q.S.requirements of the P-1Plan withQil Companies is difficulto.obtain Independents: AdditionalP.V.merchandisinglsbeing.securedquickly. Additional monieshave assistedReqion17infightingPMExclusivesandPM/RJR co-existence situations. HardwareEvaluation/Effectiveness:Commenton theassembly of displays and application of shields: The displays are easily assembled and durable.Some questions have been raised conceming.the inability tobefush with the.counterand/or.upagainst.theregister As.wellas.the abilityto.place thlsontheBackBarifthe setlementgoesthrough PemmanentAdvertising Evaluation/Effectiveness/Acceptance:(P-1/P-5&C-5 Plans Only: Notavailableat.thistime. 8 乙 2 5 5 0",
+  "sec": 13.598964214324951,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_4": {
+  "text": "TO: K. A. Sparrow SSIONDATE FROM: D. J. Landro MAY12 AUG 4 JUN 23X SEP15 SUBJECT: OLD GOLD MENTHOLLIGHTS&ULTRA LIGHTS 100'S -PROGRESS REPORT GEOGRAPHY REGION: (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE) DIVISION: DIVISION NAME: Miw.South_DIVISIONNAME: #REP DIVISION NAME: Milw.North_DIVISIONNAME: #REP 7 DIVISION NAME: DIVISION NAME: #REPS DISTRIBUTION DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S IND/LOR NO.OF IND/LOR NO.OF NAMEOFACCOUNT VOLUME STORES NAMEOFACCOUNT VOLUME STORES Walgreen Drug 144/14 8 乙 5 乙 6 5 9 OLOGOLD.XLS Page1of3Pages",
+  "sec": 7.690601110458374,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_5": {
+  "text": "12/10/36 09:51 317 8450971 LORILLARD 001/002 F COMPETITIVEPRODUCTINTRODUCTION PROGRESSREPORT TO: MRS. K.A. SPARROW MANUFACTURER:R.J.Reynolds FROM:R.G.Ryan BRAND:Camel Menthol DATE: 12/10/96 TYPEOFPACKINGS:FullFlavorBoxandLightBox REPORTINGPERIODS: AUG SEPT OCT NOV (Forward by the10th of the followingmonth.) TESTMARKETGEOGRAPHY: All of Region 7. PRICEPOINT: FULL$11.89 PN$ (indicateDistributor'sCostPer Carton) SALESFORCEINVOLVEMENT:Merchandising the toptray of permanent counter displays and labeling carton fixtures in the Camel section.Also placing metai signs and temporary counter displays. DISTRIBUTORS-ACCEPTANCE/INTROTERMS/INTRODEALS: Product isbeing introduced to all DirectAccounts in theRegion.Acceptance is spoltty at thistime. DISTRIBUTORINVOLVEMENT: Assembly of promotional products andshipment toretailIndianapofis DirectAccounts arereportedto be receiving 81G1F product. CHAINS-ACCEPTANCE/MERCHANDISINGALLOWANCE Chain acceptance has been very good. INDEPENDENTS-ACCEPTANCE/MERCHANDISINGALLOWANCE Acceptanceisbetterat highvolume locationsthanat lowervolumeretailcalls. 82253058 CAMEL.WK1/FMT PAGE1 OF 2",
+  "sec": 10.775988101959229,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_6": {
+  "text": "TO: K. A. Sparrow SUBMISSIONDATE FROM: R. E. Lane JUNE 30 X SEP 22] AUG 11 NOV 10 SUBJECT: STYLE LOW PRICE - PROGRESS REPORT EFFECTIVENESSOFTransitionPlan (Report on June 30 only) PRE-SELL Overall pre-sell efforts were successful.Retall accounts that previously stocked Style Full Price accepted the introduction of the low price. BIGIF / 2 FOR 1: Proved tobe an excellent toolforpuling thebalanceofStyleFullPrice packs through the system. This aided the field greatly during the transition. $7.00 CARTON COUPON/BUYDOWN: Effective in those retail calls that we could not exchange product out of. Those situations were limited. DISTRIBUTION DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15 + STORES) STOCKING NO LOW PRICE STYLE INDILOR ON IND/LOR ON NAMEOFACCOUNT VOLUME STORES NAMEOFACCOUNT VOLUME STORES M.Maskos &Sons Pollock Candyand Cigar McKeesport Candy Co. Sico Servs 104/22 18 Sheetz 521/42 150 Thrift/Eckerd 137/20 183 DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION {15 +STORES)STOCKING NO LOW PRICE STYLE IND/LORNO.OF IND/LOR NO.OF NAME OFACCOUNT VOLUME STORES NAME OF ACCOUNT VOLUME STORES Kroger 21 RichOil 82 Super America 106 CVS 87 WHSmith 5 8 7-11318Zon 23 亿 2 Dairy Marts 35 5 WidmanDrugs 43 3 2 4 5 STYLE.XLS Page1of 3Pages",
+  "sec": 14.216694116592407,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_7": {
+  "text": "TO: K. A. Sparrow SUBMISSIONDATE FROM: J. L. MeGinris MAY 19  AUG 11  JUN 30 SEP 22  SUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT GEOGRAPHY. REGION: FULLX PARTIAL (ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE) :NOISIAIO FULL PARTIAL DIVISION NAME: DIVISION NAME: REPS DIVISION NAME: DIVISION NAME: #REPS DIVISION NAME; _DIVISION NAME: #REPS DISTRIBUTION DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15+STORES) STOCKING NOMAVERICK SPECIALSMENTHOL IND/LOR NO.OF INDILOR NO.OF NAME OF ACCOUNT VOLUME STORES NAMEOFACCOUNT VOLUME STORES Don & Bens 26/2 20 Sac NPao 75/2 27 Western Beverage 42/2 15 ACO/Texaco /96 15 Speedy Stop 106/4 29 Lone Star 76/3 37 Get-N-Go 62/2 44 17 Albertson's - Houston 319/16 34 Mini Mert 65/3 15 Nears One Stop 69/3 20 Shopper Mart 80/4 22 DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE_REGION (15+STORES)STOCKINGNOMAVERICKSPECIALSMENTHOL INDLOR OON INDILOR NO.OF NAMEOFACCOUNT VOLUME STORES. NAMEOFACCOUNT VOLUME. STORES Chevron ？ 115 Brooksire Bro's ？ 38 Eckerd Drugs -S. Texas ？ 217 Exxon ？ 38 Philld's 66 ？ 27 Star Enterprise ？ Walgreen's ？ 177 8 2 2 5 3 3 9 MAVPROG9.XLS Page1 of3Pages",
+  "sec": 16.823772430419922,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_8": {
+  "text": "TO: K.ASPARROW DATE TO NYO: 1/24/97 FROM: S.Reindel DIV.NAME /NO: Nassau/107 1997SPECIALEVENTREQUESTFORM NAME OF EVENT: H.Levinson Tradeshow *DATE OF EVENT: 3/18/97 SAMPLES/ITEMSREQUIRED: SAMPLE 10'S (400 PACKS PER CASE) #CASES NEWPORTK.S. KENT III KS. KENT GL LTS K.S. NEWPORT100'S KENT III 100 KENT GL 100 NEWPORTLTS.K.S. TRUEKS. NEWPORTLTS.100 KENTK.S. KENT 100 ITEMS QUANTTTY REQUIRED BASEBALL CAP 1500 WATERBOTTLES 500 SHIP TO: CUSTOMERSHIPPING NUMBER 198-1160006 8 NYO ONLY: 2 DATE FORWARDEDTO PROMOTION SERVICES: 9 S *PLEASEALLOW 6WEEKS FORPROCESSING OFYOUR REQUEST. REQFORM 01/17/97",
+  "sec": 8.178799867630005,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_9": {
+  "text": "CASE FORM CASE NAME: Wanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al. COURT: SanFrancisco Superior Court-No.996378 LORILLARD ENTITIES: Lorillard Tobacco Company DATE FILED: July 23, 1998 DATE SERVED: August 3, 1998 CASE TYPE: Asbestos PLAINTIFF'S COUNSEL: Wartnick,Chaber,Harowitz,Smith&Tigerman Madelyn J.Chaber 101 California Street,Suite 2200 San Francisco,California 94111 415/986-5566 LORILLARD COUNSEL: JUDGE: TRIAL DATE: 8 2 94624999 6 2 5 9",
+  "sec": 7.5288896560668945,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "handwritten/hin_0": {
+  "text": "fd",
+  "sec": 3.370814085006714,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_1": {
+  "text": "d",
+  "sec": 2.011307954788208,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_10": {
+  "text": "fel",
+  "sec": 2.342522144317627,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_11": {
+  "text": "",
+  "sec": 2.4922173023223877,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_12": {
+  "text": "",
+  "sec": 2.0390820503234863,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_13": {
+  "text": "A",
+  "sec": 2.9493560791015625,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_14": {
+  "text": "",
+  "sec": 2.790541410446167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_15": {
+  "text": "1#",
+  "sec": 5.8392040729522705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_16": {
+  "text": "24",
+  "sec": 1.7116260528564453,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_17": {
+  "text": "",
+  "sec": 2.970721483230591,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_18": {
+  "text": "",
+  "sec": 2.6992759704589844,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_19": {
+  "text": "#B",
+  "sec": 5.237777948379517,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_2": {
+  "text": "",
+  "sec": 4.11506199836731,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_20": {
+  "text": "",
+  "sec": 2.666567325592041,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_21": {
+  "text": "S SUll",
+  "sec": 6.2491161823272705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_22": {
+  "text": "",
+  "sec": 6.814934968948364,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_23": {
+  "text": "",
+  "sec": 6.870822429656982,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_24": {
+  "text": "",
+  "sec": 4.0996763706207275,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_25": {
+  "text": "",
+  "sec": 5.980348587036133,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_26": {
+  "text": "",
+  "sec": 3.647761106491089,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_27": {
+  "text": "d2",
+  "sec": 5.373523235321045,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_28": {
+  "text": "24",
+  "sec": 4.005293369293213,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_29": {
+  "text": "",
+  "sec": 4.643295049667358,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_3": {
+  "text": "",
+  "sec": 12.487205505371094,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_4": {
+  "text": "e1CPR1",
+  "sec": 11.071841478347778,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_5": {
+  "text": "37707",
+  "sec": 8.75676679611206,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_6": {
+  "text": "2",
+  "sec": 13.71484899520874,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_7": {
+  "text": "P LGTT",
+  "sec": 7.444983959197998,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_8": {
+  "text": "",
+  "sec": 2.5246994495391846,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_9": {
+  "text": "ETRd",
+  "sec": 3.620314359664917,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_0": {
+  "text": "66",
+  "sec": 15.576809644699097,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_1": {
+  "text": "6 Gn 95甲",
+  "sec": 17.49162793159485,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_10": {
+  "text": "80140",
+  "sec": 7.626909255981445,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_11": {
+  "text": "G の",
+  "sec": 15.01710557937622,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_12": {
+  "text": "7 3",
+  "sec": 4.645742654800415,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_13": {
+  "text": "",
+  "sec": 3.134749412536621,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_14": {
+  "text": "",
+  "sec": 4.608255624771118,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_15": {
+  "text": "[3",
+  "sec": 4.132548809051514,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_16": {
+  "text": "",
+  "sec": 4.527702331542969,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_17": {
+  "text": "mm",
+  "sec": 3.546722650527954,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_18": {
+  "text": "",
+  "sec": 5.648333311080933,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_19": {
+  "text": "",
+  "sec": 3.183211326599121,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_2": {
+  "text": "子",
+  "sec": 2.5152056217193604,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_20": {
+  "text": "L",
+  "sec": 4.2978150844573975,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_21": {
+  "text": "",
+  "sec": 3.428194761276245,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_22": {
+  "text": "LA T LC",
+  "sec": 7.396013259887695,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_23": {
+  "text": "",
+  "sec": 3.066133975982666,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_24": {
+  "text": "16 U",
+  "sec": 5.416578054428101,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_25": {
+  "text": "C L",
+  "sec": 1.7094919681549072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_26": {
+  "text": "##",
+  "sec": 3.6606242656707764,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_27": {
+  "text": "",
+  "sec": 6.551643371582031,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_28": {
+  "text": "",
+  "sec": 7.29041600227356,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_29": {
+  "text": "",
+  "sec": 1.9117004871368408,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_3": {
+  "text": "Q Q Lnn",
+  "sec": 6.665464878082275,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_4": {
+  "text": "",
+  "sec": 2.317383289337158,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_5": {
+  "text": "b",
+  "sec": 2.3297219276428223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_6": {
+  "text": "13B",
+  "sec": 2.980949640274048,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_7": {
+  "text": "因历",
+  "sec": 5.353146076202393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_8": {
+  "text": "Lb P3 m L",
+  "sec": 10.460887432098389,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_9": {
+  "text": "2! n b",
+  "sec": 8.828199625015259,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_0": {
+  "text": "? Y",
+  "sec": 1.708127737045288,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_1": {
+  "text": "",
+  "sec": 1.0006377696990967,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_10": {
+  "text": "多",
+  "sec": 5.456466197967529,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_11": {
+  "text": "",
+  "sec": 3.7124686241149902,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_12": {
+  "text": "Pele 2 >",
+  "sec": 3.0029447078704834,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_13": {
+  "text": "",
+  "sec": 1.844937801361084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_14": {
+  "text": "",
+  "sec": 3.5933773517608643,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_15": {
+  "text": "",
+  "sec": 4.092280387878418,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_16": {
+  "text": "2",
+  "sec": 3.596665143966675,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_17": {
+  "text": "G P 9",
+  "sec": 2.8387973308563232,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_18": {
+  "text": "",
+  "sec": 1.8348500728607178,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_19": {
+  "text": "",
+  "sec": 4.3082170486450195,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_2": {
+  "text": "",
+  "sec": 1.463282585144043,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_20": {
+  "text": "",
+  "sec": 1.2349908351898193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_21": {
+  "text": "2",
+  "sec": 1.958078145980835,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_22": {
+  "text": "",
+  "sec": 2.873128652572632,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_23": {
+  "text": "",
+  "sec": 5.410452127456665,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_24": {
+  "text": "",
+  "sec": 4.699891090393066,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_25": {
+  "text": "",
+  "sec": 1.2657711505889893,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_26": {
+  "text": "",
+  "sec": 1.8686063289642334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_27": {
+  "text": "",
+  "sec": 3.478975772857666,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_28": {
+  "text": "T",
+  "sec": 2.8741939067840576,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_29": {
+  "text": "",
+  "sec": 3.6790876388549805,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_3": {
+  "text": "",
+  "sec": 1.5200145244598389,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_30": {
+  "text": "",
+  "sec": 3.0586793422698975,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_31": {
+  "text": "G 3",
+  "sec": 2.964658737182617,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_32": {
+  "text": "",
+  "sec": 3.483457565307617,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_33": {
+  "text": "M",
+  "sec": 2.395378828048706,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_34": {
+  "text": "",
+  "sec": 1.8278720378875732,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_35": {
+  "text": "anGBia",
+  "sec": 2.483933925628662,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_4": {
+  "text": "",
+  "sec": 1.8054263591766357,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_5": {
+  "text": "S Z",
+  "sec": 3.254790782928467,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_6": {
+  "text": "b 3 m",
+  "sec": 4.192469596862793,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_7": {
+  "text": "22.9",
+  "sec": 2.5829050540924072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_8": {
+  "text": "司",
+  "sec": 2.277651071548462,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_9": {
+  "text": "n",
+  "sec": 4.008712530136108,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_0": {
+  "text": "",
+  "sec": 2.415529489517212,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_1": {
+  "text": "",
+  "sec": 2.4380593299865723,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_10": {
+  "text": "dUl.",
+  "sec": 2.339473247528076,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_11": {
+  "text": "E",
+  "sec": 2.812626361846924,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_12": {
+  "text": "",
+  "sec": 1.4597241878509521,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_13": {
+  "text": "C",
+  "sec": 4.2160961627960205,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_14": {
+  "text": "",
+  "sec": 1.4760925769805908,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_15": {
+  "text": "",
+  "sec": 2.35554838180542,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_16": {
+  "text": "",
+  "sec": 2.0088629722595215,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_17": {
+  "text": "",
+  "sec": 1.4169540405273438,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_18": {
+  "text": "",
+  "sec": 1.2744286060333252,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_19": {
+  "text": "",
+  "sec": 3.2241902351379395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_2": {
+  "text": "",
+  "sec": 1.8048577308654785,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_20": {
+  "text": "S",
+  "sec": 1.8760161399841309,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_21": {
+  "text": "",
+  "sec": 3.3116257190704346,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_22": {
+  "text": "",
+  "sec": 2.117884397506714,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_23": {
+  "text": "S",
+  "sec": 2.043614625930786,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_24": {
+  "text": "",
+  "sec": 1.5117206573486328,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_25": {
+  "text": "9 ICEK",
+  "sec": 1.06754469871521,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_26": {
+  "text": "D ORYOlO",
+  "sec": 1.3637709617614746,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_27": {
+  "text": "",
+  "sec": 1.5880887508392334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_28": {
+  "text": "D",
+  "sec": 1.2175874710083008,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_29": {
+  "text": "",
+  "sec": 2.073847770690918,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_3": {
+  "text": "",
+  "sec": 2.1372883319854736,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_30": {
+  "text": "2",
+  "sec": 2.7398674488067627,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_31": {
+  "text": "D K 20",
+  "sec": 2.16868257522583,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_32": {
+  "text": "U",
+  "sec": 1.52585768699646,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_33": {
+  "text": "9552017 9",
+  "sec": 4.1633827686309814,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_34": {
+  "text": "S 6g",
+  "sec": 1.021648645401001,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_35": {
+  "text": "",
+  "sec": 1.77195405960083,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_4": {
+  "text": "",
+  "sec": 1.3405864238739014,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_5": {
+  "text": "28",
+  "sec": 1.9894976615905762,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_6": {
+  "text": "",
+  "sec": 1.2571899890899658,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_7": {
+  "text": "人 m 2",
+  "sec": 2.6435117721557617,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_8": {
+  "text": "C S",
+  "sec": 1.7775070667266846,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_9": {
+  "text": "S",
+  "sec": 1.9188809394836426,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_0": {
+  "text": "",
+  "sec": 3.2129833698272705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_1": {
+  "text": "C",
+  "sec": 1.1576411724090576,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_10": {
+  "text": "d YO",
+  "sec": 1.186431646347046,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_11": {
+  "text": "女",
+  "sec": 2.683184862136841,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_12": {
+  "text": "Babes",
+  "sec": 1.9517097473144531,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_13": {
+  "text": "",
+  "sec": 2.612302541732788,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_14": {
+  "text": "",
+  "sec": 1.0773828029632568,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_15": {
+  "text": "2 J6 6",
+  "sec": 3.5969951152801514,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_16": {
+  "text": "Aodins",
+  "sec": 1.5692813396453857,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_17": {
+  "text": "",
+  "sec": 2.010969400405884,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_18": {
+  "text": "",
+  "sec": 2.3502120971679688,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_19": {
+  "text": "",
+  "sec": 1.4531559944152832,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_2": {
+  "text": "",
+  "sec": 1.5864183902740479,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_20": {
+  "text": "",
+  "sec": 1.78179931640625,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_21": {
+  "text": "",
+  "sec": 2.9414658546447754,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_22": {
+  "text": "",
+  "sec": 0.7918806076049805,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_23": {
+  "text": "3",
+  "sec": 0.9569649696350098,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_24": {
+  "text": "",
+  "sec": 1.025853157043457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_25": {
+  "text": "r",
+  "sec": 1.5651123523712158,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_26": {
+  "text": "",
+  "sec": 1.479475975036621,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_27": {
+  "text": "edw",
+  "sec": 3.4743285179138184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_28": {
+  "text": "",
+  "sec": 1.0257458686828613,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_29": {
+  "text": "",
+  "sec": 1.8816356658935547,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_3": {
+  "text": "?",
+  "sec": 1.26580810546875,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_30": {
+  "text": "",
+  "sec": 1.1471047401428223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_31": {
+  "text": "",
+  "sec": 1.239649772644043,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_32": {
+  "text": "ey 20 2",
+  "sec": 3.576690673828125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_33": {
+  "text": "",
+  "sec": 1.2550818920135498,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_34": {
+  "text": "",
+  "sec": 0.8159244060516357,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_35": {
+  "text": "W 87",
+  "sec": 4.379892110824585,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_4": {
+  "text": "33",
+  "sec": 2.9289169311523438,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_5": {
+  "text": "",
+  "sec": 0.8013670444488525,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_6": {
+  "text": "3",
+  "sec": 0.9954161643981934,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_7": {
+  "text": "e a",
+  "sec": 1.056673288345337,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_8": {
+  "text": "",
+  "sec": 0.7312302589416504,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_9": {
+  "text": "",
+  "sec": 0.9387726783752441,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_0": {
+  "text": "",
+  "sec": 1.32102370262146,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_1": {
+  "text": "admo. e",
+  "sec": 1.5446584224700928,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_10": {
+  "text": "m 1g",
+  "sec": 0.8423616886138916,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_11": {
+  "text": "6",
+  "sec": 1.5454156398773193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_12": {
+  "text": "",
+  "sec": 1.4907333850860596,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_13": {
+  "text": "808",
+  "sec": 0.9963092803955078,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_14": {
+  "text": "teacher",
+  "sec": 0.8729617595672607,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_15": {
+  "text": "C om 3",
+  "sec": 1.055450439453125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_16": {
+  "text": "",
+  "sec": 0.8477463722229004,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_17": {
+  "text": "",
+  "sec": 0.9774577617645264,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_18": {
+  "text": "3 3",
+  "sec": 1.4066309928894043,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_19": {
+  "text": "3号 133",
+  "sec": 2.221965789794922,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_2": {
+  "text": "",
+  "sec": 5.5487751960754395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_20": {
+  "text": "2",
+  "sec": 1.1036310195922852,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_21": {
+  "text": "",
+  "sec": 0.8595964908599854,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_22": {
+  "text": "",
+  "sec": 1.6345808506011963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_23": {
+  "text": "",
+  "sec": 0.6517200469970703,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_24": {
+  "text": "aarm",
+  "sec": 2.8328161239624023,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_25": {
+  "text": "",
+  "sec": 1.436279058456421,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_26": {
+  "text": "",
+  "sec": 1.5490853786468506,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_27": {
+  "text": "",
+  "sec": 3.310570001602173,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_28": {
+  "text": "",
+  "sec": 0.8400497436523438,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_29": {
+  "text": "",
+  "sec": 0.7145218849182129,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_3": {
+  "text": "③006 1000",
+  "sec": 3.4447314739227295,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_30": {
+  "text": "G",
+  "sec": 2.4153783321380615,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_31": {
+  "text": "",
+  "sec": 2.768744468688965,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_32": {
+  "text": "",
+  "sec": 1.1643822193145752,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_33": {
+  "text": "",
+  "sec": 1.0412912368774414,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_34": {
+  "text": "&)3",
+  "sec": 0.818178653717041,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_35": {
+  "text": "",
+  "sec": 1.2957677841186523,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_4": {
+  "text": "0",
+  "sec": 0.710395097732544,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_5": {
+  "text": "",
+  "sec": 0.9346590042114258,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_6": {
+  "text": "S V",
+  "sec": 1.434276819229126,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_7": {
+  "text": "3",
+  "sec": 1.4590282440185547,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_8": {
+  "text": "",
+  "sec": 0.917837381362915,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_9": {
+  "text": "e",
+  "sec": 1.7606313228607178,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_0": {
+  "text": "7 8 B2",
+  "sec": 1.333204746246338,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_1": {
+  "text": "",
+  "sec": 1.3010826110839844,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_10": {
+  "text": "",
+  "sec": 0.797398567199707,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_11": {
+  "text": "30 了",
+  "sec": 1.8484277725219727,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_12": {
+  "text": "",
+  "sec": 0.9264721870422363,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_13": {
+  "text": "",
+  "sec": 0.7461912631988525,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_14": {
+  "text": "kogg",
+  "sec": 1.209834098815918,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_15": {
+  "text": "9",
+  "sec": 0.9748396873474121,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_16": {
+  "text": "",
+  "sec": 1.1364378929138184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_17": {
+  "text": "",
+  "sec": 1.2096996307373047,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_18": {
+  "text": "ac h",
+  "sec": 4.364951133728027,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_19": {
+  "text": "",
+  "sec": 1.3428730964660645,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_2": {
+  "text": "K D R",
+  "sec": 1.7876458168029785,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_20": {
+  "text": "m LA",
+  "sec": 1.9263591766357422,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_21": {
+  "text": "",
+  "sec": 1.7944457530975342,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_22": {
+  "text": "",
+  "sec": 0.9715008735656738,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_23": {
+  "text": "abo S 5",
+  "sec": 1.4410326480865479,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_24": {
+  "text": "2 5",
+  "sec": 0.8990626335144043,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_25": {
+  "text": "",
+  "sec": 1.2364797592163086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_26": {
+  "text": "C",
+  "sec": 1.250432014465332,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_27": {
+  "text": "",
+  "sec": 0.6560056209564209,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_28": {
+  "text": "m",
+  "sec": 1.0736215114593506,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_29": {
+  "text": "Lob6o",
+  "sec": 1.026371717453003,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_3": {
+  "text": "",
+  "sec": 0.7262566089630127,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_30": {
+  "text": "",
+  "sec": 3.7534289360046387,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_31": {
+  "text": "Excel",
+  "sec": 4.056505918502808,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_32": {
+  "text": "r3 9",
+  "sec": 1.7740323543548584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_33": {
+  "text": "",
+  "sec": 0.7014875411987305,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_34": {
+  "text": "9 8",
+  "sec": 0.9260172843933105,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_35": {
+  "text": "C e 11",
+  "sec": 2.1989998817443848,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_4": {
+  "text": "m",
+  "sec": 1.9297823905944824,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_5": {
+  "text": "5 4",
+  "sec": 1.7523517608642578,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_6": {
+  "text": "@",
+  "sec": 1.280151128768921,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_7": {
+  "text": "8",
+  "sec": 0.943047046661377,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_8": {
+  "text": "",
+  "sec": 0.894629955291748,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_9": {
+  "text": "a",
+  "sec": 1.5421972274780273,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_0": {
+  "text": "",
+  "sec": 1.5364985466003418,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_1": {
+  "text": "",
+  "sec": 0.7535030841827393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_10": {
+  "text": "",
+  "sec": 1.1157028675079346,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_11": {
+  "text": "",
+  "sec": 1.9663450717926025,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_12": {
+  "text": "",
+  "sec": 5.644200801849365,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_13": {
+  "text": "",
+  "sec": 1.8524632453918457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_14": {
+  "text": "Cafoe C",
+  "sec": 1.1390256881713867,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_15": {
+  "text": "",
+  "sec": 4.196374893188477,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_16": {
+  "text": "fiaef 3al..",
+  "sec": 1.873565673828125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_17": {
+  "text": "epgetl cr细 T e c pla ol和",
+  "sec": 2.4322097301483154,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_18": {
+  "text": "",
+  "sec": 7.374788999557495,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_19": {
+  "text": "",
+  "sec": 2.487166166305542,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_2": {
+  "text": "",
+  "sec": 2.947092056274414,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_20": {
+  "text": "Ily P C",
+  "sec": 1.6746504306793213,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_21": {
+  "text": "",
+  "sec": 2.7524619102478027,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_22": {
+  "text": "",
+  "sec": 4.557949066162109,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_23": {
+  "text": "CA",
+  "sec": 2.1790642738342285,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_24": {
+  "text": "",
+  "sec": 4.890003204345703,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_25": {
+  "text": "上",
+  "sec": 2.5977258682250977,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_26": {
+  "text": "",
+  "sec": 3.0833208560943604,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_27": {
+  "text": "",
+  "sec": 2.2565081119537354,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_28": {
+  "text": "",
+  "sec": 2.9786176681518555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_29": {
+  "text": "AG GGN NG",
+  "sec": 3.2350988388061523,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_3": {
+  "text": "A",
+  "sec": 2.151324987411499,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_4": {
+  "text": "S 8",
+  "sec": 2.8403782844543457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_5": {
+  "text": "",
+  "sec": 3.1905834674835205,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_6": {
+  "text": "",
+  "sec": 7.9135901927948,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_7": {
+  "text": "",
+  "sec": 2.4659030437469482,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_8": {
+  "text": "一",
+  "sec": 1.2775859832763672,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_9": {
+  "text": "",
+  "sec": 4.341206312179565,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_0": {
+  "text": "-l 53",
+  "sec": 4.260014295578003,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_1": {
+  "text": "Rel E125",
+  "sec": 1.5009491443634033,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_10": {
+  "text": "Qkil n rigld zrni aaael e",
+  "sec": 2.9198949337005615,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_11": {
+  "text": "Guidreli ud sHeRi dsa yoad sa d",
+  "sec": 2.941962957382202,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_12": {
+  "text": "SRl:  0:",
+  "sec": 4.325763463973999,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_13": {
+  "text": "HEE3",
+  "sec": 3.155745267868042,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_14": {
+  "text": "SROL 63",
+  "sec": 4.277483701705933,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_15": {
+  "text": "GuRl s us uR uRP % aR HIEo",
+  "sec": 2.2254934310913086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_16": {
+  "text": "",
+  "sec": 2.546492099761963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_17": {
+  "text": "susi elide",
+  "sec": 1.8311364650726318,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_18": {
+  "text": "2121 RSER 0129",
+  "sec": 4.329383134841919,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_19": {
+  "text": "ld ulsulsal Q(sl.",
+  "sec": 6.590841054916382,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_2": {
+  "text": " eal @aiya yRlt 2,",
+  "sec": 2.4727835655212402,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_20": {
+  "text": "\"alddl eRusisH 1e2i  11",
+  "sec": 8.157418251037598,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_21": {
+  "text": "2.",
+  "sec": 1.2201783657073975,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_22": {
+  "text": "Fazdaui Rai.",
+  "sec": 1.9883394241333008,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_23": {
+  "text": "RHeRRdI",
+  "sec": 3.7236359119415283,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_24": {
+  "text": "clenl.",
+  "sec": 0.8431415557861328,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_25": {
+  "text": "",
+  "sec": 1.925553560256958,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_26": {
+  "text": "ineo",
+  "sec": 0.8667190074920654,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_27": {
+  "text": "\"hOo d yn@a ise  niui",
+  "sec": 2.7624824047088623,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_28": {
+  "text": "GEISRU!.'",
+  "sec": 1.3728368282318115,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_29": {
+  "text": "3dcallziusHi",
+  "sec": 2.9221255779266357,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_3": {
+  "text": "zilad ald Guaed dsj eldd ?.",
+  "sec": 2.5311665534973145,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_4": {
+  "text": "17280 HS 9",
+  "sec": 5.931884765625,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_5": {
+  "text": "1gt1c",
+  "sec": 1.0243113040924072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_6": {
+  "text": "",
+  "sec": 3.2157301902770996,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_7": {
+  "text": "sil Il.",
+  "sec": 2.0815508365631104,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_8": {
+  "text": "QuIG  (HC HICRI S b1",
+  "sec": 2.843838930130005,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_9": {
+  "text": "",
+  "sec": 1.85438871383667,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_0": {
+  "text": "ne",
+  "sec": 1.7736704349517822,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_1": {
+  "text": "",
+  "sec": 1.7845361232757568,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_10": {
+  "text": "23 2",
+  "sec": 4.285194396972656,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_11": {
+  "text": "adng e",
+  "sec": 1.2444303035736084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_12": {
+  "text": "333 YG",
+  "sec": 1.4854202270507812,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_13": {
+  "text": "egoae a adnen 2",
+  "sec": 1.9526305198669434,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_14": {
+  "text": "",
+  "sec": 1.8795781135559082,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_15": {
+  "text": "92 e.",
+  "sec": 2.256282329559326,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_16": {
+  "text": "é306 6",
+  "sec": 2.2614829540252686,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_17": {
+  "text": "",
+  "sec": 3.346975564956665,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_18": {
+  "text": "e＆enne",
+  "sec": 3.428678035736084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_19": {
+  "text": "es&",
+  "sec": 0.9415745735168457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_2": {
+  "text": "",
+  "sec": 1.6090445518493652,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_20": {
+  "text": "",
+  "sec": 1.2312824726104736,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_21": {
+  "text": "",
+  "sec": 0.6316342353820801,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_22": {
+  "text": "gBnen hgpmsm'α pBo屁 mBg",
+  "sec": 1.924189567565918,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_23": {
+  "text": ".HD C.",
+  "sec": 1.2590889930725098,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_24": {
+  "text": "D",
+  "sec": 1.5358035564422607,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_25": {
+  "text": "aeeaee",
+  "sec": 3.4205734729766846,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_26": {
+  "text": "",
+  "sec": 2.5114805698394775,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_27": {
+  "text": "ead ne gn ?",
+  "sec": 2.2424490451812744,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_28": {
+  "text": "230aa.",
+  "sec": 1.77095365524292,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_29": {
+  "text": "Jobaulod&d Baid sodd doenad Jard",
+  "sec": 1.7327911853790283,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_3": {
+  "text": "00",
+  "sec": 7.74426531791687,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_4": {
+  "text": "Q2",
+  "sec": 2.0182299613952637,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_5": {
+  "text": "mcbpaanaopBdnnosnagnh33n",
+  "sec": 2.404087543487549,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_6": {
+  "text": "BEB",
+  "sec": 2.3921022415161133,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_7": {
+  "text": "",
+  "sec": 1.1506919860839844,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_8": {
+  "text": "7 qaagune 3",
+  "sec": 2.0261974334716797,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_9": {
+  "text": "e3",
+  "sec": 1.0320079326629639,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_0": {
+  "text": "Sdlaodleeoolo",
+  "sec": 2.055039405822754,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_1": {
+  "text": "mmoem =（",
+  "sec": 1.948789358139038,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_10": {
+  "text": "O1.",
+  "sec": 1.4864437580108643,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_11": {
+  "text": "",
+  "sec": 1.6378514766693115,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_12": {
+  "text": "",
+  "sec": 1.6614019870758057,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_13": {
+  "text": "",
+  "sec": 4.987216472625732,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_14": {
+  "text": "",
+  "sec": 1.4999771118164062,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_15": {
+  "text": "",
+  "sec": 1.2619948387145996,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_16": {
+  "text": "",
+  "sec": 1.2217378616333008,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_17": {
+  "text": "Co(mo0lm)",
+  "sec": 4.99873423576355,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_18": {
+  "text": "mm",
+  "sec": 4.156134366989136,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_19": {
+  "text": "nsegoo",
+  "sec": 2.0071840286254883,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_2": {
+  "text": "",
+  "sec": 1.8341102600097656,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_20": {
+  "text": "",
+  "sec": 4.148233413696289,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_21": {
+  "text": "(e@oul",
+  "sec": 4.094834566116333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_22": {
+  "text": "",
+  "sec": 1.891782522201538,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_23": {
+  "text": "",
+  "sec": 2.3750529289245605,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_24": {
+  "text": "",
+  "sec": 2.9477155208587646,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_25": {
+  "text": "99",
+  "sec": 1.2197513580322266,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_26": {
+  "text": "",
+  "sec": 1.6614656448364258,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_27": {
+  "text": " tepgutmeins Bnico.sgmleei \"Anc3'",
+  "sec": 1.567246437072754,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_28": {
+  "text": "",
+  "sec": 1.698481798171997,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_29": {
+  "text": "",
+  "sec": 1.6949350833892822,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_3": {
+  "text": "oilsm (eos.",
+  "sec": 1.7397418022155762,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_4": {
+  "text": "G",
+  "sec": 5.851600646972656,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_5": {
+  "text": "",
+  "sec": 2.3874919414520264,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_6": {
+  "text": "",
+  "sec": 1.0911214351654053,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_7": {
+  "text": "lo",
+  "sec": 1.2082645893096924,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_8": {
+  "text": "",
+  "sec": 1.9412524700164795,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_9": {
+  "text": "",
+  "sec": 4.587399482727051,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_0": {
+  "text": "",
+  "sec": 1.075749397277832,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_1": {
+  "text": "elh",
+  "sec": 2.0257070064544678,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_10": {
+  "text": "3 3     ",
+  "sec": 2.0685129165649414,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_11": {
+  "text": "",
+  "sec": 1.898834466934204,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_12": {
+  "text": "C",
+  "sec": 0.6432325839996338,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_13": {
+  "text": ", 3  3TTR",
+  "sec": 2.171335220336914,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_14": {
+  "text": "Ph",
+  "sec": 1.1840648651123047,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_15": {
+  "text": "GI VEIE PEIGIEI",
+  "sec": 4.715322017669678,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_16": {
+  "text": "",
+  "sec": 1.0520362854003906,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_17": {
+  "text": "HPE",
+  "sec": 1.1010184288024902,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_18": {
+  "text": "geRUt.",
+  "sec": 4.222923994064331,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_19": {
+  "text": "phhE",
+  "sec": 2.2176144123077393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_2": {
+  "text": "",
+  "sec": 4.787452459335327,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_20": {
+  "text": "",
+  "sec": 0.9577188491821289,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_21": {
+  "text": "",
+  "sec": 2.2935104370117188,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_22": {
+  "text": "",
+  "sec": 2.213960886001587,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_23": {
+  "text": "",
+  "sec": 2.954524040222168,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_24": {
+  "text": "",
+  "sec": 3.519605875015259,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_25": {
+  "text": "6",
+  "sec": 1.8969476222991943,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_26": {
+  "text": "aaf-ft). 复",
+  "sec": 1.6528165340423584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_27": {
+  "text": "",
+  "sec": 1.4514951705932617,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_28": {
+  "text": "HfeRfa.",
+  "sec": 4.014858245849609,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_29": {
+  "text": " 3 3.",
+  "sec": 1.8232336044311523,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_3": {
+  "text": "",
+  "sec": 1.8005785942077637,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_4": {
+  "text": "3Haa aai E   l.",
+  "sec": 1.6138429641723633,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_5": {
+  "text": "",
+  "sec": 0.6840212345123291,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_6": {
+  "text": "",
+  "sec": 1.9337878227233887,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_7": {
+  "text": "",
+  "sec": 1.8267860412597656,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_8": {
+  "text": "39 2ThdT.",
+  "sec": 4.416279554367065,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_9": {
+  "text": "",
+  "sec": 1.382028341293335,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_0": {
+  "text": "",
+  "sec": 1.2588140964508057,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_1": {
+  "text": "",
+  "sec": 2.272674322128296,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_10": {
+  "text": "   g",
+  "sec": 1.8219470977783203,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_11": {
+  "text": "",
+  "sec": 0.6846845149993896,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_12": {
+  "text": "",
+  "sec": 3.6176860332489014,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_13": {
+  "text": "",
+  "sec": 1.0213103294372559,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_14": {
+  "text": "",
+  "sec": 1.7951288223266602,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_15": {
+  "text": "forane",
+  "sec": 1.6203629970550537,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_16": {
+  "text": "",
+  "sec": 2.88649320602417,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_17": {
+  "text": "feafo",
+  "sec": 1.7268390655517578,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_18": {
+  "text": "",
+  "sec": 1.9269039630889893,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_19": {
+  "text": "",
+  "sec": 2.7655606269836426,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_2": {
+  "text": "pl  e kbe e g",
+  "sec": 1.8844783306121826,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_20": {
+  "text": "Beode caho dhae caho arag e a",
+  "sec": 1.3770904541015625,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_21": {
+  "text": ", 3i m f3M 可i   mgHT a",
+  "sec": 2.5861246585845947,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_22": {
+  "text": "",
+  "sec": 1.8728978633880615,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_23": {
+  "text": "250+",
+  "sec": 1.1959753036499023,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_24": {
+  "text": "",
+  "sec": 1.4621622562408447,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_25": {
+  "text": "",
+  "sec": 0.9789395332336426,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_26": {
+  "text": "P pB RH 2 2PK=",
+  "sec": 3.061953067779541,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_27": {
+  "text": "",
+  "sec": 3.3220696449279785,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_28": {
+  "text": "3h[s2HhkpE",
+  "sec": 1.6744017601013184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_29": {
+  "text": "",
+  "sec": 1.674814224243164,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_3": {
+  "text": "2021",
+  "sec": 1.7925331592559814,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_4": {
+  "text": "",
+  "sec": 1.3321940898895264,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_5": {
+  "text": "2021",
+  "sec": 1.66807222366333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_6": {
+  "text": "",
+  "sec": 3.029218912124634,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_7": {
+  "text": "",
+  "sec": 1.3017101287841797,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_8": {
+  "text": "EKPRE",
+  "sec": 2.5580568313598633,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_9": {
+  "text": "",
+  "sec": 2.2898924350738525,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_0": {
+  "text": "",
+  "sec": 3.4383792877197266,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_1": {
+  "text": "",
+  "sec": 1.8815217018127441,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_10": {
+  "text": "n",
+  "sec": 1.8634381294250488,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_11": {
+  "text": "",
+  "sec": 0.7602219581604004,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_12": {
+  "text": "",
+  "sec": 2.4806995391845703,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_13": {
+  "text": "",
+  "sec": 2.3124544620513916,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_14": {
+  "text": "",
+  "sec": 1.0415971279144287,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_15": {
+  "text": "11 S",
+  "sec": 0.8973846435546875,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_16": {
+  "text": "",
+  "sec": 4.543466567993164,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_17": {
+  "text": "d,",
+  "sec": 1.8665125370025635,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_18": {
+  "text": "Tgn-sge aSa asgong sce gge",
+  "sec": 1.727311372756958,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_19": {
+  "text": "",
+  "sec": 1.6611237525939941,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_2": {
+  "text": " ",
+  "sec": 1.9333393573760986,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_20": {
+  "text": "",
+  "sec": 1.3746089935302734,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_21": {
+  "text": "",
+  "sec": 2.196542263031006,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_22": {
+  "text": "",
+  "sec": 0.9133138656616211,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_23": {
+  "text": "oe",
+  "sec": 1.9873881340026855,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_24": {
+  "text": "1911",
+  "sec": 0.9272902011871338,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_25": {
+  "text": "wwm [82].",
+  "sec": 1.9625909328460693,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_26": {
+  "text": "e",
+  "sec": 0.6255755424499512,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_27": {
+  "text": "S Ngobo avsy aooodo Saeods",
+  "sec": 1.707854986190796,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_28": {
+  "text": "e36.s",
+  "sec": 0.8476104736328125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_29": {
+  "text": "",
+  "sec": 1.6295881271362305,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_3": {
+  "text": "aee",
+  "sec": 3.2887520790100098,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_4": {
+  "text": "·3bo",
+  "sec": 2.3958916664123535,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_5": {
+  "text": "532580",
+  "sec": 0.8775067329406738,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_6": {
+  "text": "",
+  "sec": 3.5841593742370605,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_7": {
+  "text": "greroeae",
+  "sec": 2.3247532844543457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_8": {
+  "text": "633 x0g biau geaoo, 6@& kia",
+  "sec": 2.246588706970215,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_9": {
+  "text": "",
+  "sec": 2.6882572174072266,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "synthetic/eng_0_blur": {
+  "text": "The  quick brown fox jumps (  over the lazy dog",
+  "sec": 5.314590692520142,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_clean": {
+  "text": "The quick brown fox jumps   over the lazy dog",
+  "sec": 3.5561165809631348,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_noise": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 3.7209103107452393,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_rotate": {
+  "text": "6op The quick brown fox jumps over the lazy d",
+  "sec": 3.396242141723633,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_blur": {
+  "text": "Invoice total due  e within thirty days c  of receipt",
+  "sec": 3.7073845863342285,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_clean": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 3.9893243312835693,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_noise": {
+  "text": "Invoice total due within thirty days of receipt.",
+  "sec": 4.100063323974609,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_rotate": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 3.892744541168213,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_blur": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 3.835418701171875,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_clean": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 2.1457021236419678,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_noise": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 2.4599289894104004,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_rotate": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 5.365748882293701,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_blur": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 3.133513927459717,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_clean": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 1.9881062507629395,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_noise": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 2.56636381149292,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_rotate": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 3.1547484397888184,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_blur": {
+  "text": "Please keep   this receipt for your records",
+  "sec": 3.2006850242614746,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_clean": {
+  "text": " Please keep this receipt for your records",
+  "sec": 3.359492540359497,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_noise": {
+  "text": "Please keep this receipt for your records V",
+  "sec": 6.1856324672698975,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_rotate": {
+  "text": "Please keep this receipt for your records",
+  "sec": 3.4785642623901367,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ }
+}

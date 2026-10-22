@@ -1,0 +1,311 @@
+<title>Indic OCR Benchmark</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: sticky condition tabs over a single column of sections; the heatmap and evidence browser are the two interactive surfaces. */
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --surface-2:#eceff3; --line:#d9dee6; --fg:#14181f; --fg-2:#4a5463; --fg-3:#6b7585;
+  --ramp:#2f4468; --on-ramp:#ffffff; --good:#1f7a4d; --bad:#b3372f; --hatch:#c9d0da;
+  --e-indra:#2a78d6; --e-surya:#eb6834; --e-paddleocr:#1baf7a; --e-easyocr:#eda100; --e-tesseract:#e87ba4; --e-doctr:#008300; --e-rapidocr:#6250d6;
+  --font-ui:'Schibsted Grotesk','Nirmala UI','Segoe UI',system-ui,sans-serif; --font-mono:'IBM Plex Mono',ui-monospace,Consolas,monospace;
+  --font-text:'Nirmala UI','Noto Sans','Segoe UI','Arial Unicode MS',system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f131a; --surface:#171c25; --surface-2:#202733; --line:#2b3441; --fg:#e8ecf2; --fg-2:#b4bdcb; --fg-3:#8b95a5;
+  --ramp:#9bb3dc; --on-ramp:#0f131a; --good:#4fc08a; --bad:#ec7a70; --hatch:#323b49;
+  --e-indra:#3987e5; --e-surya:#d95926; --e-paddleocr:#199e70; --e-easyocr:#c98500; --e-tesseract:#d55181; --e-doctr:#008300; --e-rapidocr:#9085e9; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f131a; --surface:#171c25; --surface-2:#202733; --line:#2b3441; --fg:#e8ecf2; --fg-2:#b4bdcb; --fg-3:#8b95a5;
+  --ramp:#9bb3dc; --on-ramp:#0f131a; --good:#4fc08a; --bad:#ec7a70; --hatch:#323b49;
+  --e-indra:#3987e5; --e-surya:#d95926; --e-paddleocr:#199e70; --e-easyocr:#c98500; --e-tesseract:#d55181; --e-doctr:#008300; --e-rapidocr:#9085e9; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 var(--font-ui);padding-block:0 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1180px;margin:0 auto}
+header.top{padding-top:32px;display:grid;gap:10px}
+h1{font-size:clamp(26px,4vw,40px);line-height:1.1;margin:0;font-weight:700;letter-spacing:-.02em;text-wrap:balance}
+.sub{color:var(--fg-2);max-width:72ch;margin:0}
+.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--fg-3);font:12px var(--font-mono)}
+nav.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding:14px 0 10px;margin-top:20px;border-bottom:1px solid var(--line)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.tabrow{display:flex;gap:6px;flex-wrap:wrap}
+.tab{font:600 13px var(--font-ui);padding:8px 13px;border:1px solid var(--line);background:var(--surface);color:var(--fg-2);border-radius:6px;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.tab:focus-visible,.chip:focus-visible,.lang:focus-visible,.cell:focus-visible,.toggle:focus-visible{outline:2px solid var(--e-indra);outline-offset:2px}
+.tabnote{margin:10px 0 0;color:var(--fg-3);font-size:13px}
+section{margin-top:44px}
+h2{font-size:20px;margin:0 0 4px;letter-spacing:-.01em}
+.lede{color:var(--fg-2);margin:0 0 16px;max-width:76ch;font-size:14px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
+.chip{display:inline-flex;align-items:center;gap:7px;font:600 13px var(--font-ui);padding:6px 11px 6px 9px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--fg);cursor:pointer}
+.chip i{width:10px;height:10px;border-radius:50%;background:var(--c)}
+.chip[aria-pressed="false"]{color:var(--fg-3);background:transparent}.chip[aria-pressed="false"] i{background:transparent;box-shadow:inset 0 0 0 2px var(--c)}
+.toggle{margin-left:auto;font:500 13px var(--font-ui);display:flex;gap:8px;align-items:center;color:var(--fg-2);cursor:pointer}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%}
+th{font:600 11px var(--font-ui);text-transform:uppercase;letter-spacing:.06em;color:var(--fg-3);text-align:left;padding:6px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:middle}
+tr:last-child td{border-bottom:0}
+.num{font-family:var(--font-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+.eng{display:flex;align-items:center;gap:9px;font-weight:600;white-space:nowrap}.eng i{width:11px;height:11px;border-radius:3px;background:var(--c);flex:none}
+.sm{display:block;color:var(--fg-3);font:400 12px var(--font-ui);white-space:normal;max-width:30ch}
+.bar{position:relative;height:10px;background:var(--surface-2);border-radius:5px;min-width:130px;overflow:hidden}
+.bar b{position:absolute;inset:0 auto 0 0;background:var(--c);border-radius:5px}
+.barcell{display:flex;align-items:center;gap:10px}
+.cov{display:flex;gap:2px}.cov u{width:5px;height:14px;background:var(--surface-2);border-radius:1px;text-decoration:none}.cov u.on{background:var(--fg-2)}.cov u.half{background:linear-gradient(0deg,var(--fg-2) 50%,var(--surface-2) 50%)}
+.warn{color:var(--fg-3);font-size:13px;margin:12px 0 0}
+/* heatmap */
+.heat{display:grid;gap:3px;min-width:560px}
+.hh{font:600 11px var(--font-ui);text-transform:uppercase;letter-spacing:.05em;color:var(--fg-2);padding:4px 2px;display:flex;align-items:flex-end;gap:6px}
+.hh i{width:9px;height:9px;border-radius:2px;background:var(--c);flex:none;margin-bottom:2px}
+.rl{font-weight:600;font-size:13px;display:flex;align-items:center;padding-right:8px;white-space:nowrap}
+.cell{border:0;border-radius:4px;min-height:40px;font:500 13px var(--font-mono);display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:pointer;color:var(--fg);padding:2px}
+.cell small{font:400 10px var(--font-mono);opacity:.75}
+.cell{position:relative}.cell em{position:absolute;top:2px;right:4px;font:600 10px var(--font-mono);font-style:normal;opacity:.9}
+.cell.e{background:transparent;box-shadow:inset 0 0 0 1px var(--bad);color:var(--bad);cursor:default}
+.cell.u{background:repeating-linear-gradient(135deg,var(--hatch) 0 3px,transparent 3px 7px);color:var(--fg-3);cursor:default}
+.cell.n{background:transparent;color:var(--fg-3);box-shadow:inset 0 0 0 1px var(--line);cursor:default}
+.legend{display:flex;align-items:center;gap:10px;font:12px var(--font-mono);color:var(--fg-3);margin-top:14px;flex-wrap:wrap}
+.legend .ramp{width:160px;height:10px;border-radius:5px;background:linear-gradient(90deg,var(--surface-2),var(--ramp))}
+.sw{display:inline-block;width:18px;height:12px;border-radius:3px;vertical-align:-2px}
+/* robustness */
+.rob{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:16px}
+.pair{display:grid;grid-template-columns:110px 1fr 70px;gap:4px 12px;align-items:center;font-size:13px}
+.pair .t{display:grid;gap:3px}
+.pair .b{height:8px;border-radius:4px;background:var(--c)}
+.pair .b.d{opacity:.45;background-image:repeating-linear-gradient(135deg,rgba(255,255,255,.55) 0 2px,transparent 2px 5px)}
+.delta{font:500 12px var(--font-mono);text-align:right}
+/* evidence */
+.langs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.lang{font:500 13px var(--font-ui);padding:5px 11px;border-radius:6px;border:1px solid var(--line);background:var(--surface);color:var(--fg-2);cursor:pointer}
+.lang[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.ev{display:grid;gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.card>header{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:10px 16px;background:var(--surface-2);font:12px var(--font-mono);color:var(--fg-2)}
+.imgs{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px;padding:16px;align-items:start}
+figure{margin:0;display:grid;gap:5px;min-width:0}
+figure figcaption{font:600 11px var(--font-ui);text-transform:uppercase;letter-spacing:.06em;color:var(--fg-3)}
+figure img{width:100%;height:auto;border:1px solid var(--line);border-radius:4px;background:#fff;display:block}
+.gt{margin:0 16px 14px;padding:10px 12px;border-left:3px solid var(--good);background:var(--surface-2);font:17px/1.55 var(--font-text);overflow-wrap:anywhere}
+.gt span{display:block;font:600 11px var(--font-ui);text-transform:uppercase;letter-spacing:.06em;color:var(--fg-3);margin-bottom:3px}
+.out{font:15px/1.5 var(--font-text);overflow-wrap:anywhere;min-width:200px}
+.out.none{color:var(--fg-3);font:13px var(--font-ui);font-style:italic}
+.cer{display:inline-block;font:500 12px var(--font-mono);padding:2px 7px;border-radius:4px;background:var(--surface-2)}
+.cer.g{color:var(--good)}.cer.r{color:var(--bad)}
+.gaps{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:16px}
+.gaps ul,.method ul{margin:8px 0 0;padding-left:18px;color:var(--fg-2);font-size:14px}.gaps li,.method li{margin:5px 0}
+.gaps h3{margin:0;font-size:15px}
+.tag{font:600 11px var(--font-mono);background:var(--surface-2);padding:1px 6px;border-radius:3px;color:var(--fg-2)}
+footer{margin-top:48px;color:var(--fg-3);font-size:13px}
+@media (max-width:560px){.pair{grid-template-columns:84px 1fr 56px}.toggle{margin-left:0}}
+@media (prefers-reduced-motion:no-preference){.bar b{transition:width .35s ease}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Indic OCR Benchmark</h1>
+    <p class="sub" id="sub"></p>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <nav class="tabs" aria-label="Test condition">
+    <div class="tabrow" id="tabs" role="tablist"></div>
+    <p class="tabnote" id="tabnote"></p>
+  </nav>
+
+  <section id="rank">
+    <h2>Ranking</h2>
+    <p class="lede">Mean character error rate (CER) per engine on this condition. Lower is better. An engine's score covers only the languages it can read, so check coverage before comparing two scores.</p>
+    <div class="panel">
+      <div class="chips" id="chips"></div>
+      <div class="scroll"><table id="rankTable"></table></div>
+      <p class="warn" id="rankWarn"></p>
+    </div>
+  </section>
+
+  <section id="heat">
+    <h2>Every language, every engine</h2>
+    <p class="lede">CER by language. Select a cell to open its evidence below: the input image, the ground truth and what each engine returned.</p>
+    <div class="panel">
+      <div class="scroll"><div class="heat" id="heatGrid"></div></div>
+      <div class="legend"><span>CER</span><span>0%</span><span class="ramp"></span><span>100%</span>
+        <span>no mark: model built for the language</span><span>≈ model for a related language, same script</span><span>∅ no relevant model; default Latin or English model</span>
+        <span><span class="sw" style="box-shadow:inset 0 0 0 1px var(--bad)"></span> failed on every image</span><span><span class="sw" style="box-shadow:inset 0 0 0 1px var(--line)"></span> not run</span></div>
+    </div>
+  </section>
+
+  <section id="rob">
+    <h2>What damage does to accuracy</h2>
+    <p class="lede">The same images scored twice, clean and degraded (tilt or perspective, plus three of: blur, noise, speckle, low resolution, JPEG artefacts, uneven light, stains, ink bleed). Only images an engine read in both versions count.</p>
+    <div class="rob" id="robBox"></div>
+  </section>
+
+  <section id="evidence">
+    <h2>Evidence</h2>
+    <p class="lede" id="evLede"></p>
+    <div class="langs" id="langPick"></div>
+    <div class="ev" id="evList"></div>
+  </section>
+
+  <section id="gaps">
+    <h2>What was not tested</h2>
+    <p class="lede">Languages from the brief with no usable labelled data found, and why. A blank here is a gap in the benchmark, not a score of zero.</p>
+    <div class="gaps" id="gapBox"></div>
+  </section>
+
+  <section class="method" id="method">
+    <h2>How this was run</h2>
+    <div class="panel"><ul id="methodList"></ul></div>
+  </section>
+  <footer>Raw outputs for every image are in <code>results/raw/*.json</code> and scored rows in <code>results/summary.csv</code> on the machine that ran the benchmark.</footer>
+</div>
+
+<script>
+const D = /*__DATA__*/null;
+const TAB_LABEL = {printed:"Printed, rendered",printed_bench:"Printed, real corpus", printed_deg:"Printed, degraded", handwritten:"Handwritten words", handwritten_deg:"Handwritten, degraded", forms:"Forms (English)", handwritten_wild:"Handwritten, unlabelled"};
+const TAB_NOTE = {
+  printed:"Clean printed lines in 20 Indian languages plus English. Real FLORES-200 sentences drawn by a browser with correct script shaping, so every engine sees the same easy, uniform text.",
+  printed_bench:"Printed line images from the OCR-Bench1000 corpus: mixed fonts, long lines, digits and symbols. Bengali, Gujarati, Kannada, Malayalam, Marathi, Punjabi and Telugu, 30 images each.",
+  printed_deg:"The printed set after heavy damage. Same text, same ground truth.",
+  handwritten:"Real handwritten words, Hindi and Tamil only. These are the only labelled handwriting sets that could be downloaded.",
+  handwritten_deg:"Handwritten words after heavy damage.",
+  handwritten_wild:"Real handwritten word crops in Telugu, Bengali, Kannada, Gujarati and Malayalam with no transcriptions. Nothing is scored here. Each engine's raw output is shown so a native reader can judge it.",
+  forms:"Full-page English form scans (FUNSD). Scores compare against the words in reading order, so layout makes them noisier than line tests."
+};
+const $ = s => document.querySelector(s);
+const E = D.engines.filter(e => D.counts[e]);
+const state = {cond:"printed", on:new Set(E), common:false, lang:null};
+const pct = x => x == null ? "–" : Math.round(x*100) + "%";
+const f2 = x => x == null ? "–" : x.toFixed(2);
+const mean = a => a.length ? a.reduce((s,x)=>s+x,0)/a.length : null;
+const SPOT = ["hin","tam","tel","kan"];
+const LANG_ORDER = [...SPOT, ...Object.keys(D.langs).filter(l=>!SPOT.includes(l))];
+const condLangs = c => LANG_ORDER.filter(l => (D.total[c]||{})[l]);
+const cell = (c,l,e) => ((D.heat[c]||{})[l]||{})[e];
+const kind = x => !x ? "n" : x.n > 0 ? "ok" : x.ran > 0 && x.err >= x.ran ? "e" : x.ran > 0 ? "q" : "n";
+const MODE_TXT = {native:"native model", script:"model for a related language in the same script", none:"no relevant model; default Latin/English model"};
+const col = e => `style="--c:var(--e-${e})"`;
+function esc(s){return String(s).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]))}
+function rampStyle(v){const p=Math.round(Math.min(v,1)*100);return `background:color-mix(in oklab,var(--ramp) ${p}%,var(--surface-2));color:${p>52?"var(--on-ramp)":"var(--fg)"}`}
+
+function head(){
+  const n = D.nImages;
+  $("#sub").textContent = `Seven open-source OCR engines run on CPU against ${n} images across 20 Indian languages and English. Each engine was run on every language with no language model, vision model or post-correction. Every score links to the image and the text the engine produced.`;
+  $("#meta").innerHTML = ["CPU only, no GPU","CER = edits ÷ reference characters","Every engine run on every language"].map(t=>`<span>${t}</span>`).join("");
+}
+function tabs(){
+  $("#tabs").innerHTML = D.cond.filter(c=>D.total[c]).map(c=>`<button class="tab" role="tab" data-c="${c}" aria-selected="${c===state.cond}">${TAB_LABEL[c]}</button>`).join("");
+  $("#tabnote").textContent = TAB_NOTE[state.cond];
+  document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{state.cond=b.dataset.c;state.lang=null;render()});
+}
+function chips(){
+  $("#chips").innerHTML = E.map(e=>`<button class="chip" ${col(e)} data-e="${e}" aria-pressed="${state.on.has(e)}"><i></i>${D.meta[e].name}</button>`).join("")
+    + `<label class="toggle"><input type="checkbox" id="common" ${state.common?"checked":""}> Compare on shared languages only</label>`;
+  document.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{const e=b.dataset.e;state.on.has(e)?state.on.delete(e):state.on.add(e);render()});
+  $("#common").onchange=ev=>{state.common=ev.target.checked;render()};
+}
+function sharedLangs(c,engs){
+  return condLangs(c).filter(l=>engs.every(e=>kind(cell(c,l,e))==="ok"));
+}
+function ranking(){
+  const c=state.cond, langs=condLangs(c), engs=E.filter(e=>state.on.has(e));
+  const pool = state.common ? langs.filter(l=>engs.every(e=>kind(cell(c,l,e))==="ok")) : langs;
+  const agg = (e,ls)=>{const ok=ls.filter(l=>kind(cell(c,l,e))==="ok"); const n=ok.reduce((s,l)=>s+cell(c,l,e).ran,0);
+    return {cer:mean(ok.map(l=>cell(c,l,e).cer)),wer:mean(ok.map(l=>cell(c,l,e).wer)),n:ok.reduce((s,l)=>s+cell(c,l,e).n,0),
+      sec:n?ok.reduce((s,l)=>s+cell(c,l,e).ran*(cell(c,l,e).sec||0),0)/n:null,langs:ok.length,empty:n?ok.reduce((s,l)=>s+cell(c,l,e).empty,0)/n:null}};
+  const rows = engs.map(e=>{
+    const all=agg(e,pool), nat=agg(e,pool.filter(l=>(cell(c,l,e)||{}).mode==="native"));
+    const modes={native:0,script:0,none:0}; langs.filter(l=>kind(cell(c,l,e))==="ok").forEach(l=>modes[cell(c,l,e).mode]++);
+    return {e,all,nat,modes};
+  }).sort((a,b)=>(a.all.cer??9)-(b.all.cer??9));
+  const maxC = Math.max(.5,...rows.map(r=>r.all.cer??0));
+  $("#rankTable").innerHTML = `<thead><tr><th>Engine</th><th>CER, all languages</th><th>CER, native only</th><th>WER</th><th>No text returned</th><th>Model per language</th><th>Sec/image</th><th>Images</th><th>License</th></tr></thead><tbody>`+
+    rows.map(r=>`<tr><td><div class="eng" ${col(r.e)}><i></i><div>${D.meta[r.e].name}<span class="sm">${D.meta[r.e].note}</span></div></div></td>
+    <td><div class="barcell" ${col(r.e)}><div class="bar"><b style="width:${r.all.cer==null?0:Math.min(r.all.cer/maxC,1)*100}%"></b></div><span class="num">${r.all.cer==null?"no data":pct(r.all.cer)}</span></div></td>
+    <td class="num">${r.nat.cer==null?"–":pct(r.nat.cer)} <span class="sm" style="display:inline">(${r.nat.langs} lang)</span></td>
+    <td class="num">${pct(r.all.wer)}</td>
+    <td class="num" title="share of images where the engine returned an empty string">${pct(r.all.empty)}</td>
+    <td><div class="barcell"><div class="cov" title="native ${r.modes.native}, related language ${r.modes.script}, none ${r.modes.none}">${langs.map(l=>{const m=(cell(c,l,r.e)||{}).mode;return `<u class="${m==="native"?"on":m==="script"?"half":""}"></u>`}).join("")}</div><span class="num">${r.modes.native} native</span></div></td>
+    <td class="num">${r.all.sec==null?"–":r.all.sec<10?r.all.sec.toFixed(1):Math.round(r.all.sec)}</td><td class="num">${r.all.n}</td>
+    <td class="sm" style="max-width:26ch">${D.meta[r.e].license}</td></tr>`).join("")+`</tbody>`;
+  const w=["“All languages” averages every language tested, including those where the engine has no model for the script and returns noise; that is the cost of a narrow engine. “Native only” averages just the languages it was built for."];
+  if(state.common) w.push(pool.length?`Scored only on the ${pool.length} language${pool.length>1?"s":""} every selected engine produced a score for.`:"The selected engines share no scored language in this condition.");
+  const sub = rows.filter(r=>D.counts[r.e]<D.nImages*.6).map(r=>D.meta[r.e].name);
+  if(sub.length) w.push(`${sub.join(", ")} ran on 3 images per language and test set because of CPU speed, so each cell is a small sample.`);
+  $("#rankWarn").textContent = w.join(" ");
+}
+function heatmap(){
+  const c=state.cond, langs=condLangs(c), engs=E.filter(e=>state.on.has(e));
+  const g=$("#heatGrid"); g.style.gridTemplateColumns=`minmax(120px,150px) repeat(${engs.length},minmax(64px,1fr))`;
+  let h=`<div></div>`+engs.map(e=>`<div class="hh" ${col(e)}><i></i>${D.meta[e].name}</div>`).join("");
+  for(const l of langs){
+    h+=`<div class="rl">${D.langs[l]}</div>`;
+    for(const e of engs){
+      const x=cell(c,l,e), k=kind(x);
+      if(k==="ok"){const tag=x.mode==="script"?"≈":x.mode==="none"?"∅":"";
+        h+=`<button class="cell" style="${rampStyle(x.cer)}" data-l="${l}" title="${MODE_TXT[x.mode]}${x.empty?`; ${x.empty} of ${x.ran} returned no text`:""}" aria-label="${D.langs[l]}, ${D.meta[e].name}, CER ${pct(x.cer)}, ${x.n} images, ${MODE_TXT[x.mode]}">${tag?`<em>${tag}</em>`:""}${Math.round(x.cer*100)}<small>n=${x.n}</small></button>`;}
+      else if(k==="e") h+=`<div class="cell e" title="engine failed on every image">err</div>`;
+      else h+=`<div class="cell n" title="not run">·</div>`;
+    }
+  }
+  g.innerHTML=h;
+  g.querySelectorAll("button.cell").forEach(b=>b.onclick=()=>{state.lang=b.dataset.l;evidence();$("#evidence").scrollIntoView({behavior:"smooth"})});
+}
+function robustness(){
+  const blocks=[["printed_deg","printed","Printed text"],["handwritten_deg","handwritten","Handwritten words"]];
+  $("#robBox").innerHTML=blocks.map(([dc,,title])=>{
+    const P=D.paired[dc]||{}; const es=E.filter(e=>P[e]&&state.on.has(e)).sort((a,b)=>P[a].degraded-P[b].degraded);
+    if(!es.length) return `<div class="panel"><h3 style="margin:0 0 8px;font-size:15px">${title}</h3><p class="warn">No engine has results on both versions yet.</p></div>`;
+    return `<div class="panel"><h3 style="margin:0 0 12px;font-size:15px">${title}</h3><div class="pair">`+es.map(e=>{const p=P[e];
+      return `<div class="eng" ${col(e)}><i></i>${D.meta[e].name}</div><div class="t" ${col(e)}><div class="b" style="width:${Math.max(p.clean*100,1)}%" title="clean ${pct(p.clean)}"></div><div class="b d" style="width:${Math.max(p.degraded*100,1)}%" title="degraded ${pct(p.degraded)}"></div></div><div class="delta">${pct(p.clean)} → ${pct(p.degraded)}</div>`}).join("")
+      +`</div><p class="warn">Solid bar: clean CER. Hatched bar: degraded CER. Images per engine: ${es.map(e=>`${D.meta[e].name} ${P[e].n}`).join(", ")}.</p></div>`}).join("");
+}
+function evidence(){
+  const c=state.cond, langs=condLangs(c);
+  if(!state.lang||!langs.includes(state.lang)) state.lang=langs[0];
+  $("#langPick").innerHTML=langs.map(l=>`<button class="lang" data-l="${l}" aria-pressed="${l===state.lang}">${D.langs[l]}${SPOT.includes(l)?" ★":""}</button>`).join("");
+  document.querySelectorAll(".lang").forEach(b=>b.onclick=()=>{state.lang=b.dataset.l;evidence()});
+  const ss=D.samples.filter(s=>s.cond===c&&s.lang===state.lang);
+  $("#evLede").textContent=c==="handwritten_wild"?`${D.langs[state.lang]}: ${ss.length} real handwritten word crops with the exact text each engine returned. There is no ground truth and no score; read the outputs against the image.`:`${TAB_LABEL[c]}, ${D.langs[state.lang]}: ${ss.length} sample image${ss.length===1?"":"s"} with the exact text each engine returned. Green means the engine matched at 90% or better, red means below 50%.`;
+  const rtl=["urd","kas","snd"].includes(state.lang);
+  $("#evList").innerHTML=ss.map(s=>{
+    const rows=D.engines.filter(e=>s.results[e]).map(e=>({e,r:s.results[e]})).sort((a,b)=>(a.r.cer??9)-(b.r.cer??9));
+    const imgs=s.orig?`<figure><figcaption>Original</figcaption><img src="${s.orig}" alt="Original image"></figure><figure><figcaption>Degraded (the test input)</figcaption><img src="${s.img}" alt="Degraded image"></figure>`
+      :`<figure><figcaption>Test input</figcaption><img src="${s.img}" alt="Test image"></figure>`;
+    return `<article class="card"><header><span>${esc(s.id)}</span><span>${esc(D.dsLabel[s.dataset])}</span></header>
+      <div class="imgs">${imgs}</div>
+      ${s.ref==null?`<div class="gt" style="border-color:var(--fg-3)"><span>Ground truth</span>none: this image has no transcription</div>`:`<div class="gt" dir="${rtl?"rtl":"auto"}"><span>Ground truth</span>${esc(s.ref)||"<em>(empty)</em>"}</div>`}
+      <div class="scroll" style="padding:0 16px 14px"><table><thead><tr><th>Engine</th><th>CER</th><th>Output</th><th>Sec</th></tr></thead><tbody>`+
+      rows.map(({e,r})=>{
+        const cls=r.cer==null?"":r.cer<=.1?"g":r.cer>=.5?"r":"";
+        const out=r.status!=="error"?(r.hyp?`<div class="out" dir="${rtl?"rtl":"auto"}">${esc(r.hyp)}</div>`:`<div class="out none">returned no text</div>`)
+          :`<div class="out none">failed: ${esc(r.err||"error")}</div>`;
+        return `<tr><td><div class="eng" ${col(e)}><i></i><div>${D.meta[e].name}${r.mode&&r.mode!=="native"?`<span class="sm">${r.mode==="script"?"related-language model":"no relevant model"}</span>`:""}</div></div></td><td>${r.cer==null?"–":`<span class="cer ${cls}">${pct(r.cer)}</span>`}</td><td>${out}</td><td class="num">${r.sec==null?"":r.sec}</td></tr>`}).join("")
+      +`</tbody></table></div></article>`}).join("")||`<p class="warn">No sample images for this language and condition.</p>`;
+}
+function gaps(){
+  const L=(h,items)=>`<div class="panel"><h3>${h}</h3><ul>${items.map(i=>`<li>${i}</li>`).join("")}</ul></div>`;
+  $("#gapBox").innerHTML=
+    L("No labelled OCR data found",[`<b>Bodo, Dogri, Konkani</b>: not in FLORES-200 and no public OCR set located.`,`<b>Garo, Kokborok, Lepcha, Limbu, Sikkimese</b>: no public text or OCR data located.`,`<b>Khasi</b>: Hugging Face sets exist (toiar/Khasi-OCR, Badnyal/khasi-ocr-benchmark-2k) but were not downloaded in this run.`])+
+    L("Handwriting with scores",[`Only <b>Hindi and Tamil</b> have labelled handwritten words (IIIT-INDIC-HW-WORDS).`,`<b>Telugu, Bengali, Kannada, Gujarati and Malayalam</b> word crops from IIIT-INDIC-HW-WILD are shown on the “Handwritten, unlabelled” tab with no score. The set has no transcriptions.`,`<b>Odia and Punjabi</b> handwriting exists only inside PHDIndic_11 (IEEE DataPort), which could not be fetched here.`,`<b>DohaScript</b> sample has page images with writer metadata only. <b>IIIT-HW-Telugu</b> is a 3.6 GB nested archive. Odia, Bengali and Kannada sets found are isolated characters.`])+
+    L("Why the unlabelled words were not transcribed here",[`A vision model reading these crops would be unreliable: of the Telugu, Kannada and Gujarati words reviewed, roughly one in eight had a reading that could be trusted, all in clear hands. Labels like that would be wrong or biased toward easy writing, and a wrong label scores a correct OCR output as an error.`,`A native reader labelling the crops would fix this. Candidate crops are saved with the benchmark.`])+
+    L("Rendered text, not scans",[`Assamese, Kashmiri, Maithili, Manipuri, Nepali, Sanskrit, Santali, Sindhi, Urdu and Mizo use real FLORES-200 sentences drawn by a browser. They test script coverage, not paper.`,`Manipuri is tested in Bengali script; Meitei Mayek was not rendered.`]);
+}
+function method(){
+  $("#methodList").innerHTML=[
+    `<b>OCR only.</b> Each engine ran alone. No language model, vision model, spell-check or post-correction touched any output. Seven worker agents each ran one engine; they only launched the engine and checked the result files.`,
+    `<b>Every engine on every language.</b> Where an engine has no model for a language it still ran, using the closest model it has. Heatmap marks show which: no mark is a model built for the language, ≈ is a model for a related language in the same script, ∅ is no relevant model so its default Latin or English model ran.`,
+    `<b>Scoring.</b> Text is normalised (Unicode NFC, whitespace collapsed). CER is edit distance over reference characters, capped at 100% per image, then averaged. Averages marked “native only” include only languages the engine was built for.`,
+    `<b>Hardware.</b> One Windows laptop, 8 logical cores, no GPU. Engines ran as parallel processes, so seconds-per-image are indicative and inflated for every engine.`,
+    `<b>Subsamples.</b> Indra, Tesseract, docTR and RapidOCR ran every image. Surya, PaddleOCR and EasyOCR ran 3 images per language and test set because of CPU speed, so each of their cells is a small sample (n is shown).`,
+    `<b>Surya version.</b> The current Surya release needs a llama.cpp server binary that this machine's application-control policy blocks, so surya-ocr 0.17 (PyTorch) was used.`,
+    `<b>Tesseract packs.</b> Packs exist for 15 of the 20 languages. Maithili, Kashmiri, Manipuri, Santali and Mizo have none in the standard distribution, so related-script packs or English were used.`,
+    `<b>Degradation.</b> Each degraded image gets one geometric change (rotation of 7 to 14 degrees or a perspective tilt) and three of: blur, Gaussian noise, salt-and-pepper speckle, low resolution, heavy JPEG, uneven lighting, stains and lines, ink bleed.`,
+    `<b>No preprocessing.</b> Every engine reads the raw image: no resizing, padding, binarising or deskewing. Some engines return nothing on tight word crops (Indra's line detector often finds no text on 48-pixel printed lines; a white margin recovered text on only 2 of 12 such images). The “No text returned” column shows how often that happens.`,
+    `<b>Limits.</b> Most test images are single lines or words. These results say little about full-page documents with tables, mixed scripts or photographed pages.`
+  ].map(t=>`<li>${t}</li>`).join("");
+}
+function render(){tabs();chips();const q=state.cond==="handwritten_wild";["rank","heat","rob"].forEach(i=>$("#"+i).hidden=q);if(!q){ranking();heatmap();robustness()}evidence()}
+head();gaps();method();render();
+</script>

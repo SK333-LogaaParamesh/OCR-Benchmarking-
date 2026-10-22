@@ -1,0 +1,5532 @@
+{
+ "degraded_handwritten/hin_0": {
+  "text": "CH",
+  "sec": 56.17410922050476,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_1": {
+  "text": "",
+  "sec": 29.709333658218384,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_10": {
+  "text": "",
+  "sec": 26.3998122215271,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_11": {
+  "text": ",",
+  "sec": 36.06930613517761,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_12": {
+  "text": "",
+  "sec": 21.592792749404907,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_13": {
+  "text": "",
+  "sec": 25.339762449264526,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_14": {
+  "text": "",
+  "sec": 29.34658432006836,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_15": {
+  "text": "ahou",
+  "sec": 52.067771434783936,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_16": {
+  "text": "-\nI\n\n-\n\n7",
+  "sec": 47.190624713897705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_17": {
+  "text": "A",
+  "sec": 28.90185570716858,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_18": {
+  "text": "",
+  "sec": 22.372202157974243,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_19": {
+  "text": "de 11 - I\n\n-\n\n1",
+  "sec": 57.977020025253296,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_2": {
+  "text": "",
+  "sec": 29.918379068374634,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_20": {
+  "text": "",
+  "sec": 31.37680435180664,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_21": {
+  "text": "",
+  "sec": 9.446582317352295,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_22": {
+  "text": "",
+  "sec": 9.098929643630981,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_23": {
+  "text": "",
+  "sec": 9.000076293945312,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_24": {
+  "text": "",
+  "sec": 12.126577615737915,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_25": {
+  "text": "I",
+  "sec": 9.657639980316162,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_26": {
+  "text": "",
+  "sec": 4.3184099197387695,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_27": {
+  "text": "",
+  "sec": 5.6284849643707275,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_28": {
+  "text": "",
+  "sec": 5.676077842712402,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_29": {
+  "text": "",
+  "sec": 4.805589914321899,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_3": {
+  "text": "",
+  "sec": 3.8228652477264404,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_4": {
+  "text": "",
+  "sec": 3.82452654838562,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_5": {
+  "text": "- 6 a\n\n-\n-\n\n011017",
+  "sec": 6.810431241989136,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_6": {
+  "text": "",
+  "sec": 5.57627010345459,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_7": {
+  "text": "",
+  "sec": 7.361092567443848,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_8": {
+  "text": "",
+  "sec": 8.067247152328491,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/hin_9": {
+  "text": "/",
+  "sec": 8.408864498138428,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_0": {
+  "text": "8\n\n1 T B\n\n0 O\n\n0OOT h",
+  "sec": 11.531548976898193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_1": {
+  "text": "6t On",
+  "sec": 4.6360931396484375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_10": {
+  "text": "01BOLOS",
+  "sec": 3.806644916534424,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_11": {
+  "text": ":",
+  "sec": 9.091479778289795,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_12": {
+  "text": "",
+  "sec": 7.324103355407715,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_13": {
+  "text": "",
+  "sec": 5.304877996444702,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_14": {
+  "text": "1Cgs6ung",
+  "sec": 4.910357236862183,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_15": {
+  "text": "lwr\n\nABnn",
+  "sec": 5.17212700843811,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_16": {
+  "text": "B\n\n28(4 - 1",
+  "sec": 4.490838527679443,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_17": {
+  "text": "Dom SYP",
+  "sec": 4.602720499038696,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_18": {
+  "text": "1014 OMULBA L 8",
+  "sec": 3.954754590988159,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_19": {
+  "text": "F :",
+  "sec": 4.925492286682129,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_2": {
+  "text": "",
+  "sec": 4.273102760314941,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_20": {
+  "text": "0 2\n\nS 2",
+  "sec": 5.532690048217773,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_21": {
+  "text": "Louza\nODOU\n\nS - 4\n\nL T\n\nBo I\n\nBorlai",
+  "sec": 7.819842338562012,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_22": {
+  "text": "9L060TT6456 3 00",
+  "sec": 8.797225713729858,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_23": {
+  "text": "fnovod",
+  "sec": 4.508258819580078,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_24": {
+  "text": "-\n\n2\n\nus a",
+  "sec": 7.059292554855347,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_25": {
+  "text": "C\nL 00\n-",
+  "sec": 4.495168209075928,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_26": {
+  "text": "no B1",
+  "sec": 4.177089691162109,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_27": {
+  "text": "1058 EU 1 UOLO\n-",
+  "sec": 4.904767751693726,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_28": {
+  "text": "I / L bu0 Ole\n\nDi DUn 6",
+  "sec": 4.74409818649292,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_29": {
+  "text": "",
+  "sec": 3.7593395709991455,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_3": {
+  "text": "Oa-SeotoneLon",
+  "sec": 4.5335774421691895,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_4": {
+  "text": "a",
+  "sec": 5.03398871421814,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_5": {
+  "text": "",
+  "sec": 3.533768653869629,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_6": {
+  "text": "",
+  "sec": 3.33914852142334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_7": {
+  "text": "990 501\n7",
+  "sec": 3.755402088165283,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_8": {
+  "text": "Lo\n\n5\n\n7\n\n0 / -\nom L\n\nL\nar",
+  "sec": 6.971722364425659,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_handwritten/tam_9": {
+  "text": "2 N Bo\n\nI\n/ B2",
+  "sec": 4.574291706085205,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_0": {
+  "text": "- - \n\n501.1-1054 1 I4 TA - 5C I I - 15C44 b/-1d\n\nol",
+  "sec": 6.003463268280029,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_1": {
+  "text": "- LU 461 FTC A 2n T\n\n- AT JAN RB9 I A",
+  "sec": 4.677011489868164,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_2": {
+  "text": "42SS on 03 GCTG Wn COTISI RN10 CRSI CH3T 3I",
+  "sec": 6.619890213012695,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_3": {
+  "text": "MDT CAHTA TAIT 50:00-55:00 A9T figoto WHMHS C61951 GR 5011312611",
+  "sec": 7.349482774734497,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_4": {
+  "text": "1920 mera6\n\nSHARSMROMLNTE\n\nMRSSESIR-RON\n\n05414 SRTS\n\nsfee1l a",
+  "sec": 4.527167797088623,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/asm_5": {
+  "text": "MCTCUTOT\n\nCACRIANA\n\n1870f9 75 STT4TI93\n\nRi Voifg 75\n\nSARNI016\n\n2i5TC6",
+  "sec": 6.305800199508667,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_0": {
+  "text": "SIASICAS WRION\n\n0 beo\n\nRMfFECMIFRNOITAT\n\n41 4E-POTTIRAY S\n\n4c11 Gellyfil",
+  "sec": 5.13895583152771,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_1": {
+  "text": "ATSICIS WRATTEnS\n\nG2311 GUG4R\n\n71f87 R833 O\n\nSCRICEI",
+  "sec": 8.085713148117065,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_2": {
+  "text": "cea GP1C6\n\nCH41 HTTRAI -\n\nCORPFEMICHA\n\nafeceOPCS\n\nGfBn\n\nCAC4 SATPI",
+  "sec": 6.269397497177124,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_3": {
+  "text": "914 5alei CH3\n\nR4608 fa0I8\n\n0191251A116\n\n911244 Ae1C44",
+  "sec": 6.8034563064575195,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_4": {
+  "text": "2V 4i6 el-1\n\ni 14N3 ET\n\nHTCA\n\n1\n\n4 T* 010\n\nTGRA",
+  "sec": 5.579787254333496,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ben_5": {
+  "text": "COPTE GCHTOeTI\n\nF151491 f6FEESIT4\n\n414163\n\n01291997 264",
+  "sec": 4.8997132778167725,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_0": {
+  "text": "-\n\nC A 2 T",
+  "sec": 5.365696430206299,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_1": {
+  "text": "a\n\na2421599\n\naigulateld\n\naHa 2401d",
+  "sec": 5.625183343887329,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_2": {
+  "text": "SRISH HAR 8:30 qior YRet epeil. Reuilots HHR (15.00 yeleil).",
+  "sec": 5.183937311172485,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_3": {
+  "text": "112 0414ER\n\n6124 1\n\n2401 Gisgondl\n\nElHeil asordl\n\nB42\n\n241042 adl",
+  "sec": 5.796911239624023,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_4": {
+  "text": "Gluerys) 240\n\ndaalui du2 412011\n\n822 oteil",
+  "sec": 5.464895725250244,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/guj_5": {
+  "text": "gRilez %lai I HI2 s15 WEAI du15s 8222011 217 X114oi 42421 89",
+  "sec": 5.504765033721924,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_0": {
+  "text": "1 giifa a a\n\nHord A 0\n\na 460 31ER\n\n3114\n\nfRIfAS\n\n€l 2IT 2JF E1",
+  "sec": 4.7091758251190186,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_1": {
+  "text": "coa A 2 e\n\n4l mRa5\n\n2144",
+  "sec": 6.019920587539673,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_2": {
+  "text": "TRlu\n\nTguffer 1141 4,\n\n067 Salel\n\nARRN e ge\n\nHIR HIA\n\n3R 6",
+  "sec": 5.63950252532959,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_3": {
+  "text": "6leilg SISOR e NR I HIHR diC -\n\n3115 41",
+  "sec": 5.29975438117981,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_4": {
+  "text": "3111d101 E1E4\n\n( d Aay Udp\n\n3/091\n\nfauey E1 Fiopdl @\n\n3iceR7a UICTHIT",
+  "sec": 4.98428750038147,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/hin_5": {
+  "text": "E dRE, gry d fay geal a 641 dlet CEUR 46741 VRER 6",
+  "sec": 5.924241781234741,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_0": {
+  "text": "escortes. 23008\n\nachtinockoreatirvecide\n\nVco - a",
+  "sec": 6.1017913818359375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_1": {
+  "text": "Dufatkicloas\n\naba)\n\nOxdetaorieed\n\nNaori aooed\n\nNog adestascas\n\nWOR eortagalez",
+  "sec": 5.2361390590667725,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_2": {
+  "text": "Owoso\n\nGoro C 2305 3QbAQ 0 WOW) OWos 008dos,",
+  "sec": 5.191165447235107,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_3": {
+  "text": "abeds adabardrivadon\n\nNaa 33005303000\n\neapabns Nra deadads\n\nesdozpacsds.",
+  "sec": 5.020385026931763,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_4": {
+  "text": "Noen aboabarte\n\n0823, andd\n\n003,N0X9,06 3dead",
+  "sec": 4.876748323440552,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kan_5": {
+  "text": "I 2  &\n\nOa\n\n3 &\n\ndede\n3\n\nCJOOJAs\n\n23\n\nB\n\n:\n\n9",
+  "sec": 4.735038995742798,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_0": {
+  "text": "",
+  "sec": 3.270677089691162,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_1": {
+  "text": "Sllwl glc\n\nGMT\n\n12.00 jl J93 3195\n\ny - E\n\n0)94) U -",
+  "sec": 5.359429121017456,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_2": {
+  "text": "1\n\nU\n\nWins\n\n1 J -\n\nUGI\n\nwlw\ne\n\noalgol J9S 990",
+  "sec": 4.359246492385864,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_3": {
+  "text": "jilJles AS SjU Jlg> S al Stisto. . 95 diul 3g Ha wl",
+  "sec": 3.6981899738311768,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_4": {
+  "text": "",
+  "sec": 3.280566930770874,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/kas_5": {
+  "text": ":",
+  "sec": 3.019972085952759,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/lus_0": {
+  "text": "Hebrew chhungkaw nundan chu pawi lamah hman a ni",
+  "sec": 3.568513870239258,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_1": {
+  "text": "sawn leh a ni.\n\nA hnuah\n\nCambridge-a\n\nAddenbrooke\n\nDamdawi inah",
+  "sec": 3.739208698272705,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_2": {
+  "text": "Nimahsela, a khalhtu ber chuan aluab bliamna takatuara ni.",
+  "sec": 4.605536222457886,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_3": {
+  "text": "Kangthelhtu Te\n\n:\n\nan\n\n- neir muit",
+  "sec": 7.402173042297363,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_4": {
+  "text": "",
+  "sec": 4.358086347579956,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/lus_5": {
+  "text": "turin a inpuahchah\n\nmek\n\ntia sawi a ni\n\nAni chu Kum\n\n2016 ah\n\nPresident ni",
+  "sec": 4.452397346496582,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "degraded_printed/mai_0": {
+  "text": "E HHg  CECU 1 31181 Acio RHR cd 311891",
+  "sec": 4.541896104812622,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_1": {
+  "text": "1\n\n-\n\nA 2\n\noNA 1\n1118\n\nSeE\n\nI\nI 5 f\n\n1\n\n7\n\na",
+  "sec": 4.201993227005005,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_2": {
+  "text": "-\nSCRAC UA HOR 311 TYRARA YOR : Gidq RH 4 Usd 3191",
+  "sec": 6.402320384979248,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_3": {
+  "text": "HGl E1d gluch aique, URGHT Gsollld 316 HH4460\n\n3144RF RECT ECTt",
+  "sec": 5.444877862930298,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_4": {
+  "text": "Hledlqi Udhcid6 Ulldit TURIA 318 UA oildiy Corld R h uiisa REC1 311891",
+  "sec": 4.777188062667847,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mai_5": {
+  "text": "deid  CTfeI\n\nften 76\n\n51d\n\nydadt\n\nANRE-ANANIEPREI\n7\n\n31ad",
+  "sec": 3.9643301963806152,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_0": {
+  "text": "606S (07 G6SJ0r01\n\n0000 OOmOD\n\naaumoouneaaud\n\n0010711:35",
+  "sec": 4.032121181488037,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_1": {
+  "text": "@@orolmarad\n\nomoasnana 6300)\n\nelmaoblaat\n\nGeienuad Gajdoo)\n\nmUOWIO",
+  "sec": 4.332294940948486,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_2": {
+  "text": "",
+  "sec": 3.4032769203186035,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_3": {
+  "text": "",
+  "sec": 3.656186580657959,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_4": {
+  "text": "",
+  "sec": 3.5163204669952393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mal_5": {
+  "text": "63003 007\n\na1001mo0\n\n(G0001\n\n(oiaura\n\n0\n\nCB A a\n\nmmoi 0 y COgM\n\n(3100600.",
+  "sec": 5.188807964324951,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_0": {
+  "text": "6gg 964\n\n3149 dede\n\nMPINTENE\n\nCNIT Edd\n\nElleltel",
+  "sec": 3.8350582122802734,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_1": {
+  "text": "RYTTRT doi-t\n\nGRHTCRIGTETET\n\nahloorel Yrard\n\nod U1 41053\n\nRido feepcil",
+  "sec": 3.955437421798706,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_2": {
+  "text": "(a adiar Yrurl ISE SIQUIR CIESN EICTU 3114244 3116.",
+  "sec": 8.616575241088867,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_3": {
+  "text": " urid 3/ei dol d34g ciolal dHAU ORC",
+  "sec": 8.302141427993774,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_4": {
+  "text": "S11SH8 R&OT IGRIOT Todidiei qid diaugld 31c1.",
+  "sec": 5.7571961879730225,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mar_5": {
+  "text": "3ialal Eldl\n\n101 pud\n\narde gral\n\na 2016\n\n118 agurige",
+  "sec": 5.313997983932495,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_0": {
+  "text": "à\n\nTW21\n\nafsicTe (2114\n\n3",
+  "sec": 4.449704647064209,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_1": {
+  "text": "REG : PILSS\n\na M8E\n\n: D -\n\n1\n\n. 2E",
+  "sec": 6.778480529785156,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_2": {
+  "text": "G05A 116\n\nWifSTs\n\n317eN35\n\nGINIA R",
+  "sec": 6.677900552749634,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_3": {
+  "text": "",
+  "sec": 3.4976048469543457,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_4": {
+  "text": "aT bU PCTCSTU AISPRRTT GICTHISTS 2 NC3 OICHI",
+  "sec": 5.437855958938599,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/mni_5": {
+  "text": "a",
+  "sec": 4.660785913467407,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_0": {
+  "text": "uRfrEraT\n\ngoriktit PhYHT\n\nR/oicil T HIHRI\n\nCIGRUT 5-81",
+  "sec": 5.570649147033691,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_1": {
+  "text": "0496\n\n: RISO",
+  "sec": 4.880635976791382,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_2": {
+  "text": "dAoo a URHINd\n\nTO\n\nciolyy uGe R EHISChA\n\nuiol HFT",
+  "sec": 6.383251190185547,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_3": {
+  "text": "TE yazt uea\na\n\naRua RH1YC4\n\nR Hdlse\n\ntpl Y: yid TPA",
+  "sec": 6.247512102127075,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_4": {
+  "text": "OCRACS RIl6g TURRARHERolddrdorcs USGE\ne",
+  "sec": 4.619953393936157,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/nep_5": {
+  "text": "802.11n\n\nHHd5\n\n2.4Ghz\n\n75.0Ghz\n\n(\n\n-\n\na I d 14",
+  "sec": 5.413869857788086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_0": {
+  "text": "E11o 21211 6161 218181\n\nm4619 21661\n\ncalgan 61166 gmel",
+  "sec": 4.9184410572052,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_1": {
+  "text": "V66192 6IGO\n\n0A6168 SIA 2191\n\n9996999 868\n\n981881",
+  "sec": 6.996357440948486,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_2": {
+  "text": "686 99688 00\n\n96986998 N9 6mOR\n\n6/968260161\n\nROURTGZIGN",
+  "sec": 6.010603904724121,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_3": {
+  "text": "RISG9 8980 289\n\n9618061911 661F18\n\n9416210 a",
+  "sec": 6.14605450630188,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_4": {
+  "text": "",
+  "sec": 4.937448978424072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/ori_5": {
+  "text": "289 669860 PROR 681186 gaN106 699919666 6018 P0108I",
+  "sec": 5.507936954498291,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_0": {
+  "text": "MHHS\n\n8E dtdel pi\n\na famead fiiedi\n\nfaad ufaeid",
+  "sec": 8.525414943695068,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_1": {
+  "text": "6C7 HOTRE\n\n8E H3\n\nHBHIddl fea\n\nEuhp tH d\n\nHat 05I",
+  "sec": 7.497275352478027,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_2": {
+  "text": "Ygh d farr fa\n\nEdrer dfa Hda\n\n@e Edigdi fea fess\n\n3fpr",
+  "sec": 7.482938528060913,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_3": {
+  "text": "YddHHed 8:30 ENEg dEMT Hara HHT (15.00UTC).",
+  "sec": 5.986538648605347,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_4": {
+  "text": "",
+  "sec": 4.498483419418335,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/pan_5": {
+  "text": "Cnd Meergi 6\n\nd1d3a\n\nBReVTABTONg\n-\n\nEnfEnT",
+  "sec": 6.46140456199646,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_0": {
+  "text": "-\n\n1\n\n1gii\n\nJTOORT\n\n - L :",
+  "sec": 5.946305751800537,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_1": {
+  "text": "RladhT 3da74d I - HIRROE UdlaNP-TTARITA3R",
+  "sec": 5.953650951385498,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_2": {
+  "text": "YaT a ERiidie Tld, T RUT NHRIHO chlowaadrd /",
+  "sec": 7.127421140670776,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_3": {
+  "text": "Sdq BATEIRUIT\n\nfara BATTd:\n\n41 fopy\n\nARTRTZZ HurIPIneT\n\nyo7: SIrAa",
+  "sec": 8.21982717514038,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_4": {
+  "text": "1200GM AE",
+  "sec": 5.891887903213501,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/san_5": {
+  "text": "a uRdRe 3rfechi ulldt: Tod dlyy 3/d",
+  "sec": 7.268068552017212,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_0": {
+  "text": ">2G2R 0907R0\n\n09370502001\n\n9> 6.0Ghz 0920>\n\ncozeen\n\nen220m30 2.66hz",
+  "sec": 6.700222015380859,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_1": {
+  "text": "nopaa 1200EA2 P0asuo 05.6A9 AVZY 00) 9c358000 0002 0088",
+  "sec": 8.221646070480347,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_2": {
+  "text": "b002 9368\n\nu229G-9\n\n20 u72 272\n\nGOW W0200\n\nDOPAL\n\nuze b2G-9C",
+  "sec": 6.731607675552368,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_3": {
+  "text": "vaunzans\n\nazezpeu\n\nBMEZP\n\nQVC - >2\n\nazp pZEO\n\n20C2\n\nu589.2 >2,",
+  "sec": 6.5359485149383545,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_4": {
+  "text": "2009 79 20 m.9 05000. 2032090\n\n2039 C7908 0000% 02 (O notom",
+  "sec": 6.908270835876465,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/sat_5": {
+  "text": "0902 ba2O\n\n699K 093\n\n9296 5EO.G\n\nQaR GOG >2,\n\n020p91230\n\nv9nua13\n\nS229G papo",
+  "sec": 7.314347743988037,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_0": {
+  "text": "bollig lsowg 1ol lLolizo R\n\nHaghyb3 bio Nyolal",
+  "sec": 8.685612440109253,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_1": {
+  "text": "07:19 92 zu0 gy5\n\nGMT-09:19) 39 goldo\n\nR\n\nLUjlo 3 wso p.m.",
+  "sec": 7.652581691741943,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_2": {
+  "text": "b à got c 6 U 9 I 9 A E9\n\nII U\n\n2",
+  "sec": 7.346320152282715,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_3": {
+  "text": "139290 uS 540) L -\n\nL Go jJi dE",
+  "sec": 7.610971212387085,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_4": {
+  "text": "lio 119 Juwgt\n\n-01951 a Jetode\n\nwosjd\n\ngul3u juol 3 yy9",
+  "sec": 7.635661840438843,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/snd_5": {
+  "text": "49 J quo L ulolao\n\nALLU L\na\n\nJuillw\n\nalaw a\n\nShd a\n\nbyhwy\nUb",
+  "sec": 6.802466630935669,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_0": {
+  "text": "OMLO 50LL551601 GLAGLDL5S GUTLD656055, Smis GloJorflufléu 11551015551",
+  "sec": 5.239001750946045,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_1": {
+  "text": "606m 55 ib\n\n60)560)\n\nBLIT6OTO 6011FM 150 J HT60) 560U I\n\nà\n\nSumi 5561",
+  "sec": 5.875845670700073,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_2": {
+  "text": "FUITS o U65 6 (P 560T o 1 5560)8560U of 60T0 12.00 GMT-86 21 : h",
+  "sec": 6.505621671676636,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_3": {
+  "text": "LA60T60T, L22 60T 8560)6ITLJ UNGGUBU 6055IT Fmj LD60760116076U 61515511",
+  "sec": 5.662927627563477,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_4": {
+  "text": "6ITL45560T 551f60 9/6060T 5\n\n8 a I\n\nOIF - GITITLOITOOTU 556516015555115561 YO",
+  "sec": 6.998263597488403,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tam_5": {
+  "text": "-\n\n-",
+  "sec": 5.555542469024658,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_0": {
+  "text": "00\n\nSe\n\n33N0s000",
+  "sec": 5.280029296875,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_1": {
+  "text": "890003 BON2OSO50.0100 3A0536000N) BONON6Os0)",
+  "sec": 4.646783351898193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_2": {
+  "text": "",
+  "sec": 3.8320703506469727,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_3": {
+  "text": "ges S4usaMCn33\n\nSisirfes\n\ndoboo\n\naoso go6o\n\n09050 esots\n\negeai",
+  "sec": 6.061995267868042,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_4": {
+  "text": "",
+  "sec": 3.913433790206909,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/tel_5": {
+  "text": "A €\n\na de",
+  "sec": 5.082562446594238,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_0": {
+  "text": "- 5 U\n\na\n\n2 E",
+  "sec": 7.187991619110107,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_1": {
+  "text": "9 Jar NL -\n\n100",
+  "sec": 6.744778394699097,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_2": {
+  "text": "",
+  "sec": 5.4064555168151855,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_3": {
+  "text": "Slo 539102\n\nWlw\n\nMB Se lgJgo\n\n6s 6 3153\n\nWlu 97 a",
+  "sec": 5.2605202198028564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_4": {
+  "text": "Jbg3 - 3093\n\nUB g5 UStwlal\n\nliolw 6\n\nSMbio 220)\n\n13 , US",
+  "sec": 5.838225841522217,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "degraded_printed/urd_5": {
+  "text": "U SJ 95\n\nwwjuis wob SJ9\n\nLa -",
+  "sec": 5.1989617347717285,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_0": {
+  "text": "12050 Glbo GOUn 25, Ws (GI P1UC 21 P/US 6lo1s GboTI",
+  "sec": 6.49299430847168,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_1": {
+  "text": "PRE L\n\nAGI 7E9 FIRA AGgIN DRIT JSAr ROIC9 ge I",
+  "sec": 4.8071229457855225,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_2": {
+  "text": "277 OIT 280 375 GTCTG Wo C30ISI R19 (RS1 CHIT RII",
+  "sec": 6.370797872543335,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_3": {
+  "text": "MDT UYR PIT >0:00->>:00 9 feoro URPIAPLG C6l00 5R SRbe",
+  "sec": 5.358403205871582,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_4": {
+  "text": "1920 1O 3019 C7* l 149 N TISDS ek-g85t TOSIA WIso AP8 HDOTI",
+  "sec": 6.512884140014648,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/asm_5": {
+  "text": "NAUlel (R5 47 72-701197 5919 RT 1o19 <> RIOO 9i161",
+  "sec": 7.496918678283691,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_0": {
+  "text": "SSAINS 010n o,bto 79PCTNOR AS 4-PURIR*) Gol Gollyit",
+  "sec": 7.167649269104004,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_1": {
+  "text": "ARIOS WARPIICYS GR911, UG - GR8 TIlEs 20N5 TO SUN2I",
+  "sec": 6.056650400161743,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_2": {
+  "text": "COTe-IAS 90377810 Ug 1 CR65 HIAI CAIRIT APCO CW3T RI3",
+  "sec": 5.139240741729736,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_3": {
+  "text": "0AAA10 AITRIS ASCS RAOIAS RNCTO ARTOI CWN",
+  "sec": 6.554563283920288,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_4": {
+  "text": "GICIAIC 2 6 SIGICIS G9 geent 592180 lo RNS 200 AICSI",
+  "sec": 6.212321519851685,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ben_5": {
+  "text": "KIC 09M39 PLS H 6SH CAPS A0b0",
+  "sec": 6.190087556838989,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_0": {
+  "text": "ulel SolGoSHi Riele 241o18\n7\n\n8\n\ngui 8 ER Hld-418 Glslo\n\nale HOL",
+  "sec": 6.745686769485474,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_1": {
+  "text": "aHo H401d otsld d 244540 alouil oteld.",
+  "sec": 6.114284515380859,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_2": {
+  "text": "SRISH HAR 8:30 CIor YRGL YRIl. Reillots RIHRI (15.00 yeleil).",
+  "sec": 5.039052248001099,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_3": {
+  "text": "8q2, 24142 odl ElHoil usoldl 240 lofosod HI2 AL4ER Sle 8.",
+  "sec": 6.96917462348938,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_4": {
+  "text": "duuus 240 HRlaRLHi dH 21l2o11 822olei1",
+  "sec": 6.206210136413574,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/guj_5": {
+  "text": "HRilEg glal 1 HI2 sls LYEEL duss S2e2oll 217 O1aloi 42421 8.",
+  "sec": 5.775324106216431,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_0": {
+  "text": "3114 frIfAS cpl RIT Jrn 5 - X 460 3JER T gild RT arq Hod 6",
+  "sec": 5.859636545181274,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_1": {
+  "text": "alco-fd € HH IHIRO RIHT culfeig a",
+  "sec": 6.352069854736328,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_2": {
+  "text": "HRIVI ISUIRYI TRYT 2T, UET C Salei ARYRK 9 ge HIHC RIT 39 6.",
+  "sec": 6.546278953552246,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_3": {
+  "text": "6lciilg SISOR € NR I TIAR ac 315 eft.\nV\n\nI",
+  "sec": 5.636567831039429,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_4": {
+  "text": "3/dGRily UCHIT 31-dlei 81841 9 ay Ug 379 ayy 5T Hodi à",
+  "sec": 6.895395278930664,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/hin_5": {
+  "text": "SHil CRE, Yoyi € ay gcil ai 6o7 dlei CBBUR 46771 J Y R 6",
+  "sec": 4.786603212356567,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_0": {
+  "text": "eoonos I 23000 Jon ROwro moauneade AORGOO0a.",
+  "sec": 3.9611191749572754,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_1": {
+  "text": "afossaledo a3) noelaonge Jabn Woood NO of deeara) WOR enasee.",
+  "sec": 5.431023836135864,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_2": {
+  "text": "OWos age GORO 2306 GQJOnWo 0 WOWS OWos 000.",
+  "sec": 5.099297523498535,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_3": {
+  "text": "aUJOOS Jaonnewon Noi WA0003JE00 eapaun Ter deewad esdowaaos.",
+  "sec": 5.094957590103149,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_4": {
+  "text": "NOOs DOanTe 0023, 23 ONO 29035NON0,00 300000",
+  "sec": 5.5424964427948,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kan_5": {
+  "text": "Owoo 3 Noi Ngaon eadeds WOWA wa W0Wo).",
+  "sec": 6.792339086532593,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_0": {
+  "text": ".cluuc\n:\n\ns\n-\n\n4do J9! Sl9gUl\nbv",
+  "sec": 5.380162954330444,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_1": {
+  "text": "u UJ9 U Bu GMT 12.00 jl J9S 019S sitwl olc",
+  "sec": 6.382671594619751,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_2": {
+  "text": "II\n\nI\n\nU uui Wios\nII\n\nc\n\n1 2\n\nUgIS\n\nswlw\n\nII\n\norlgol J9S 99a",
+  "sec": 5.159794807434082,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_3": {
+  "text": "jwlJled AS SjU Jlg> S EJT Sikus 4 95 - wl Esg Jlai utwl",
+  "sec": 4.634646415710449,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_4": {
+  "text": "2 LU bv\n\nislw Jol M16 Ui\n\n£ gll Uf ligjino gjJlg",
+  "sec": 4.61164665222168,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/kas_5": {
+  "text": "SUggis Uo9) 07 SHii plai Uli wiw USil9",
+  "sec": 4.410392999649048,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/lus_0": {
+  "text": "Hebrew chhungkaw nundan chu pawn lamah hman a ni",
+  "sec": 4.653398036956787,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_1": {
+  "text": "A hnuah Cambridge-a Addenbrooke Damdawi inah sawn leh a ni.",
+  "sec": 4.726382732391357,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_2": {
+  "text": "Nimahsela, a khalhtu ber chuan a lû ah hliam na tak a tuar a ni.",
+  "sec": 4.642803430557251,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_3": {
+  "text": "Kângthelhtu ten dar 11:35 velah kâng an thelh mit.",
+  "sec": 3.9784443378448486,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_4": {
+  "text": "U.S President George Bush chu thu puanah a lawm hle.",
+  "sec": 3.9580869674682617,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/lus_5": {
+  "text": "Ani chu Kum 2016 ah President ni turin a inpuahchah mek tia sawi a ni.",
+  "sec": 4.788709402084351,
+  "error": null,
+  "mode": "script",
+  "model": "default"
+ },
+ "flores_synth/mai_0": {
+  "text": "UE 47Hq1 IH C60U 4 31ET acic RIHR cd 3181",
+  "sec": 4.284514427185059,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_1": {
+  "text": "cr CRT THYE UHie HE Ec116, vs de - cioSt dgd H6'IT ECTI",
+  "sec": 3.8283491134643555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_2": {
+  "text": "SCRAC UT RIAR 31T YRRYRO HAR gd drq RHH de Ulsd 31891",
+  "sec": 3.993861198425293,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_3": {
+  "text": "YaT 576 glug adue, gRoHT uhullla 3n8 R44 yfed U 31d4 RB R6C ECTI",
+  "sec": 4.100518703460693,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_4": {
+  "text": "Hiealal UoCl dE-uldy JUR/UY 3189 U ulldl Corld T yiisa REC 31891",
+  "sec": 10.330308198928833,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mai_5": {
+  "text": "57dh ydadf, ARCaligeat 31Gd7 AeT TB ded EOCT2I",
+  "sec": 969.9614713191986,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_0": {
+  "text": "0000 60M0 GOUM00U060BUO 00101 11:35 6306S 0 00Sg001.",
+  "sec": 10.662867307662964,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_1": {
+  "text": "GOlm000 600G509100 6302 elgloos01 6300) celonI00 601000) moWgO.",
+  "sec": 8.246703624725342,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_2": {
+  "text": "GOnlbSorlod 64 QIQNOQ, \n\n(Sd6 66(QU01006 aloledonlslel",
+  "sec": 9.874863862991333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_3": {
+  "text": "(GJ6/J0a.106X00 Wngm lalmulawmo 000220 (WOUS 601091 MUJO0OO 60100.",
+  "sec": 12.1391761302948,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_4": {
+  "text": "Gol009J00 600910006 1038010 d0000m00000 QJ0db(06mo 06N3.",
+  "sec": 11.467652082443237,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mal_5": {
+  "text": "\"6300) do1 01001060 GIB0I GOmImUO - 2 - 010615600 -\n\nM00166600\" GOOo.\"",
+  "sec": 7.285925626754761,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_0": {
+  "text": "69 gogal 3140 dgdo 3y Hichooyl odd aldaa.",
+  "sec": 11.993373394012451,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_1": {
+  "text": "RYIRT clioiit dRoddialal cloolai yrald ooft, U clo 3 Rdo eaheil.",
+  "sec": 6.2269978523254395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_2": {
+  "text": "(a adar yoyil IsE SIQOUIR CIESNI AlcU 31q349 315.\nA",
+  "sec": 3.381035327911377,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_3": {
+  "text": "EUF, URI 311 dol di 3f9 cloial ditei HNUT OReit.",
+  "sec": 6.253112316131592,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_4": {
+  "text": "S'is4a 38 AI RoR/ Yraldiei qid aeUgld 3c1.",
+  "sec": 13.163908004760742,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mar_5": {
+  "text": "2016 Ta RipudiyGntIo yyd crdlet 4Ial 3G10 sldl",
+  "sec": 9.920005321502686,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_0": {
+  "text": "AC3I3 TRAT AsC7e (R1D2P2179 oap",
+  "sec": 6.453943490982056,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_1": {
+  "text": "C2p23 20C108-1591911 GRA GSIAI CaAPR GfT COPAT CIAPR ORI",
+  "sec": 5.5614540576934814,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_2": {
+  "text": "(ylooin fo NITE RA SI P021o1",
+  "sec": 5.701250314712524,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_3": {
+  "text": "U7182947 GRUS 011 AKP 01 *IRINT CII",
+  "sec": 4.865766525268555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_4": {
+  "text": "GT16C9C1C91 AP AISPRT AMHT NISTI TCRIT OICAI",
+  "sec": 7.2272727489471436,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/mni_5": {
+  "text": "35mm CPICAS UNT BANTRER 33 O(R7911 36mm AISPOIT 24mm SREI",
+  "sec": 13.109246730804443,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_0": {
+  "text": "4R44660 gell4o raYHT Hoe R RIHIRY Alopru 5-81",
+  "sec": 10.61327338218689,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_1": {
+  "text": "L\n\n-\nYRT AdERd ERURI Adlfro R diol 3/R4q daHr Haycld TRIBE",
+  "sec": 13.744776010513306,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_2": {
+  "text": "diopiyg 4G R Hisoa 4lalql Hrtid-lero € GRHTNd JETI",
+  "sec": 10.381831884384155,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_3": {
+  "text": "Hg YCRT Y6RIC diRyo 0414C4 R Hidsa 417 Y: Yigd TRITI",
+  "sec": 9.072069644927979,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_4": {
+  "text": "SCRACe gd HI46g R YRYRG Halrop drdsracis VsGel",
+  "sec": 9.680551528930664,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/nep_5": {
+  "text": "802.11n Hhg 2.4Ghz R 5.0Ghz gd borhH chy TGE",
+  "sec": 13.898439884185791,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_0": {
+  "text": "801989 81168 Imal ala aell ael 988 AmY9I9 2681",
+  "sec": 12.306596040725708,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_1": {
+  "text": "460192 Gma 9A16160 RIR 291 n\n\nn o 2 8 G g 1618 90881",
+  "sec": 13.048320293426514,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_2": {
+  "text": "686 98988 a9 96m8 699M VA 6mgm Q1968 6a181 Golaomi",
+  "sec": 28.84931969642639,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_3": {
+  "text": "GISR8 9880 999 961616121 6018119 9416am9 268",
+  "sec": 11.643591403961182,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_4": {
+  "text": "NE Allaai 66m aomi 3 a00A 66M adn 69181 68WN",
+  "sec": 23.15730595588684,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/ori_5": {
+  "text": "966P 96618610 amIaPm 661189 99911106 696916666 6a14 AQI8RI",
+  "sec": 11.637883424758911,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_0": {
+  "text": "Idad YEd et fm3d fedi -\n\nMHH'O 48 )\n\nditdel HTI",
+  "sec": 19.071437120437622,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_1": {
+  "text": " CI HOBE 88 tol H8HOdI fea EUPIT ETH a Hot Jol",
+  "sec": 11.51969838142395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_2": {
+  "text": "yfghy fadi fa Edier J fa Hdld Bu Odlgdi fea feo 3 fym Cl",
+  "sec": 18.28397250175476,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_3": {
+  "text": "YdIdTH HEJ 8:30 ET Hd JEMT HHoa HHT (15.00 UTC).",
+  "sec": 10.429055213928223,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_4": {
+  "text": "88 H311 o ABTOmi B48 MME M16 d'fles 0'8 Eied Q13t",
+  "sec": 7.5647194385528564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/pan_5": {
+  "text": "CHÔ M6E O d'H013a JOETH ME HORT Et fom\n)",
+  "sec": 8.060985565185547,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_0": {
+  "text": "balga-nge Highyi Ioplad CoRdl Riledides chrila",
+  "sec": 4.424934387207031,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_1": {
+  "text": "RteghT: 30G740 HIRRR dE Uolag144-d4 3IRI",
+  "sec": 5.054164409637451,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_2": {
+  "text": "4G1 q ARHI aff Jrgld, Y CRUI RIHIRY 314c 6lo-7 Hald I",
+  "sec": 6.817611932754517,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_3": {
+  "text": "Idd 3gURUIT Hd 31Id: 47 14H OH 4471416 yo: 3Ri",
+  "sec": 8.478030920028687,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_4": {
+  "text": "1200 GMT diC-NHY drund laart dl67 3141041d & R dul",
+  "sec": 6.564477443695068,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/san_5": {
+  "text": "59 uRdRR 314CIR\n-\n\nvllg7: For dlyy 3/4ar I",
+  "sec": 6.757668972015381,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_0": {
+  "text": "CO&.CCn LNZZOINO 2.0Ghz 00 (.0Ghz DOLON 103705CZEL7 J2G2C 00.07C0",
+  "sec": 9.975961446762085,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_1": {
+  "text": "n020s B200ENZ g0os0o p0.G19 (DACZL ODOCONOO0Co 00W2 0000",
+  "sec": 9.777022123336792,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_2": {
+  "text": "DOpAL UzE 02G-00 GON wa200 90 une CAL 0000 03b0 UZCOG-)",
+  "sec": 9.040015459060669,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_3": {
+  "text": "2002 4500.9 >2, CAUAEOUN azeepou g0e2p QVC J2 azp p2C0",
+  "sec": 7.034168243408203,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_4": {
+  "text": "C020 n9 90 0o.9 D5D00.2 901320019-0) C020 CA900 00000) 02 DOC 00700'",
+  "sec": 9.141998052597046,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/sat_5": {
+  "text": "000000 (0003 3200G papo WOC 90G >2, 020G 520.G bonl 003 00W2 ba20",
+  "sec": 8.22402024269104,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_0": {
+  "text": "ioll laig LC Juig pljol colizo f jol I luig Ujk3 Jhio  joljol",
+  "sec": 8.08182430267334,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_1": {
+  "text": "9! A Uujlo (taj weas p.m. GMT 09:19) Cog solio 07:19 9? Cuo Jjlj",
+  "sec": 9.181402921676636,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_2": {
+  "text": "gol goyb pol gol çJ UJS 9Jo A E9 5 - ULi f ileo A2C",
+  "sec": 7.942711114883423,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_3": {
+  "text": "uol 39290 ols Ubis - Co Jcil wid JWJ Julo  917 wwwg",
+  "sec": 8.362711191177368,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_4": {
+  "text": ".lio blg uwg 6 9 - A Ugilo JWi wasj 2 guli wuol 3 Jygs",
+  "sec": 7.980088472366333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/snd_5": {
+  "text": "49 WgL0 sai ioleo ssil ::\n\n5 uuijlw Cuaw Oludj Ul L ghwyl",
+  "sec": 9.260483503341675,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_0": {
+  "text": "OMLH a h D - 6 55 60\n\n- (Ih - (3 - O1 IT05605\n\nlb 6 06/6flul6u b15L01551",
+  "sec": 8.781586647033691,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_1": {
+  "text": "60)6m Sn LIT60560WI L BLIIT6OTM J6015M 155 LIIT60560W1\n\nM ml la F155 0u15156T",
+  "sec": 9.095834493637085,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_2": {
+  "text": "FIJITS 9bU1645 6 (L, 5 60T5 O 01560560U o 60T m 12.00 GMT-55 6110151 51 WSI",
+  "sec": 8.853515625,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_3": {
+  "text": "L960T60TI,  360T5560)6ITL LINTG6IS6U 6U55IT Flril (LD60T60f160)6U O 85 8 85 ITIT",
+  "sec": 9.932571172714233,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_4": {
+  "text": "OIITLQ5601 551160 9160060T5 0 U A I 1 85 61h\n\nGITITLOITOOTIU 55 556516015555115561 9561.",
+  "sec": 10.065155267715454,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tam_5": {
+  "text": "65TLT55 60 OLD M U m S 56U 5 L64(615 85 (58 FMUL F60T60T 5 660TM 966551",
+  "sec": 11.263200521469116,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_0": {
+  "text": "eaards 085 aoo WSe) wiso SNO 0a00 a Wdo&.",
+  "sec": 6.400676488876343,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_1": {
+  "text": "eQo, ed N20 Sdo.  JOO JOS 28 O CNo, ed 08 QOo Sdo.",
+  "sec": 9.448278427124023,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_2": {
+  "text": "DOsawsO QWSZ JwoN Jasoesoe, a0 - eo0 awosasa SOo.",
+  "sec": 7.853506565093994,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_3": {
+  "text": "eodgeas eosev eor\n\n00 aaon sonev Wabdo NOsO SOOo.",
+  "sec": 10.666325330734253,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_4": {
+  "text": "0 WosOn Nodojon QWS Weu Sodoje WS0Z St 800.",
+  "sec": 8.756298780441284,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/tel_5": {
+  "text": "030)0 2085 soeavo Jeuso 1 2°020 8008.",
+  "sec": 16.607472896575928,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_0": {
+  "text": "US Elisl Ju J93 - b wlo wlg Sul I Juul AS - 45 iuul",
+  "sec": 12.289693593978882,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_1": {
+  "text": "L 4 Jugs wt Hg1 1S3 niy Cj97 Eo 100",
+  "sec": 10.351308822631836,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_2": {
+  "text": "L J 049  - U Sll o Jl A -\n\nUS I I S45 iuwg",
+  "sec": 18.937578201293945,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_3": {
+  "text": "I Wjkii 6 91S5 wlwi 92 - Slo 5y910 walui Jus Sl Igigo",
+  "sec": 7.662193775177002,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_4": {
+  "text": "ly I Ujs liolwl 5 Uio AROS ws 95 USlwlgal 0bg SeJ9\n\n-",
+  "sec": 10.820355892181396,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "flores_synth/urd_5": {
+  "text": "U : - SJJ9S uwjuis unol S J9\n\nU\n\n- giawgy",
+  "sec": 6.800618410110474,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "funsd/funsd_0": {
+  "text": "ATT. GEN. ADMIN. OFFICE Fax:614-466-5087\n\nDec 10 '98\n\n17:46\n\nP.01\n\nAttorney General\nBetty D. Montgomery\n\nCONFIDENTIAL FACSIMILE\nTRANSMISSION COVER SHEET\n\nFAX NO. (614) 466-5087\n\nTO: George Baroody\n\nFAX NUMBER:\n\n(336) 335-7392\n\nPHONE NUMBER: (336) 335-7363\n\nDATE:\n\n12/10/98\n\nNUMBER OF PAGES INCLUDING COVER SHEET:\n\n3\n\nSENDER/PHONE NUMBER:\n\nJune Flynn for Eric Brown/(614) 466-8980\n\nSPECIAL INSTRUCTIONS:\n\nNOTÉ:\n\nIF YOU DO NOT RECEIVE ANY OF THE PAGES PROPERLY,\nPLEASE CONTACT SENDER\nAS SOON AS POSSIBLE\n\n-\nTHIS MESSAGE Is INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY TO\nWHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED,\nCONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If.the\nreader of this message is not the intended recipient or the employee or agent responsible for delivering\nthe message to the intended recipient, you are hereby notified that any dissemination, distribution,\ncopying. or conveying of this communication in any manner is strictly prohibited. if you have\nreceived this communication in error, please notify us immediately by telephone and return the\noriginal message to us at the address below via the U.S. Postal Service. Thank you for your C\ncooperation.\n\nState Office Tower 1 30 East Broad Street / Columbus, Ohio 43215-3428\nwww.ag.state.oh.us\nAn Equal Opportunity Employer\nOrrined en Resyeled Pepar",
+  "sec": 17.86816668510437,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_1": {
+  "text": "09/17/97 10:55 0503 641 1898\n\nLORILLARD PTLD\n\n0001\n\nTO:\n\nK. A. Sparrow\n\nFROM:\n\nT. D. Blachly\n\nMAY 12[\n\nAUG 41\n\nJUN 23[\n\nSEP 15[ x\n\nSUBJECT:\n\nOLD GOLL D MENTHOL LIGHTS & ULTRA LIGHTS 100'S PROGRESS.REPORT\n\nREGION:\n\n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:\n\nDIVISION: Partland\n\n# REPS: 6\n\nDIVISION: Soattle South # REPS: 7\n\nDIVISION: Boise\n\n# REPS: 2.5\n\nDIVISION: Seatlle North\n\n# REPS: 4\n\nDIVISION: Eugene\n\n# REPS: 5\n\nDIVISION: Helena\n\n# REPS: 4\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION\n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S\n\nT\n\nNOLOR\n\nNO DES\n\nNOMER\n\nDES\n\nUNT\n\nVOLUMER\n\nSTORES\n\nVAMESEZS\n\nOEUME\n\nTaxaco Scattle\n\n105 / 5\n\n225\n\nTexaco Portland\n\n61 /3\n\n27\n\nMaid-0-Clover\n\n20/2\n\n15\n\nDari-Mart\n\n125 I 5\n\n31\n\nZip Trip\n\n106 I 4\n\n18\n\nMaverick\n\n77 I 1\n\n19\n\nAstro Gas\n\n600 I 7\n\n20\n\n8\nN\n2\n\nA-1: OGMUS-15.de\n\nPage1 of 3 Pages",
+  "sec": 14.68824028968811,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_10": {
+  "text": "CASE FORM\n\nÇASE NAME:\n\nDonald D. Sellers and Robin J.Sellers v. Raybestos-Manhattan, et al.\n\nCOURT:\n\nSan Francisco Superior Court - No. 996382\n\nLORILLARD\nENTITIES:\n\nLorillard Tobacco Company\n\nDATE FILED:\n\nDATE SERVED:\n\nAugust 3, 1998\n\nCASE TYPE:\n\nAsbestos\n\nPLAINTIFF'S\nCOUNSEL:\n\nWartnick, Chaber, Harowitz, Smith& Tigerman\nStephenM.Tigerman\n101 California Street, Suite 2200\nSan Francisco, California 94111\n415/986-5566\n\nLORILLARD\nCOUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\nI\n\n-",
+  "sec": 9.591067552566528,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_11": {
+  "text": "*05/01/00\n\n10:21\n\n#612 894 9690\n\nLORILLARD RGN#11\n\n2001/004\n\nYorillard\nTOBACCO COMPANY\n\nFax\n\nTo:\n\nMr. Randy Spell\n\nFrom: Rick Redfield\n\nFax:\n\nDate: May 1, 2000\n\nCC:\n\nMr. Fred Paternostro\n\nFax:\n\n952 894-9690\n\nRe:\n\nLegal - lowa\n\nPages:\n\n4\n\nJurgent\n\nFor Ruview\n\nPlease Commont\n\nPlease Reply\n\nPlease Recycle\n\nComments:\n\nAttached is the lowa Department of Revenue and Finance Minimum Legal Prices\non Cigarettes as of April 3, 2000. I am attempting to obtain a copy of the actual\nFair Trade Law and will forward as soon as obtained.\n\nRick\n\nCONFIDENTIALITY NOTE\nThis facsimile may contain peivilaged and confidential iafornation intended lonly for the uso of the individual or enlity named\nabove. ffthe rader of the facsimile is not the intended recplent or employee or ugent responsible for delivering itio the\n\n2\n\nintended recipient you arel hereby nolifiad thatany dissemination or copying oft this facsimile is sticly prohiblted. ifyou have\n\n5\n\nreceived this facsimile in emor, please nolly usi immediately by tolephone (number indicated below) and return the original\n\n5\n\nfacsimile to us at the address below via the U. S. Postal Service.\n\n2\nU\n\n208 River Ridge Circle\nP.O. Box 1589\nBumsville, MN 55337\nTelephone: (952) 894-2238",
+  "sec": 21.866228580474854,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_12": {
+  "text": "XC: RBS\n12-9-99\nFRomipt RECENED\n\nCOVINGTON & BURLING\n\nDEC - 9 1999\n\n1201 Pennsylvania Avenue, N.W.\n\nR. B. SPELL\n\n-\n-\n\nP.O. Box 7566\nWashington, D.C. 20044-7566\n(202) 662-6000\nFax Numbers (202) 662-6291 or (202) 737-0528\nFax Operator: (202) 662-6280\n\nTHIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADDRESSEE SHOWN\nBELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE\nPROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION\nOR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROHIBITED. IF\nYOu HAVE RECEIVED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND\nMAIL THE ORIGINAL TO US AT THE ABOVE. ADDRESS.\n\nDate:\n\nDecember 9, 1999\n\nTo:\n\nHaney H. Bell, Esq.\n\nFrom:\n\nDavid H. Remes\n(202) 778-5212 - direct fax\n\nRoom:\n\n803E\n\nPages (including cover)\n\nMESSAGE:\n\nTOOD\n\nONITINE 9 NOLDNIAOO\n\nIVd 60:TT 66/60/ZT",
+  "sec": 19.286003351211548,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_13": {
+  "text": "NEW COMPETITIVE PRODUCTS\n\nMKA\n\nREPORTED BY:\n\nBOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN\n\nDATE: 8/10/90 TIME:\n\nSOURCE OF\nINFORMATION:\n\nHALL RODECAP, NOBLESVILLE, IN\n\nBSW\n\nMANUFACTURER:\n\nBRAND NAME: VICEROY KING BOX AND VICEROY LIGHTS KING BOX\n\nTYPE OF\nPRODUCT:\n\nSIZE OR SIZES:\n\nLIST PRICE:\n\nEXTENT OF\nDISTRIBUTION:\n\nOTHER\nANFORMATION:\n\nSEE ATTACHED INFORMATION SHEET\n\ncc:\nA. H. Tisch\n\nG. Telford\n\nJ. J. Tatulli\n\nR.H. Orcutt\n\nF. J. Schultz\n\nL. H. Kersh\n\nM. A. Peterson\n\nA. W. Spears\n\nJ.R. Slater\n\n. H. Mau\n\nN. P. Ruffalo\n\n- Gordon\n\nT.L Achey\n\ns. T. Jones\n\np.P. Mastandrea\n\nP.J. McCann\n\nR. S. Goldbrenner\n\na\n\nA.\n\nJ. Giacolo\n\nE.R Harrow\n\nI",
+  "sec": 14.969304084777832,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_14": {
+  "text": "JAN 11 '99 16:29 FR 8220\n\nTO 3212H128557HC02H P.01\n\nDICKSTEIN\nSHAPIRO\nMORINE\nOSHINSKY\nLP\n\nFAX TRANSMISSION\n\nDATE:\n\nJanuary 11, 1999\n\nCLIENT NO.:\n\nL8557.002\n\nMESSAGE TO: Dewey Tedder\nCOMPANY;\n\nLorillard Tobacco Company\nFAX NUMBER: 336/373-6917\nPHONE:\n\n336/373-6750\n\nFROM:\n\nAndy Zausner and Rob Mangas\n\nPHONE:\n\n202/828-2259 and 202/828-2241\nPAGES (including Cover Sheet): 2. HARD COPY TO FOLLOW:\n\nYES\n\nX NO\n\nJAN 12 1999\n\nMESSAGE: The following is for your review.\n\nIfy your reccipt oft this transmission is in error, please notify this firm immediarely by\ncollect call to our Facsimile Department at 202-861-9106, and send the original\ntransmission to us by return mail at the address below,\nThis transmission is intended for the sole use of the individual and entity to whom it is addressed, and\nmay contain information that is privileged, confidential and excmpt from disclosure under applicable\nlaw. You are bereby notified that any dissemination, distribution or duplication of this transmission by\nsomcone other than thei intended addressce or its designated agent is strictly prohibited.\n\n4\n3\n\n2101 L Street NW Washington, DC 20037-1526 Tel: 202-785-9700 Fax: 202-887-0689",
+  "sec": 22.185579776763916,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_15": {
+  "text": "14/12/98 18:32 FAA z1z 45U 48UU\n\nDPW 1uas\n\n183 UUZ/UUI\n\nDAVIS POLK & WARD' WELL\n\nFax Transmittal\n\nSender\n\n450 Lexington Avenue\n\nCharles Duggan\n\nNew York, NY 10017\n212-450-4000\n\nDate\n\nNumber ofPages (this page included)\n\nNovember 12, 1999\n\n6\n\nSender Voice Number\n\nIf; problems receiving this fax, call\n\n212-450-4785\n\n212-450-4785\n\nSender FaxNumber\n\nReference\n\n212-450-3785\n\n17555-002\n\nTo\n\nFax Number\n\nCompany\n\nRecipient Phonc Number\n\nThomas M. Sobol\n\n617-439-3278\n\nBrown Rudnick Freed 617-330-9000\n& Gesmer\n\nJoseph F. Rice\n\n843-720-9290\n\nNess, Motley,\n\n843-720-9000\n\nLoadholt,\nRichardson &\nPoole\n\nRobert V. Costello\n\n617-722-0286\n\nSchneider, Reilly,\n\n617-227-7500\n\nJeffrey D. Woolf\n\nZabin & Costello\n\nRichard M. Heimann\n\n415-956-1008\n\nLieff, Cabraser &\n\n415-956-1000\n\nHeimann\n\nMichael P. Thornton\n\n817-720-2445\n\nThomton, Early &\n\n617-720-1333\n\nNaumes\n\nMessage:\n\nB\nI\n\nContidentiality/Note: Thiatscairmissintendedr lenlyforthepersone Cr entilyw whdthkisacdrossedi Jandmny contsininformamionthstiepavilegnd,confidntiral\nor otherwisc protected from disslosure, Dissemination, distribation or oopying ofthin factimile or the information hercin by anyone other than the intended\nrouipiu, w u canployee ors agent respensible for deliveringthe messaget tathn intended recipient, i prohibited. Ifyou have receivedt thifasimile in enor,\nplease notify usi immedistely bytelephone and retum the facsimile by mail.",
+  "sec": 21.40709137916565,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_16": {
+  "text": "04/14/99\n\n18:36\n\nFAX 206\n\n3\n\nA\n\n623 0594\n\nHAGENS BERMAN\n\nFeePars.\n0001/057 Agree,\n\nHAGENS BERMAN\n\nXc:\n\ngpw\n\norneya u Law\n1301 FIETH AVENUE, SUIzE agoo - SEATTLE, WA 98101\nTELEPHONE (206) 623-7292 FACSIMILE (206) 6a3-0394\n\nFACSIMILE COVER SHEET\n\nDate:\n\nJanuary 14, 1999\n\nNo. of Pages 37 (inciuding this page)\n\nFrom:\n\nSteve W. Berman\n\nFile No.:\n\n1129.01\n\nRe:\n\nTobacco - Fee Payment Agreement and Release\nCOMMENTS:\n\nRecipient(s):\n\nCompany:\n\nPhone No.:\n\nFax No.:\n\nMr. Meyer G. Koplow\n\nWachtell, Lipton, Rosen (212) 403-1000\n\n(212) 403-2000\n\n& Katz\n\nMr. Arthur F. Golden\n\nDavis, Polk & Wardwell (212) 450-4000\n\n(212) 450-4800\n\nMr. Martin Barrington\n\nPhilip Morris Inc.\n\n(917) 663-5399\n\nMr. F. Anthony Burke\n\nBrown & Williamson\n\n(502) 568-7297\n\nTobacco Corp.\n\nMr. Ronald Milstein\n\nLorillard Tobacco Co.\n\n(336) 335-7707\n\nMr. Charles A. Blixt\n\nR.J. Reynolds Tobacco\n\n(336) 741-2998\n\nCo.\n\nMr. Stephen R. Patton\n\nKirkland & Ellis\n\n(312) 861-2000\n\n(312) 861-2200\n\nUrgent! Deliver Immediately.\n\nPlease call the Support Center at (206) 268-9312 or\n\nat ext.\n\nif you do\n\nnoti receive all of these pages or if there is a problem.\n\n6\n3\n\nThe information contained in this facsimile is conlidentinl and may also be attorey-privileged. Thu information is intended lonly for tho use of\n\n5\n\nthe individual or endty to wham iti is addressed. Ifyou arc not the Intended recipient, orthe emplayce or agent responsible for delivering itto\nthe Intended recipient. you se hereby notified thas any use, dissemination, distriburion or copying oftis communication is strictly prohibited.\ntfyou lave received this facsimile In crror, please immediately notify us by a colleat telephone call to (200) 623-7292, and retum the ariginal\nmessage to us al the address above via the USI Postal Scrvice. Thankyou.\n\n7\na\n\nAPROFESSIONAL SERVICE COMPORATION\n\n7",
+  "sec": 33.45737648010254,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_17": {
+  "text": "09/22/97 MON 15:35 FAX 12124554900\n\nROPER STARCH WORLDWI IDE\n\n1001\n\nI\n\nR_0.P.E.R\nSTARCH\n\nFax\n\nDate:\n\nTo:\n\nCompany:\n\nFax Number:\n\nTURNING PATA INTO INTELLIBENCE WBILDWIDE\"\n\nFax\n\nFax\n\nFax\n\nFax\n\nFax Fax Fax\n\nFax\n\nSeptember 22, 1997\nRon Milstein\n\nFrom:\n\n\"JJ\" Klein\n\nLorillard\n\n(910) 335-7707\n\nPages (Including cover page):\n\n3\n\nRoper Starch Worldwide Inc.\n2051 East 142nd Steet\n\nRoper Marketing and Public Opinion Research\n\nNew York NY 10017\n\nStarch/ Advertising and Medial Ressarch\n\n212: 599 0700 Tal\n\nFriedinan Markeding Services\n\n212887 7008 Fax\n\nINRA Word Headquarters",
+  "sec": 16.16625714302063,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_18": {
+  "text": "FEB 25 '98 18:23 FR\n\nTO\n\n#1285574002# P.01\n\nDICKSTEIN\nSHAPIRO\nMORINO\nOSHINSKY\nLP\n\n*\n\nFAX TRANSMISSION\n\nDATE:\n\nFcbruary 25, 1998\n\nCLIENT NO.:\n\nL8557.002\n\nMESSAGE TO: Ronald S. Milstein\n\nCOMPANY:\n\nLorillard Tobacco Company\nFAX NUMBER: 910/335-7707\nPHONE:\n\n910/335-7718\n\nFROM:\n\nAndy Zausner\n\nPHONE:\n\n202/828-2259\nPAGES (Including Cover Sheet): 12 HARD COPY TO FOLLOW:\n\nYES\n\nNO\n\nMESSAGE: Scc attached fàx from the Committee on Commerce just received in my\nofficc. Call me to discuss.\n\nIfy your receipt of this transmission is in error, please notify this firm immediatcly by\ncollect call to our Facsimile Department ar 202-861-9106, and send the original\ntransmission to us by rctum mail at thc address below.\nThis transmission is intended for the solc usc of the individual and cntity to whom it is addressed, and\nmay contain information thot is privileged, confidential and exempt from disclosure under applicable\nlaw. You are hercby notificd that any disscmination, distribution or duplication of this transmission by\nsomconc other than the intended addressee or its designated agent is strictly prohibited.\n\n8\nN\n\n2101 L Street NW Washington, DC 20037-1528 Tel 202-785-9700 Fax: 202-887-0689",
+  "sec": 23.617244958877563,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_19": {
+  "text": "JUN es '97 02:00PM LOEWS CORP LEGAL\n\nP.1/6\n\nLOEWS\nCORPORATION\n\nBARRY HIRSCH\nSenlor Vice President\n\n867 Madison Avenue, New York, NY. 10021-8087 (212) 545-2920 Fax (212) 935-6801\n\nSocretary & Gonoral Counsal\n\nEAX\n\nCONFIDENTIAL\n\nDATE:\n\nJunc 4, 1997\n\nTO:\n\nDr. Spears/A.J. Stevens/R. Milstein\n\nFROM:\n\nBarry Hirsch\n\nTOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET-6\nIF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL\nCAROL DOKTORSKI AT (212) 545-2934.\n\nOUR FAX NUMBER IS (212) 935-6801.\n\nTHIS TRANSMISSICN IG INTEORD ONLY POR THE USE or THB ZHDIVIDOAL Cx ENTITY TO MROM IT IS ADDRROSRD, AND KAY\nCONTAIN INPORJATICN THAT 10 PRIVILEGED, CONPIDHRTIAL AKD IXEMPE FROM DISCLOSORE UDER APPLICASLE LAK. IF\n\n8\n\nYOO ARK MOT nHts INTANDED RECIPIENT, YOu ARE HARADY NOTIFIED THAT ANY DIESENDIATION, DISTRIBUTION OR COPYINO\ncr THIS COMMOHICATION I8 GTRICTLY PROHIBITED. IV YOU HAVE RECZIVED TIIS COMMONICATION IN TRROR. PLEASE\n\nNOTIFY US IMPADIATALY BY TELEPRONR AD RETUAN THB CRIGINAL MESSAGB TO B AT THE ABOVE ADDRBSS VIA T U.s.\n\n6\n\nPOSTAL SERVICE. TIONK YOU.\n\n5\nC\n5",
+  "sec": 25.888132095336914,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_2": {
+  "text": "COMPETITIVE PRODUCT INTRODUCTION\nPROGRESS REPORT\n\nTO:\n\nSam Zolot\n\nMANUFACTURER:\n\nB&W\n\nFROM: D.J. Landro\n\nBRAND:\n\nKool Waterfall\n\nDATE: 2-Dec-97\n\nTYPE OF PACKINGS:\n\nAll Packings\n\nREPORTING PERIODS:\n\nOct.\n\nNov. X\n\nDec.\n\nJan.\n\nTEST MARKET GEOGRAPHY:\n\nDivisions 621 and 1627\n\nwisconiin\n\nPRICE POINT: FULL $\n\nPV $\n\n(Indicate Distributor's Cost Per Carton)\n\nSALES FORCE INVOLVEMENT:\nThey have crew-worked distribution, and iti is reported that they may crew-work it again. Sales force has been busy\npromoting old style packs to clean up inventory. All POS is being converted to' \"B\" Kool.\n\nDISTRIBUTORS - ACCEPTANCEINTRO TERMS/INTRO DEALS/INVOLVEMENT:\nAll accounts have the new packaging. It was not a problem obtaining new distribution. All accounts appear\nto have 100% distribution of new packings.\n\nCHAINS - ACCEPTANCEIMERCHANDISING:\nThis has not been a problem. New packaging is just following up on the old \"packaging\".\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING:\nVery well received. The old packs are being consolidated and promoted in select retail locations at 40g\noff/$4.00 off cartons.\n\nADVERTISING -1 EFFECTIVENESS OF P.O.S.:\nThe theme \"B\" Kool has replaced all previous POS. They have effectively replaced all old POS. New\ndoor signage, hour signs, poster mats, and clocks have the new design. \"B\" Kool also appears on billboards\nin Illinois.\n\nPAGE 1 OF: 2",
+  "sec": 28.898487091064453,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_3": {
+  "text": "11/05/97 11:03\n\n8813 884 0663\n\nLORILLARD TAXPA + GREENSBOR\n\n002/003\n\n-\n\nRetail Excel Progress Report\n\nSubmission for:\nJuly 31\n\nDistribution bylto:\n\n()\n\nDM to RSM 1st of Month\n\nAugust 29\n\n()\n\nTo:\n\nR.W. Caldarella\n\nRSM to RW.C. 10th\n\nSeptember 30 ()\n\nCC: D.O.S.\n\nOctober 31\n\n(X)\n\nFrom:\n\nKent B. Mills\n\nNovember: 28 ( )\nDecember 30 ( )\n\nArea: 5 Region: 17\nAcceptance/Response: What is the retailers response to Lorillard's Excel\nMerchandising plan?\nChains: This program has been successful to date with chains where our \"Flex\nPayment\" was not in place. The chains where we were using the \"Flex Payment\"\nsystem we have not beenas successful. The P.O.S. requirements of the P-1 Plan\nwith Oil Companies is difficult to obtain,\n\nIndependents:\nAdditional LPV.merchandising is being secured quickly,\nAdditional monies have assisted Region 17 in fighting. PMU Exclusives and PM/RJR\nco-existence situations.\n\nHardware Evaluation/Effectiveness: Comment on the assembly of displays and\napplication of shields:\nIhe displays are easily assembled and durable. Some.questions have been raised\nconceming the inability to beflush with the counter and/or. un against the register.\nAs well as the ability to place this on the Back Bar if the settlement goes through.\n\nPermanent Advertising Evaluation/Effectiveness/Acceptance: (P-1/P-5 & C-5\nPlans Only:\n\nNot available at this time\n\nI",
+  "sec": 26.290794372558594,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_4": {
+  "text": "-\nTO:\n\nK. A. Sparrow\n\nSUBMISSIONI DATE\n\nFROM:\n\nD. J. Landro\n\nMAY 12L\n\nAUG 41\n\nJUN 23X\n\nSEP 15\n\nSUBJECT:\n\nOLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 100'S - PROGRESS REPORT\n\nGEOGRAPHY\n\nREGION:\n\n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:\n\nDIVISION NAME:\n\nMilw. South DIVISION NAME:\n\n# REP\n\n7\n\nDIVISION NAME:\n\nMilw. North DIVISION NAME:\n\n# REP\n\n7\n\nDIVISION NAME:\n\nDIVISION NAME:\n\n# REPS\n\nDISTRIBUTION\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION\n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S\n\nINDILOR\n\nNO. OF\n\nIND/LOR\n\nNO. OF\n\nNAME OF ACCOUNT\n\nVOLUME\n\nSTORES\n\nNAME OF ACCOUNT\n\nVOLUME\n\nSTORES\n\nWalgreen Drug\n\n144/14\n\n93\n\nOLDGOLD.XLS\n\nPage1 of 3 Pages\n\n-\n2\n2",
+  "sec": 12.465843439102173,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_5": {
+  "text": "12/10/36\n\n09:51\n\n6317 8450971\n\nLORILLARD\n\n0002/002\n\nCOMPETITIVE PRODUCT INTRODUCTION\nPROGRESS REPORT\n\nTO:\n\nMRS. K. A. SPARROW\n\nMANUFACTURER: R. J. Reynolds\n\nFROM: R.G. Ryan\n\nBRAND: Camel Menthol\n\nDATE: 12/10/96\n\nTYPE OF PACKINGS: Full Flavor Box and Light Box\n\nRÉPORTING PERIODS:\n\nAUG\n\nSEPT\n\nOCT\n\nNOV\n\nX\n\n(Forward by the 10th of the following month.)\n\nTEST MARKET GEOGRAPHY:\n\nAll of Region 7.\n\nPRICE POINT:\n\nFULL $11.89\n\nPN $\n\n(indicate Distributor's Cost Per Carton)\n\n>\n\nSALES FORCE INVOLVEMENT: Merchandising the top tray of permanent counter displays and labeling\ncarton fixtures in the Camel section. Also placing metal signs and temporary counter displays.\n\nDISTRIBUTORS - ACCEPTANCE/INTRO TERMS/INTRO DEALS:\nProduct is being introduced to all Direct Accountsi in thel Region. Acceptance is spotty at this time.\n\nDISTRIBUTOR INVOLVEMENT:\nAssembly of promotional products and shipment to retail. Indianapolis Direct Accounts are reported to be\nreceiving B1G1F product.\n\nCHAINS - ACCEPTANCE/MERCHANDISING ALLOWANCE\nChain acceptance has been very good.\n\n82253058\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING ALLOWANCE\nAcceptance is better at high volume locations than at lower volume retail calls.\n\nCAMELWK1/FMT\n\nPAGE 1 OF 2",
+  "sec": 22.984911918640137,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_6": {
+  "text": "TO:\n\nK. A. Sparrow\n\nSUBMISSION DATE\n\nFROM:\n\nR. E. Lane\n\nJUNE 30[\n\nX\n\nSEP 22\n\nAUG 11\n\nNOV 10\n\nSUBJECT:\n\nSTYLE LOW PRICE - PROGRESS REPORT\n\nS B\n\ni A\n\nVEFEEOTIVENESS OFTransition Plane\n\n(Report on June 30 only)\nPRE-SELL\n\nOverall pre-sell efforts were successful, Retail accounts that previously stocked\nStyle Full Price accepted the introduction of thel low price.\n\nBIGIF /2 FOR 1:\n\nProved to be an excellent tool for pulling thel balance of Style Full Price packs through\nthe system. This aided the field greatly during thet transition.\n\n$7.00 CARTON COUPON/BUYDOWN:\n\nEffective in those retail calls that we could not exchange product out of.\n\nThose situations werel limited.\n\nDR\n\nAEA DISTRIBUTION M\nDIRECT ACCOUNTS, AND CHAINS HEADQUARTERED' WITHIN THE REGION\n(15 + STORES) STOCKING NO LOW PRICE STYLE\nIND/LOR\n\nNO. OF\n\nà\n\nIND/LOR\n\nNAME OF ACCOUNT\n\nVOLUME\n\ne\n\nNO! OF\n\nSTORES\n\nNAME OF ACCOUNT\n\nVOLUME\n\nSTORES\n\nM. Maskos & Sons\nPollock Candy and Cigar\nMcKeesport Candy Co.\nSico Serve\n\n104/22\n\n18\n\nSheetz\n\n521/42\n\n150\n\nThrift/Eckerd\n\n137/20\n\n183\n\nDIRECT ACCOUNTS, AND CHAINS HEADQUARTERED OUTSIDE THE REGION\n(15 + STORES) STOCKING NO LOW PRICE STYLE\n1 a\n\nIND/LOR\n\nNO. OF\n\nIND/LOR\n\nNO. OF\n\nNAME OFACCOUNT\n\nVOLUME\n\nSTORES\n\nNAME OPACCOUNT\n\nVOLUME\n\nSTORES\n\nKroger\n\n21\n\nRich Oil\n\n82\n\nSuper America\n\n106\n\nCVS\n\n87\n\nW H Smith\n\n5\n\n7-11 318 Zon\n\n23\n\nDairy Marts\n\n35\n\n-\n\nWidman Drugs\n\n43\n\n3\n\nSTYLE.XLS\n\nPage1 of 3 Pages",
+  "sec": 24.337844133377075,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_7": {
+  "text": "TO:\n\nK. A. Sparrow\n\nSUBMISSIONI DATE\n\nFROM:\n\nJ.L McGinnis\n\nMAY 19\n\nAUG 11\n\nJUN30\n\nSEP: 22\n\nSUBJECT:\n\nMAVERICK SPECIALS MENTHOL - PROGRESS REPORT\nRSNE GEOGRAPHY\n\nREGION:\n\nFULL. X\n\nPARTIAL,\n\n(ONLY IF PARTIALI REGION CONTINUE WITHI DIVISION(S) SCOPE)\nDIVISION:\n\nFULL.\n\nPARTIAL,\n\nDIVISION NAME:\n\nDIVISION NAME:\n\n# REPS\n\nDIVISION NAME:\n\nDIVISION NAME:\n\nREPS\n\nDIVISION NAME:\n\nDIVISION NAME:\n\n# REPS\n\nDISTRIBUTION\n\n*\nDIRECTA ACCOUNTS, AND CHAINS HEADQUARTEREDI WITHIN THE REGION\n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL\nINDILOR NO. OF\n\n#R\n\nINDILOR NO. OF\n\nNAME OF ACCOUNT VOLUME STORES\n\nNAME OF ACCOUNT VOLUME STORES\n\nDon & Bens\n\n26/2\n\n20\n\nSac NI Pac\n\n75/2\n\n27\n\nWestern Beverage\n\n42/2\n\n15\n\nACO/Texaco\n\n95/3\n\n15\n\nSpeedy Stop\n\n106/4\n\n29\n\nLone Star\n\n76/3\n\n37\n\nGet-N-Go\n\n62/2\n\n44\n\nValley Shamrock\n\n78/4\n\n17\n\nAlbertson's -Houston\n\n319/16\n\n34\n\nMini Mart\n\n65/3\n\n15\n\nNeelrs One Stop\n\n69/3\n\n20\n\nShopper Mart\n\n80/4\n\n22\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION\n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL\nINDILOR\n\nNO. OF No\n\nL\n\nINDILOR NO, OF\n\nNAME OF ACCOUNT VOLUME\n\nSTORES ant NAME OFACCOUNT VOLUME STORES\n\nChevron\n\n?\n\n115\n\nBrookshire Bro.'s\n\n?\n\n38\n\nEckerd Drugs S. Texas\n\n?\n\n217\n\nExxon\n\n?\n\n38\n\nPhilip's 66\n\n?\n\n27\n\nStar Enterprise\n\n?\n\n70\n\nWalgreen's\n\n?\n\n177\n\nMAVPROGOXLS\n\nPage1 of 31 Pages\n\nR\n5\n3\n3",
+  "sec": 21.06355857849121,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_8": {
+  "text": "TO:\n\nK. A SPARROW\n\nDATETONYO:\n\n1/24/97\n\nFROM:\n\nS. Reindel\n\nDIV.NAME/NO:\n\nNassau / 107\n\n1997 SPECIAL EVENT REQUEST FORM\n\nNAME OF EVENT:\n\nH. Levinson Tradeshow\n\n*DATE OF EVENT:\n\n3/18/97\n\nSAMPLES D ITEMS REQUIRED: SAMPLE 10'S (400 PACKS PER CASE)\n\nCASES\n\nNEWPORTK.S.\n\n2\n\nKENT III KS.\n\nKENTGLLTSK.S.\n\nNEWPORT 100'S\n\nKENT III 100\n\nKENT GL 100\n\nNEWPORTLTS. KS.\n\nTRUEKS.\n\nNEWPORTLTS. 100\n\nKENT KS.\n\nI\n\nKENT 100\n\nITEMS\n\nQUANTITY REQUIRED\n\nBASEBALL CAP\n\n1500\n\nWATER BOTTLES\n\n500\n\nSHIP TO:\nCUSTOMER SHIPPING NUMBER\n\n198-1160006\n\nNYO ONLY:\nDATEFORWARDEDTO PROMOTION SERVICES:\n\nzlulgz\n\n-\na\n\n* PLEASE. ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.\n\nREQFORM\n\n01/17/97",
+  "sec": 10.656733512878418,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "funsd/funsd_9": {
+  "text": "CASE FORM\n\nCASE NAME:\n\nWanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, et al.\n\nCOURT:\n\nSan Francisco Superior Court No. 996378\n\nLORILLARD\nENTITIES:\n\nLorillard Tobacco Company\n\nDATE FILED:\n\nJuly 23, 1998\n\nDATE SERVED:\n\nAugust 3, 1998\n\nCASE TYPE:\n\nAsbestos\n\nPLAINTIFF'S\nCOUNSEL:\n\nWartnick, Chaber, Harowitz, Smith& Tigerman\nMadelyn J. Chaber\n101 California Street, Suite 2200\nSan Francisco, California 94111\n415/986-5566\n\nLORILLARD\nCOUNSEL:\n\nJUDGE:\n\nTRIAL DATE:\n\nI\n\nI",
+  "sec": 8.390417337417603,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "handwritten/hin_0": {
+  "text": "( C -\n\n-\n\ndin\n\n)",
+  "sec": 4.506826400756836,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_1": {
+  "text": "",
+  "sec": 3.337902307510376,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_10": {
+  "text": "-",
+  "sec": 4.242585182189941,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_11": {
+  "text": "- -\n\na",
+  "sec": 6.292025327682495,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_12": {
+  "text": "",
+  "sec": 4.400836706161499,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_13": {
+  "text": "C",
+  "sec": 6.396549940109253,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_14": {
+  "text": "",
+  "sec": 5.836787462234497,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_15": {
+  "text": "RI Eloomui",
+  "sec": 6.977634906768799,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_16": {
+  "text": "-\nJ\n\n4\n\na",
+  "sec": 7.574663162231445,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_17": {
+  "text": "E ToJ -",
+  "sec": 5.071479558944702,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_18": {
+  "text": "S",
+  "sec": 4.973453044891357,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_19": {
+  "text": "oh 07\n\n-\n\nOU",
+  "sec": 4.409909009933472,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_2": {
+  "text": "",
+  "sec": 4.539971113204956,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_20": {
+  "text": "",
+  "sec": 4.632830381393433,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_21": {
+  "text": "0 Ull\n\na",
+  "sec": 5.994653224945068,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_22": {
+  "text": "duT\n\nC\n\nI",
+  "sec": 4.115328311920166,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_23": {
+  "text": "",
+  "sec": 4.354950428009033,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_24": {
+  "text": "ZRIAIH",
+  "sec": 3.6698880195617676,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_25": {
+  "text": "Aluloi",
+  "sec": 5.64784049987793,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_26": {
+  "text": ".",
+  "sec": 6.011261224746704,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_27": {
+  "text": "C\na C\n\n0",
+  "sec": 5.501550674438477,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_28": {
+  "text": "",
+  "sec": 5.357701539993286,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_29": {
+  "text": "gaai\n-\n-",
+  "sec": 4.241414785385132,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_3": {
+  "text": "- ( a\n\nà\n\n-",
+  "sec": 5.51472544670105,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_4": {
+  "text": "-\n\nUC\n\n1218\n-",
+  "sec": 4.997539281845093,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_5": {
+  "text": "2101\n\n- -\n\n2701",
+  "sec": 4.744788885116577,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_6": {
+  "text": "",
+  "sec": 6.027965545654297,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_7": {
+  "text": "2\n-\n\n-\n-\n-",
+  "sec": 5.020841836929321,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_8": {
+  "text": "T -",
+  "sec": 4.533433198928833,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/hin_9": {
+  "text": "-\n/\n\n2\n\na\nC\n-",
+  "sec": 5.675473690032959,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_0": {
+  "text": "8 UIB\n\n60 O\n\nOO0 blo",
+  "sec": 5.602613210678101,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_1": {
+  "text": "6 3 - 1 I\n\noonn\n\na\n\n-",
+  "sec": 6.587009429931641,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_10": {
+  "text": "OUE Golon",
+  "sec": 4.639519929885864,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_11": {
+  "text": "DWos\n\nA 2\n\nDD 0",
+  "sec": 5.917492628097534,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_12": {
+  "text": "P\n\n R\nA\n\n- is\n\ny\n\nd 2",
+  "sec": 6.91026759147644,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_13": {
+  "text": "Con\n\n-",
+  "sec": 5.345135927200317,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_14": {
+  "text": "21lo d 6Un8",
+  "sec": 7.149124383926392,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_15": {
+  "text": "OBAA\n\nlwn",
+  "sec": 5.460102081298828,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_16": {
+  "text": "e\n\n25 (4 -",
+  "sec": 5.625820159912109,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_17": {
+  "text": "A A\n\na",
+  "sec": 5.333783149719238,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_18": {
+  "text": "O0J0ULGE 3",
+  "sec": 5.522021055221558,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_19": {
+  "text": "4\n001\n\n8000",
+  "sec": 5.611867189407349,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_2": {
+  "text": "CT -\n\nI S\n\nf",
+  "sec": 4.673424482345581,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_20": {
+  "text": "D00\n\n- 52",
+  "sec": 6.7427661418914795,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_21": {
+  "text": "I 61 boou\n\n-\n\nSO Boro",
+  "sec": 7.763278007507324,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_22": {
+  "text": "UT OTT 852 0 OOD C",
+  "sec": 14.787160873413086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_23": {
+  "text": "Anovod)",
+  "sec": 8.586166620254517,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_24": {
+  "text": "g15\n\nC\n- L -\n\n-\n\n2\n\nWo",
+  "sec": 10.514596223831177,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_25": {
+  "text": "C\nDOO) à\n\n1",
+  "sec": 6.109479188919067,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_26": {
+  "text": "0615 - 92",
+  "sec": 13.23884630203247,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_27": {
+  "text": "ios BUUOI\n.\n\n-\n\nLo\n\nC",
+  "sec": 3.772801637649536,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_28": {
+  "text": "016un Beoioono )\n-",
+  "sec": 4.184100389480591,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_29": {
+  "text": "4\n\n-\nI",
+  "sec": 3.9520156383514404,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_3": {
+  "text": "Ge-SotonLOn",
+  "sec": 3.8126611709594727,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_4": {
+  "text": "A\n\nED\n\nA U\n\nJ",
+  "sec": 4.10453724861145,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_5": {
+  "text": "a\n\n-\n\nLan\n\n-\n\n/\na\n\n-\n\n-\n:",
+  "sec": 4.277843713760376,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_6": {
+  "text": "L\n\na\n- -\n\nIor\n\nL",
+  "sec": 4.296676158905029,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_7": {
+  "text": "990 5o1",
+  "sec": 3.831627607345581,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_8": {
+  "text": "Lo IT\n\n6) Dm M L - an",
+  "sec": 4.17885160446167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten/tam_9": {
+  "text": "2 Af - F\n\n2on B2 -",
+  "sec": 3.8008108139038086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_0": {
+  "text": "",
+  "sec": 3.315910816192627,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_1": {
+  "text": "",
+  "sec": 3.3873655796051025,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_10": {
+  "text": "",
+  "sec": 3.4996731281280518,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_11": {
+  "text": "",
+  "sec": 3.4990034103393555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_12": {
+  "text": "",
+  "sec": 3.5971949100494385,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_13": {
+  "text": ".\n\nI\n\n-\n127\n\n-\n\nGA8M",
+  "sec": 4.295274019241333,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_14": {
+  "text": "",
+  "sec": 3.854468584060669,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_15": {
+  "text": "-",
+  "sec": 3.5958919525146484,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_16": {
+  "text": "",
+  "sec": 3.4005298614501953,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_17": {
+  "text": "",
+  "sec": 3.2516517639160156,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_18": {
+  "text": "",
+  "sec": 3.4375245571136475,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_19": {
+  "text": "à I - )\n\nY V\n\n/",
+  "sec": 3.8600094318389893,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_2": {
+  "text": "",
+  "sec": 3.415090560913086,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_20": {
+  "text": "/\n\n-\n\n1 -\n\n-\n\nV",
+  "sec": 4.014611721038818,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_21": {
+  "text": "",
+  "sec": 3.3990349769592285,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_22": {
+  "text": "",
+  "sec": 3.680136203765869,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_23": {
+  "text": "",
+  "sec": 3.4076383113861084,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_24": {
+  "text": "",
+  "sec": 3.430678606033325,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_25": {
+  "text": "-\n\nrons",
+  "sec": 3.663280963897705,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_26": {
+  "text": "-",
+  "sec": 4.183927297592163,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_27": {
+  "text": "",
+  "sec": 3.4819586277008057,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_28": {
+  "text": "A MY\n\n- .\n\n-",
+  "sec": 3.8719170093536377,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_29": {
+  "text": "",
+  "sec": 4.188000202178955,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_3": {
+  "text": "",
+  "sec": 3.759481906890869,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_30": {
+  "text": "-",
+  "sec": 3.57421612739563,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_31": {
+  "text": "I\n\n- L\n\nGM",
+  "sec": 3.542980670928955,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_32": {
+  "text": "",
+  "sec": 3.342635154724121,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_33": {
+  "text": "vA\n\n-\n-\n\n.\n\n-\n\nI -\n\n-\n\nM",
+  "sec": 3.9210946559906006,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_34": {
+  "text": "",
+  "sec": 3.3941922187805176,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_35": {
+  "text": "",
+  "sec": 3.5055429935455322,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_4": {
+  "text": "",
+  "sec": 3.8209753036499023,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_5": {
+  "text": "",
+  "sec": 3.79872989654541,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_6": {
+  "text": "-\n)\n\n.\n\n€\n-",
+  "sec": 4.360080242156982,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_7": {
+  "text": "C I à\n\nCU7",
+  "sec": 3.970733404159546,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_8": {
+  "text": "",
+  "sec": 3.4357211589813232,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/ben_9": {
+  "text": "",
+  "sec": 3.400303840637207,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_0": {
+  "text": "",
+  "sec": 3.6213138103485107,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_1": {
+  "text": "",
+  "sec": 3.949052095413208,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_10": {
+  "text": "",
+  "sec": 3.788841724395752,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_11": {
+  "text": "",
+  "sec": 3.442147970199585,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_12": {
+  "text": "",
+  "sec": 3.144275188446045,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_13": {
+  "text": "",
+  "sec": 3.3102681636810303,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_14": {
+  "text": "",
+  "sec": 3.504795789718628,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_15": {
+  "text": "1 -",
+  "sec": 4.4907615184783936,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_16": {
+  "text": "I -",
+  "sec": 3.6851277351379395,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_17": {
+  "text": "",
+  "sec": 3.5270745754241943,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_18": {
+  "text": "",
+  "sec": 3.3628275394439697,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_19": {
+  "text": "",
+  "sec": 3.2842984199523926,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_2": {
+  "text": "",
+  "sec": 3.2992782592773438,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_20": {
+  "text": "",
+  "sec": 3.528214931488037,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_21": {
+  "text": "à",
+  "sec": 3.505845308303833,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_22": {
+  "text": "",
+  "sec": 3.8706717491149902,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_23": {
+  "text": "",
+  "sec": 3.4728174209594727,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_24": {
+  "text": "GE - a LUId",
+  "sec": 3.5194284915924072,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_25": {
+  "text": "",
+  "sec": 3.3745291233062744,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_26": {
+  "text": "",
+  "sec": 3.592451333999634,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_27": {
+  "text": "(al edlloo L -\n-",
+  "sec": 3.85316801071167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_28": {
+  "text": "",
+  "sec": 3.2662792205810547,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_29": {
+  "text": "",
+  "sec": 3.6352760791778564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_3": {
+  "text": "IV .\n\n11 I",
+  "sec": 4.551339864730835,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_30": {
+  "text": "",
+  "sec": 3.732072114944458,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_31": {
+  "text": "",
+  "sec": 3.4789319038391113,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_32": {
+  "text": "",
+  "sec": 3.3873066902160645,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_33": {
+  "text": "-\n\na",
+  "sec": 3.512345790863037,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_34": {
+  "text": "",
+  "sec": 3.6665728092193604,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_35": {
+  "text": "",
+  "sec": 3.400343894958496,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_4": {
+  "text": "",
+  "sec": 3.808454990386963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_5": {
+  "text": "",
+  "sec": 3.5811612606048584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_6": {
+  "text": "",
+  "sec": 3.6656370162963867,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_7": {
+  "text": "- 1210 - I -\n\nC ur -",
+  "sec": 11.352692604064941,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_8": {
+  "text": "",
+  "sec": 9.54927396774292,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/guj_9": {
+  "text": "",
+  "sec": 8.198265552520752,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_0": {
+  "text": "- -\n\nw0 ne\n-\n\n-",
+  "sec": 6.659006357192993,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_1": {
+  "text": "- - .\n-\n-\n\nA",
+  "sec": 6.528838872909546,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_10": {
+  "text": "",
+  "sec": 5.953984260559082,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_11": {
+  "text": "",
+  "sec": 6.099867582321167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_12": {
+  "text": "",
+  "sec": 6.327843189239502,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_13": {
+  "text": "",
+  "sec": 6.225096940994263,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_14": {
+  "text": "",
+  "sec": 6.2293477058410645,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_15": {
+  "text": "DOL",
+  "sec": 6.448730230331421,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_16": {
+  "text": "",
+  "sec": 7.131666898727417,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_17": {
+  "text": "",
+  "sec": 13.950428485870361,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_18": {
+  "text": "",
+  "sec": 7.753634452819824,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_19": {
+  "text": "",
+  "sec": 6.078230381011963,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_2": {
+  "text": "",
+  "sec": 6.1520326137542725,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_20": {
+  "text": "",
+  "sec": 6.101417779922485,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_21": {
+  "text": "",
+  "sec": 6.710296392440796,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_22": {
+  "text": "",
+  "sec": 7.695092439651489,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_23": {
+  "text": "",
+  "sec": 6.920913934707642,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_24": {
+  "text": "",
+  "sec": 7.361094951629639,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_25": {
+  "text": "",
+  "sec": 8.577724695205688,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_26": {
+  "text": "",
+  "sec": 8.690739154815674,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_27": {
+  "text": "a\n\naU Qdal",
+  "sec": 9.193451166152954,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_28": {
+  "text": "",
+  "sec": 5.957772731781006,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_29": {
+  "text": "",
+  "sec": 5.917881488800049,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_3": {
+  "text": "",
+  "sec": 5.786344528198242,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_30": {
+  "text": "",
+  "sec": 5.899091482162476,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_31": {
+  "text": "",
+  "sec": 8.058027982711792,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_32": {
+  "text": "",
+  "sec": 9.06223440170288,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_33": {
+  "text": "",
+  "sec": 10.167314052581787,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_34": {
+  "text": "",
+  "sec": 9.357070446014404,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_35": {
+  "text": "W8O -",
+  "sec": 9.643587350845337,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_4": {
+  "text": ". I",
+  "sec": 9.580581426620483,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_5": {
+  "text": "",
+  "sec": 8.52145504951477,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_6": {
+  "text": "",
+  "sec": 7.788307428359985,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_7": {
+  "text": "",
+  "sec": 7.40547513961792,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_8": {
+  "text": "-",
+  "sec": 8.31877875328064,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/kan_9": {
+  "text": "",
+  "sec": 8.27879786491394,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_0": {
+  "text": "",
+  "sec": 7.907369136810303,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_1": {
+  "text": "A oano.",
+  "sec": 8.958800554275513,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_10": {
+  "text": "",
+  "sec": 8.185086011886597,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_11": {
+  "text": "",
+  "sec": 9.59265685081482,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_12": {
+  "text": "-\n\n-",
+  "sec": 8.405895709991455,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_13": {
+  "text": "",
+  "sec": 8.028305768966675,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_14": {
+  "text": "",
+  "sec": 7.251895427703857,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_15": {
+  "text": "",
+  "sec": 7.0804009437561035,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_16": {
+  "text": "",
+  "sec": 8.235010385513306,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_17": {
+  "text": "",
+  "sec": 7.6642491817474365,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_18": {
+  "text": "",
+  "sec": 8.320119619369507,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_19": {
+  "text": ".\n\nA I\n\nS\n-\n\n1\n-\n\n- n",
+  "sec": 7.025657892227173,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_2": {
+  "text": "NS(Im .\n\nA4",
+  "sec": 5.967530727386475,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_20": {
+  "text": "",
+  "sec": 6.005136966705322,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_21": {
+  "text": "",
+  "sec": 5.792638540267944,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_22": {
+  "text": "",
+  "sec": 6.8036534786224365,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_23": {
+  "text": "",
+  "sec": 8.78591775894165,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_24": {
+  "text": "lolyaurim",
+  "sec": 8.401448011398315,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_25": {
+  "text": "",
+  "sec": 7.775836944580078,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_26": {
+  "text": "Y\n1\n-\n\n-\n\n0\n)\n\nY\na -\n\n.",
+  "sec": 7.150339841842651,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_27": {
+  "text": "",
+  "sec": 5.97409987449646,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_28": {
+  "text": "",
+  "sec": 5.545571804046631,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_29": {
+  "text": "",
+  "sec": 5.779704570770264,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_3": {
+  "text": ".(0016000 C",
+  "sec": 5.551255702972412,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_30": {
+  "text": "",
+  "sec": 5.492584466934204,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_31": {
+  "text": "",
+  "sec": 5.872230768203735,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_32": {
+  "text": "",
+  "sec": 6.140369415283203,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_33": {
+  "text": " - -",
+  "sec": 6.59945821762085,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_34": {
+  "text": "",
+  "sec": 6.232488632202148,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_35": {
+  "text": "- - -",
+  "sec": 5.724713325500488,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_4": {
+  "text": "",
+  "sec": 5.007684230804443,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_5": {
+  "text": "",
+  "sec": 5.548745632171631,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_6": {
+  "text": "",
+  "sec": 5.630039930343628,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_7": {
+  "text": "",
+  "sec": 6.234184980392456,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_8": {
+  "text": "",
+  "sec": 6.137134790420532,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/mal_9": {
+  "text": "",
+  "sec": 5.5819573402404785,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_0": {
+  "text": "-\nI\n\n-\nA\n\n-",
+  "sec": 6.093395471572876,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_1": {
+  "text": "C\n\nJ\n\n-\n\n&U\n\n- -\n\nO\n\na\n\n-\n- -",
+  "sec": 6.13899827003479,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_10": {
+  "text": "",
+  "sec": 5.16834282875061,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_11": {
+  "text": "-\nAatos )\n\n- n0",
+  "sec": 8.673305034637451,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_12": {
+  "text": "",
+  "sec": 6.213208913803101,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_13": {
+  "text": "",
+  "sec": 5.878983974456787,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_14": {
+  "text": "",
+  "sec": 6.52171778678894,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_15": {
+  "text": "",
+  "sec": 6.588222503662109,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_16": {
+  "text": "",
+  "sec": 5.548029661178589,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_17": {
+  "text": "-\n\n-\n\n.\n\n(\n\na",
+  "sec": 5.523256540298462,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_18": {
+  "text": "3\n\n20\n\n 2o\n\nc9",
+  "sec": 5.325483322143555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_19": {
+  "text": "",
+  "sec": 5.4837329387664795,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_2": {
+  "text": "-\n<\n\nI",
+  "sec": 8.03869342803955,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_20": {
+  "text": "",
+  "sec": 8.216566801071167,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_21": {
+  "text": "a\n\nS U7 3\n\n3",
+  "sec": 8.845309019088745,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_22": {
+  "text": "",
+  "sec": 6.833558082580566,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_23": {
+  "text": "-",
+  "sec": 5.028245449066162,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_24": {
+  "text": "-\n\nI",
+  "sec": 7.121653079986572,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_25": {
+  "text": "33 - €",
+  "sec": 8.367278337478638,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_26": {
+  "text": "",
+  "sec": 7.851878881454468,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_27": {
+  "text": "",
+  "sec": 8.367320775985718,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_28": {
+  "text": "a\n- S\n\nI\nJ\n\nE",
+  "sec": 8.717241764068604,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_29": {
+  "text": "-\n\nI\n\n-",
+  "sec": 8.624880075454712,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_3": {
+  "text": "N2",
+  "sec": 7.373938322067261,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_30": {
+  "text": " aao I\n-\n\n3ey A",
+  "sec": 7.665010690689087,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_31": {
+  "text": "Excellence",
+  "sec": 6.332778215408325,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_32": {
+  "text": "ro -\n\nO egro",
+  "sec": 6.148197174072266,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_33": {
+  "text": "L",
+  "sec": 5.65229868888855,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_34": {
+  "text": "",
+  "sec": 9.292404413223267,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_35": {
+  "text": "",
+  "sec": 8.164314270019531,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_4": {
+  "text": "-\n\n3\n\na\nE",
+  "sec": 8.936329126358032,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_5": {
+  "text": "I",
+  "sec": 7.669268846511841,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_6": {
+  "text": "J .",
+  "sec": 5.654463768005371,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_7": {
+  "text": "",
+  "sec": 5.561991453170776,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_8": {
+  "text": "",
+  "sec": 5.3636438846588135,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "handwritten_wild/tel_9": {
+  "text": "",
+  "sec": 5.023979902267456,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_0": {
+  "text": ".\nSDINTT S6",
+  "sec": 5.404582738876343,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_1": {
+  "text": "-",
+  "sec": 5.335925579071045,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_10": {
+  "text": "1\n-\n-\n-",
+  "sec": 4.825063228607178,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_11": {
+  "text": "2UI9 FA 47E - 9N msicE?",
+  "sec": 7.437923908233643,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_12": {
+  "text": "WGPIGG",
+  "sec": 7.527167797088623,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_13": {
+  "text": "A I\n\nN\n\nCV\n\nI - -\n/",
+  "sec": 8.604241609573364,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_14": {
+  "text": "",
+  "sec": 7.796857595443726,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_15": {
+  "text": "a n AHP - A\n\nPrust dat sato HEUTHA 4RIT4",
+  "sec": 6.035339593887329,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_16": {
+  "text": "MA36\n\nR -",
+  "sec": 5.194009780883789,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_17": {
+  "text": "egeu CT NAPO SICIS eR sitoe",
+  "sec": 7.056157350540161,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_18": {
+  "text": "",
+  "sec": 6.402259349822998,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_19": {
+  "text": "0NS (UOUS JIICRI -\n\nUDO I",
+  "sec": 7.763487100601196,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_2": {
+  "text": "9EURI WIRTEITIN",
+  "sec": 6.610044479370117,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_20": {
+  "text": "LV -",
+  "sec": 6.340270042419434,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_21": {
+  "text": "U\nC( R OS TER FRTO < 0S RM8 PCS",
+  "sec": 6.898712396621704,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_22": {
+  "text": "R48 -\n\nMET\n\nRCNY",
+  "sec": 5.658337116241455,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_23": {
+  "text": "CS\n\nRICEZ",
+  "sec": 5.098259687423706,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_24": {
+  "text": "6K5,4RCHS UgV.",
+  "sec": 7.246631622314453,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_25": {
+  "text": "",
+  "sec": 8.052168130874634,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_26": {
+  "text": "210737 P5134 SRRIT ooTNin (7O",
+  "sec": 10.220005512237549,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_27": {
+  "text": "- - à 132\n\nJAOR",
+  "sec": 9.428050518035889,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_28": {
+  "text": "6\n\n- GRIQIS\n\nAITI",
+  "sec": 8.920229434967041,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_29": {
+  "text": "GEGURT CICO\n\nASI",
+  "sec": 8.411993026733398,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_3": {
+  "text": "",
+  "sec": 8.55440068244934,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_4": {
+  "text": "0 CS 8-2 28021",
+  "sec": 9.658150672912598,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_5": {
+  "text": "NN APICS bollbal",
+  "sec": 7.16534423828125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_6": {
+  "text": "-\n\nRS STCRI ACOTS <S\n\n4DO 81",
+  "sec": 7.7490434646606445,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_7": {
+  "text": "L 95 <RIS a1s OG tafo\n*",
+  "sec": 6.50697135925293,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_8": {
+  "text": "",
+  "sec": 5.685535192489624,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/ben_9": {
+  "text": "",
+  "sec": 5.804408550262451,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_0": {
+  "text": "- -\n\nGyulat s3\n\nà\na",
+  "sec": 6.373170614242554,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_1": {
+  "text": "",
+  "sec": 5.549767017364502,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_10": {
+  "text": "21-2IGII2AL HIZ Riglad 211S12HI A-RIGI oucleli-",
+  "sec": 6.475532531738281,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_11": {
+  "text": "Quidlel 2d SHERI ds-ila yoildd sal ad",
+  "sec": 6.419976711273193,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_12": {
+  "text": "RRE 1 UlcHRUiL\n\nSA HRI HIXVUL",
+  "sec": 6.268366575241089,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_13": {
+  "text": "PIA\n\nHE\n-\n\nL\n-\n\n-\n\n-\n-",
+  "sec": 7.293992280960083,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_14": {
+  "text": "A-SeiGo RulPsGBl SRPL 98?",
+  "sec": 6.754674196243286,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_15": {
+  "text": "Guelar S4 Us UR UREL R 2apit 2102H1E5",
+  "sec": 10.549073934555054,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_16": {
+  "text": "- 114-1",
+  "sec": 9.74241018295288,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_17": {
+  "text": "SUSLEldders",
+  "sec": 8.535812139511108,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_18": {
+  "text": "E2je4 CRS\n\nERlo 4 - 89",
+  "sec": 11.105148792266846,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_19": {
+  "text": "adulsul sal 2ISL.",
+  "sec": 10.575641632080078,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_2": {
+  "text": "RHeal 2IGI -\n\nU pE C HRIH S14",
+  "sec": 11.010589361190796,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_20": {
+  "text": "'2il-Hl ER41SI8I-L 216RI -\n\natwildl 8",
+  "sec": 10.131630897521973,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_21": {
+  "text": "",
+  "sec": 8.997161388397217,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_22": {
+  "text": "adlRHI 259",
+  "sec": 9.169790983200073,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_23": {
+  "text": "-\n\n-",
+  "sec": 8.764272928237915,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_24": {
+  "text": "",
+  "sec": 7.332641363143921,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_25": {
+  "text": "",
+  "sec": 8.684607982635498,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_26": {
+  "text": "",
+  "sec": 7.363771438598633,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_27": {
+  "text": "'o\n\ndlHHl yo alau AesIdel ud MINRANI",
+  "sec": 6.623427391052246,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_28": {
+  "text": "-",
+  "sec": 6.269654989242554,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_29": {
+  "text": "deuq, guul 2H 21-24 a deai-il eiusui",
+  "sec": 6.254818677902222,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_3": {
+  "text": "eieidd ldGuuR-1450101414 ES",
+  "sec": 8.345316171646118,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_4": {
+  "text": "018GL %el\n\nHUL -\n\n-",
+  "sec": 8.611461639404297,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_5": {
+  "text": "",
+  "sec": 7.512915372848511,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_6": {
+  "text": "",
+  "sec": 7.933040142059326,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_7": {
+  "text": "G\n\n- -\n\nyu - -",
+  "sec": 8.1079580783844,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_8": {
+  "text": "(HG dQUIG\n\nHIPRI Siq.",
+  "sec": 7.95537805557251,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/guj_9": {
+  "text": "X01-2r1R/24 210P14 oHIaL OREI la- CHPI,",
+  "sec": 7.963768720626831,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_0": {
+  "text": "",
+  "sec": 7.485050916671753,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_1": {
+  "text": "aodes da - avdeoda)",
+  "sec": 7.786968469619751,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_10": {
+  "text": "Qauo\n\n0023\n\nWE0O0",
+  "sec": 7.662467002868652,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_11": {
+  "text": "I -",
+  "sec": 7.9749555587768555,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_12": {
+  "text": "-",
+  "sec": 8.083309650421143,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_13": {
+  "text": "sdooned aa 3 3 6 wonen 2eRoo8d.",
+  "sec": 8.957003116607666,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_14": {
+  "text": "dodRaa Nabai gaa",
+  "sec": 8.326261758804321,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_15": {
+  "text": "-\nNcd. e\n\na\n\n2 -\n\n- -\n\n- -\n\n-",
+  "sec": 9.038243770599365,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_16": {
+  "text": "-\n\n-\n\n1 .",
+  "sec": 8.646209239959717,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_17": {
+  "text": "ge a @ 2 17 doeev meneve c Ne, o@ons-Bealt\ne3s",
+  "sec": 9.107911825180054,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_18": {
+  "text": "Ren noe -\n\nA",
+  "sec": 8.249271869659424,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_19": {
+  "text": "",
+  "sec": 8.393174886703491,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_2": {
+  "text": "",
+  "sec": 7.837018013000488,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_20": {
+  "text": "",
+  "sec": 7.87777042388916,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_21": {
+  "text": "",
+  "sec": 7.567692279815674,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_22": {
+  "text": "08 Qoon NOaa0 Qal 0300oo Naosaha",
+  "sec": 8.119750022888184,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_23": {
+  "text": "",
+  "sec": 7.320039987564087,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_24": {
+  "text": "OQE I\n\n000\n\na",
+  "sec": 7.9769322872161865,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_25": {
+  "text": "eudoioena Roo 2edab 2ed eudegone\ncd",
+  "sec": 8.9216947555542,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_26": {
+  "text": "23020n3ee audo, 2Jonas a Ra B 5o o at Babowoh\n@",
+  "sec": 9.578361988067627,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_27": {
+  "text": "nuot I\n\nI I",
+  "sec": 9.175493001937866,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_28": {
+  "text": "2308n coooWe 2 DEJ ones geoono ) -",
+  "sec": 9.90777325630188,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_29": {
+  "text": "oa - - - - B 2 a ",
+  "sec": 9.482107400894165,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_3": {
+  "text": "600",
+  "sec": 8.002462387084961,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_4": {
+  "text": "saloegad -",
+  "sec": 8.613930940628052,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_5": {
+  "text": "QO A o 2\n\n-\n\na No O a\nA\n\nJ0 C O 27 e 20aohd\n+",
+  "sec": 9.987173557281494,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_6": {
+  "text": "endeaane\n-\n\n-\nI\n\nabsa",
+  "sec": 8.400069952011108,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_7": {
+  "text": "",
+  "sec": 7.852813720703125,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_8": {
+  "text": "/\n\nSsaoNnse\n- -",
+  "sec": 8.38280200958252,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/kan_9": {
+  "text": "",
+  "sec": 7.924224615097046,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_0": {
+  "text": "00000\n\na\n\na\n\ne\n\n050000 9 -\n\n5 O a 9e/0n116813930",
+  "sec": 10.162451028823853,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_1": {
+  "text": "Blmoomalo00om i 3lm0060 GIOQIDO )  onmolod",
+  "sec": 8.898235082626343,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_10": {
+  "text": "ou",
+  "sec": 6.1418890953063965,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_11": {
+  "text": "6330(000010 - G0016m G0000",
+  "sec": 7.928372383117676,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_12": {
+  "text": "PDomaim(O)o\n-\n\n-\n.",
+  "sec": 7.888624429702759,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_13": {
+  "text": "GOQ03(o 06ngods",
+  "sec": 7.622669219970703,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_14": {
+  "text": "",
+  "sec": 7.757920742034912,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_15": {
+  "text": "63e Jioe (0\n-\n\n-",
+  "sec": 8.208600759506226,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_16": {
+  "text": "001080\n.",
+  "sec": 7.9565699100494385,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_17": {
+  "text": "Be(3o0lm nil306",
+  "sec": 8.587717294692993,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_18": {
+  "text": "Dam\n\n-\nn",
+  "sec": 8.823686838150024,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_19": {
+  "text": "aIsdone\n\n0f\n\no1 1\n\n- eor)",
+  "sec": 9.02511215209961,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_2": {
+  "text": "",
+  "sec": 7.417606353759766,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_20": {
+  "text": "vool\n\n63(00d",
+  "sec": 7.8741700649261475,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_21": {
+  "text": "1 vy",
+  "sec": 7.749469757080078,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_22": {
+  "text": "( 600",
+  "sec": 8.038828134536743,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_23": {
+  "text": "0(000133",
+  "sec": 7.605919599533081,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_24": {
+  "text": "camnsioomlewdangg",
+  "sec": 8.502523183822632,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_25": {
+  "text": "",
+  "sec": 7.7299864292144775,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_26": {
+  "text": "00W003",
+  "sec": 8.255328893661499,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_27": {
+  "text": "- a\n\nI",
+  "sec": 6.69745135307312,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_28": {
+  "text": "mor a no",
+  "sec": 8.61875867843628,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_29": {
+  "text": "aylajosaudoyauoux\n\n-\n\n- 5 051D,",
+  "sec": 8.701652765274048,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_3": {
+  "text": "Qilsgm\n\nGOS",
+  "sec": 7.5090227127075195,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_4": {
+  "text": "moolo o@aglwosinaagm,",
+  "sec": 8.347955465316772,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_5": {
+  "text": "on nld9001 00 aogoolag 4 gosul0",
+  "sec": 8.161447286605835,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_6": {
+  "text": "",
+  "sec": 7.586790084838867,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_7": {
+  "text": "(3IO.\n-\n\n-\n-",
+  "sec": 8.401017427444458,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_8": {
+  "text": "6go\n.\n\nI\nI I\n\nWJa\n-\n-\n\n-\n\no\na",
+  "sec": 8.958606004714966,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mal_9": {
+  "text": "C",
+  "sec": 7.827150344848633,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_0": {
+  "text": "",
+  "sec": 8.269964933395386,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_1": {
+  "text": "470 31011541 d46 -\nI",
+  "sec": 9.384360313415527,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_10": {
+  "text": "37R Sdlid JRTEAT ARIt adeil Uld H6Rd",
+  "sec": 9.636369943618774,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_11": {
+  "text": "DICUIZI\n\nChEI",
+  "sec": 8.818050146102905,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_12": {
+  "text": "",
+  "sec": 8.739301919937134,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_13": {
+  "text": "JIMCR anucai -\n\nPRIRTIET CIYR chriT, 3ITIUT 40 o",
+  "sec": 8.610002279281616,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_14": {
+  "text": "- I 6 I\n- -\n\n- n\n-",
+  "sec": 9.07748293876648,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_15": {
+  "text": "-\n\n-\n\n-\n\n-\n\nI V -",
+  "sec": 8.6932852268219,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_16": {
+  "text": "",
+  "sec": 8.993589639663696,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_17": {
+  "text": "",
+  "sec": 8.330259799957275,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_18": {
+  "text": "braT qiyort Teal\n\nTARUT ,",
+  "sec": 8.368359327316284,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_19": {
+  "text": "SEUUNIO - ChRa",
+  "sec": 8.836291790008545,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_2": {
+  "text": "31e 1 15 UTR\n\nthell\n\nJ 1s",
+  "sec": 8.819112539291382,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_20": {
+  "text": "",
+  "sec": 8.773684740066528,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_21": {
+  "text": "Hear yqru ao urreig aruat.",
+  "sec": 9.88396668434143,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_22": {
+  "text": "",
+  "sec": 9.25840139389038,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_23": {
+  "text": "",
+  "sec": 8.673922538757324,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_24": {
+  "text": "aichrHIOTT Teiad vld. I",
+  "sec": 8.430094480514526,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_25": {
+  "text": "I",
+  "sec": 6.480587482452393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_26": {
+  "text": "a\n\n.\n\n3TIIUT\n\nR\n\nd4il",
+  "sec": 6.441669940948486,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_27": {
+  "text": "HiquiGch senra à aur diYRUeIreor yan",
+  "sec": 8.060856342315674,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_28": {
+  "text": "CRu\n\nHIr 4 I",
+  "sec": 10.012486219406128,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_29": {
+  "text": "3180\n\nSrT Sd 3116.\n-\n\n- -\n\n-",
+  "sec": 14.040347337722778,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_3": {
+  "text": "",
+  "sec": 11.750447750091553,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_4": {
+  "text": "3RH - E4 MichiHl Jra à B HTI 2Tchat,",
+  "sec": 11.127425909042358,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_5": {
+  "text": "",
+  "sec": 8.578038454055786,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_6": {
+  "text": "rue:\n\n1u\n\nAGVIR",
+  "sec": 10.284051895141602,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_7": {
+  "text": "C\n\na4\n\nuree 61dl.",
+  "sec": 8.915942430496216,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_8": {
+  "text": "HIST\n\n34\n\nChra\n\nRchdl.",
+  "sec": 9.283840894699097,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/mar_9": {
+  "text": "chic CHIRST -\n-",
+  "sec": 8.298437356948853,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_0": {
+  "text": "U.'.\n- - HaEl\n\ntue",
+  "sec": 8.642807722091675,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_1": {
+  "text": "M3 HIES aresT Eddl Fedida a'dar 6 fort",
+  "sec": 8.884499073028564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_10": {
+  "text": "YHIHOI n\n\n8E d'dsEMd Hd183 3 8g 5 a a\n\nJO,",
+  "sec": 9.204271793365479,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_11": {
+  "text": "",
+  "sec": 8.194982051849365,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_12": {
+  "text": "fenomai - a\n\n- et mdiost eet",
+  "sec": 9.17911958694458,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_13": {
+  "text": "",
+  "sec": 7.909955024719238,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_14": {
+  "text": "dela, 34dH5 3 aue HT ola de BET a e\n\naa",
+  "sec": 8.975937128067017,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_15": {
+  "text": "rora - set\n\n6188 - -",
+  "sec": 8.800492763519287,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_16": {
+  "text": "a\n\nSHgoSduC\n\n1\n\n2 - OHo",
+  "sec": 8.64393663406372,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_17": {
+  "text": "& JEGEEO",
+  "sec": 7.9493186473846436,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_18": {
+  "text": "TEUMEEINHO REBE",
+  "sec": 7.827230453491211,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_19": {
+  "text": "",
+  "sec": 7.192607879638672,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_2": {
+  "text": "de ado 31mo duis CIS\" d A I",
+  "sec": 8.59987998008728,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_20": {
+  "text": "",
+  "sec": 7.209347248077393,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_21": {
+  "text": "3T Maffsmd d M3 BH MGHd aH ade",
+  "sec": 8.567033767700195,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_22": {
+  "text": "",
+  "sec": 8.29092788696289,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_23": {
+  "text": "",
+  "sec": 7.568174839019775,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_24": {
+  "text": "a\n\nTK\n\ne\n*\nL -\n\n-\n\n-\n\n-",
+  "sec": 8.166982173919678,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_25": {
+  "text": "",
+  "sec": 7.125723361968994,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_26": {
+  "text": "'THd6\n\nI H'8 Faf do",
+  "sec": 8.44588828086853,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_27": {
+  "text": "80\n\nd ad\n\ndE .\n.\n\ndIEI",
+  "sec": 8.45499062538147,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_28": {
+  "text": "L",
+  "sec": 7.7561845779418945,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_29": {
+  "text": "dala Elapio H3 AE SHI\n\n- E a",
+  "sec": 8.074856519699097,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_3": {
+  "text": "2021 af dd3 ne Edt U 3 C 10 à\n\n) - - HBT do",
+  "sec": 8.77335262298584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_4": {
+  "text": "EH -\n\nFaone\n\nH",
+  "sec": 7.991338729858398,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_5": {
+  "text": "masad 2021\n\n- -\nE -",
+  "sec": 8.127472162246704,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_6": {
+  "text": "",
+  "sec": 7.147061824798584,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_7": {
+  "text": "",
+  "sec": 7.541306018829346,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_8": {
+  "text": "Hied M3\n\nEUdT HT",
+  "sec": 7.878773212432861,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/pan_9": {
+  "text": "",
+  "sec": 7.278684139251709,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_0": {
+  "text": "aER - NodSoistio",
+  "sec": 7.340261697769165,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_1": {
+  "text": "D08S an Jowoe) 00E80WO\nP",
+  "sec": 7.726003646850586,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_10": {
+  "text": "Swbb\na\n\n223\n\nJodes",
+  "sec": 7.918976306915283,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_11": {
+  "text": "I",
+  "sec": 8.807381629943848,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_12": {
+  "text": "SSSAS - Sapeborejaw",
+  "sec": 8.04210090637207,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_13": {
+  "text": "esposa\n.\n\nI\n\nBt\n\n288568",
+  "sec": 7.752068519592285,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_14": {
+  "text": "",
+  "sec": 7.439606428146362,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_15": {
+  "text": "",
+  "sec": 7.269676685333252,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_16": {
+  "text": "ao ads ea) JaQ e NO\n\nS -",
+  "sec": 7.8907389640808105,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_17": {
+  "text": " a5oe\n\nA\n\n*\n\n-",
+  "sec": 7.68389105796814,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_18": {
+  "text": "De -  I 30S3ad a - a agredsod",
+  "sec": 8.269829273223877,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_19": {
+  "text": "",
+  "sec": 6.930371522903442,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_2": {
+  "text": "508000 aJas soso JOwSN Jas",
+  "sec": 8.337832927703857,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_20": {
+  "text": "",
+  "sec": 6.9725329875946045,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_21": {
+  "text": "",
+  "sec": 7.23383092880249,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_22": {
+  "text": "",
+  "sec": 7.208287000656128,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_23": {
+  "text": "à a\n\na \n\n0u",
+  "sec": 7.784401893615723,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_24": {
+  "text": "",
+  "sec": 7.073142051696777,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_25": {
+  "text": "",
+  "sec": 7.196232080459595,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_26": {
+  "text": "",
+  "sec": 6.955838918685913,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_27": {
+  "text": "- a -\n\n: an\n\n4\n\nost e Dasésof",
+  "sec": 8.588496923446655,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_28": {
+  "text": "",
+  "sec": 7.16912055015564,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_29": {
+  "text": "",
+  "sec": 7.35247802734375,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_3": {
+  "text": "ga 3a0gaean aoev 080 8esest\n-\n\nP",
+  "sec": 7.945020914077759,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_4": {
+  "text": "ADowas",
+  "sec": 7.334964036941528,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_5": {
+  "text": "",
+  "sec": 7.4884727001190186,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_6": {
+  "text": "Doses NoggNQ 2\n\nsew",
+  "sec": 7.745428085327148,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_7": {
+  "text": "a a",
+  "sec": 7.363425254821777,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_8": {
+  "text": "Bas SoS woaw Wesdogo, 60s0 0oa\n) -",
+  "sec": 8.508607625961304,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "printed_indic/tel_9": {
+  "text": "-\n\n929 . 0 -\n\n000 -",
+  "sec": 7.942956447601318,
+  "error": null,
+  "mode": "none",
+  "model": "default"
+ },
+ "synthetic/eng_0_blur": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 8.431579828262329,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_clean": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 7.935911417007446,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_noise": {
+  "text": "The qui I Ct OrO\n\nD et\n\n:\n\n/  doc",
+  "sec": 8.19543719291687,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_0_rotate": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 8.292388439178467,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_blur": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 8.222832918167114,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_clean": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 8.629945516586304,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_noise": {
+  "text": "Invoice.totale ou =\n\nE A\n\nH - dav S OL receipt",
+  "sec": 5.876908540725708,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_1_rotate": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 5.279751300811768,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_blur": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 5.320681571960449,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_clean": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 5.330936670303345,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_noise": {
+  "text": "Opticalcharacter recognition.col -\n\nmagestotext",
+  "sec": 5.197828531265259,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_2_rotate": {
+  "text": "Optical character recognition converts\n\nimages to text",
+  "sec": 4.813276052474976,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_blur": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 5.821648836135864,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_clean": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 6.383391857147217,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_noise": {
+  "text": "Meetingscheduled for Monday a *\n\n.\n30 in-room AB",
+  "sec": 6.478338718414307,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_3_rotate": {
+  "text": "Meeting\n\nscheduled for Monday\n\nat 10:30 in room 4B",
+  "sec": 5.008002519607544,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_blur": {
+  "text": "Please keep this receipt for your records",
+  "sec": 6.8076395988464355,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_clean": {
+  "text": "Please keep this receipt for your records",
+  "sec": 6.896623849868774,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_noise": {
+  "text": "Please keet\n\nnis receipt. Tor .\n\nf recon al -\n\n:",
+  "sec": 5.493661165237427,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ },
+ "synthetic/eng_4_rotate": {
+  "text": "Please keep this receipt for your records",
+  "sec": 4.927949666976929,
+  "error": null,
+  "mode": "native",
+  "model": "default"
+ }
+}

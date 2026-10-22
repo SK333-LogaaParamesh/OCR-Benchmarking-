@@ -1,0 +1,7 @@
+envs/
+data_src/
+tessdata/
+logs/
+report/report.html
+__pycache__/
+*.pyc

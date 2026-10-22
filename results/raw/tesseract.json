@@ -1,0 +1,5532 @@
+{
+ "degraded_handwritten/hin_0": {
+  "text": "Tea ©",
+  "sec": 0.7747948169708252,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_1": {
+  "text": "cae",
+  "sec": 1.0944781303405762,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_10": {
+  "text": "बा",
+  "sec": 2.069720983505249,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_11": {
+  "text": "ce",
+  "sec": 1.483386516571045,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_12": {
+  "text": "जज",
+  "sec": 1.074096441268921,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_13": {
+  "text": "जी",
+  "sec": 0.7405683994293213,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_14": {
+  "text": "ae",
+  "sec": 1.2616336345672607,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_15": {
+  "text": "etre",
+  "sec": 2.348820209503174,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_16": {
+  "text": "Pay",
+  "sec": 0.9222652912139893,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_17": {
+  "text": "Sal",
+  "sec": 1.0747582912445068,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_18": {
+  "text": "फ़िर",
+  "sec": 0.925818681716919,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_19": {
+  "text": "Fe अजय",
+  "sec": 2.277078151702881,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_2": {
+  "text": "हि]",
+  "sec": 0.7868876457214355,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_20": {
+  "text": "=e",
+  "sec": 1.3831324577331543,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_21": {
+  "text": "Ba",
+  "sec": 1.3815395832061768,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_22": {
+  "text": "4",
+  "sec": 1.4979610443115234,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_23": {
+  "text": "co",
+  "sec": 0.9500889778137207,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_24": {
+  "text": "रण",
+  "sec": 0.6997382640838623,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_25": {
+  "text": "REN",
+  "sec": 1.0863678455352783,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_26": {
+  "text": "Te",
+  "sec": 0.7160706520080566,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_27": {
+  "text": "Bay",
+  "sec": 1.7292892932891846,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_28": {
+  "text": "आज",
+  "sec": 0.9814300537109375,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_29": {
+  "text": "a",
+  "sec": 1.4291386604309082,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_3": {
+  "text": "हल",
+  "sec": 1.3189444541931152,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_4": {
+  "text": "oe",
+  "sec": 1.907524585723877,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_5": {
+  "text": "“गज",
+  "sec": 2.795884132385254,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_6": {
+  "text": "ae",
+  "sec": 1.781557559967041,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_7": {
+  "text": "ही",
+  "sec": 0.6771140098571777,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_8": {
+  "text": "Say",
+  "sec": 1.0510132312774658,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/hin_9": {
+  "text": "ae",
+  "sec": 0.5917894840240479,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_handwritten/tam_0": {
+  "text": "ன இர ர கணம்‌",
+  "sec": 0.9842286109924316,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_1": {
+  "text": "i pa",
+  "sec": 1.3850977420806885,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_10": {
+  "text": "இடை",
+  "sec": 0.9088292121887207,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_11": {
+  "text": "ர னு",
+  "sec": 1.9927217960357666,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_12": {
+  "text": "be sr ae",
+  "sec": 1.7492783069610596,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_13": {
+  "text": "Ginn",
+  "sec": 1.3864295482635498,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_14": {
+  "text": "ட .",
+  "sec": 2.287835121154785,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_15": {
+  "text": "ண்‌ -",
+  "sec": 1.5921294689178467,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_16": {
+  "text": "வூ...",
+  "sec": 1.941718339920044,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_17": {
+  "text": "இட",
+  "sec": 1.8185577392578125,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_18": {
+  "text": "[வெளிப்ப _",
+  "sec": 1.026306390762329,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_19": {
+  "text": "[உன்னை |",
+  "sec": 1.4938454627990723,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_2": {
+  "text": "வசத.",
+  "sec": 2.254458427429199,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_20": {
+  "text": "[தகன க்கட்‌",
+  "sec": 1.5084099769592285,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_21": {
+  "text": "டை ச",
+  "sec": 2.465029716491699,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_22": {
+  "text": "| ப௭ஞசா௭ gd தத்ஸ்த :",
+  "sec": 1.6459848880767822,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_23": {
+  "text": "ட கவனி",
+  "sec": 0.830096960067749,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_24": {
+  "text": "டது",
+  "sec": 1.4148731231689453,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_25": {
+  "text": "| உமை",
+  "sec": 1.051957130432129,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_26": {
+  "text": "",
+  "sec": 2.250399589538574,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_27": {
+  "text": "Penney",
+  "sec": 1.251136064529419,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_28": {
+  "text": "பதத",
+  "sec": 1.3378791809082031,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_29": {
+  "text": "oe",
+  "sec": 1.3163480758666992,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_3": {
+  "text": "Ao Svot~a Lah",
+  "sec": 1.9920406341552734,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_4": {
+  "text": "ட்டன",
+  "sec": 1.265794277191162,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_5": {
+  "text": "(அம.",
+  "sec": 1.712489128112793,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_6": {
+  "text": "Seems",
+  "sec": 1.6161630153656006,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_7": {
+  "text": "இ ப",
+  "sec": 1.2474935054779053,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_8": {
+  "text": "ao",
+  "sec": 2.4026010036468506,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_handwritten/tam_9": {
+  "text": "பரத 222).",
+  "sec": 1.2628123760223389,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/asm_0": {
+  "text": "|4ধতখকল আবে এল[৪ন তো le জেখ। PISCE OTL বন\" ০ বেথ bh le Carte",
+  "sec": 0.924565315246582,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/asm_1": {
+  "text": "",
+  "sec": 0.6129095554351807,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/asm_2": {
+  "text": "",
+  "sec": 1.0862102508544922,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/asm_3": {
+  "text": "MDT অনুসৰি নিশা ১০:০০,১১,০০ ৰজাৰ [HIS আৰাসীসকলে চোতালত GR SRI |",
+  "sec": 1.0736501216888428,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/asm_4": {
+  "text": "",
+  "sec": 1.4320793151855469,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/asm_5": {
+  "text": "WT ET Ey CBr TAY ge, পতিক গণৰাজ্য যি আডিকস ংঘাতত ভু গিনে।",
+  "sec": 0.9969644546508789,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "degraded_printed/ben_0": {
+  "text": "সুন্দরবনের আয়তন ৩. পর কিলোমিটার। এক ততীয়াংশ এলাকা জলাভূমি।",
+  "sec": 0.7961704730987549,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/ben_1": {
+  "text": "",
+  "sec": 1.1213481426239014,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/ben_2": {
+  "text": "",
+  "sec": 0.6751689910888672,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/ben_3": {
+  "text": "৯৯২ ৮ নি ores |",
+  "sec": 0.7704606056213379,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/ben_4": {
+  "text": "",
+  "sec": 0.7729396820068359,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/ben_5": {
+  "text": "",
+  "sec": 0.7446491718292236,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "degraded_printed/guj_0": {
+  "text": "",
+  "sec": 0.5585348606109619,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/guj_1": {
+  "text": "ર",
+  "sec": 0.7159848213195801,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/guj_2": {
+  "text": "કાર્યક્રમ સવારે 6:30 ર્યક્રમ સવારે 8:30 વાગ્યે પ્રારંભ થયો. સ્થાનિક સમય (15.00 યુટીસી).",
+  "sec": 0.7226841449737549,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/guj_3": {
+  "text": "Garett wie yer હોય 9",
+  "sec": 0.5219519138336182,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/guj_4": {
+  "text": "ANB અને સરોવસોમાં તમાર વોની ee ey",
+  "sec": 0.5654041767120361,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/guj_5": {
+  "text": "સૂર્યાદય જોવા માટે કોઈ ખુલ્લા તબક્કે ઇસ્ટરની યત્રે જાગવાની પરંપરા છે.",
+  "sec": 0.7514398097991943,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "degraded_printed/hin_0": {
+  "text": "आप पिरामिड को शो शुरू होने से पहले अंधेरे में शांति से देखे सकते हैं.",
+  "sec": 0.8763198852539062,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/hin_1": {
+  "text": "",
+  "sec": 0.574927806854248,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/hin_2": {
+  "text": "मरीज नाइजीरिया गया ॥; जहाँ इब्बेला वायरस के कुछ मामले सामने ae",
+  "sec": 1.1391212940216064,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/hin_3": {
+  "text": "",
+  "sec": 0.47634172439575195,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/hin_4": {
+  "text": "",
+  "sec": 0.9987831115722656,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/hin_5": {
+  "text": "इसी तरह, पुरुषों के लिए घुटनों को ढँकने वाले ट्राउज़र पहनना ज़रूरी है.",
+  "sec": 0.8790059089660645,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "degraded_printed/kan_0": {
+  "text": "",
+  "sec": 1.1960475444793701,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kan_1": {
+  "text": "may x a ಎಂಬ ONS sedey",
+  "sec": 0.9230964183807373,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kan_2": {
+  "text": "' ಅವರು ವೈಫೈ ಡೋರ್‌ ಬೆಲ್‌ ತಯಾರಿಸಿದ್ದಾರೆ ಎ೦ದು ಅವರು ಹೇಳಿದರು.",
+  "sec": 1.1185414791107178,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kan_3": {
+  "text": "",
+  "sec": 1.4637112617492676,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kan_4": {
+  "text": "",
+  "sec": 0.9527859687805176,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kan_5": {
+  "text": "",
+  "sec": 0.9482274055480957,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "degraded_printed/kas_0": {
+  "text": "",
+  "sec": 0.5452308654785156,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/kas_1": {
+  "text": "‎Oy) a س٢ a‏ اش",
+  "sec": 0.6954896450042725,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/kas_2": {
+  "text": "تموو گور افوابن ‎cule”‏ کتھن تہ ہے گھٹیا پنس'سہت ‎Poa‏",
+  "sec": 0.7248461246490479,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/kas_3": {
+  "text": "راسبی نمبر لوگٹ آسُن گو ‎٠‏ میگیٹک ‎Hdl‏ کہ حوالہ ‎SHU‏ کم فعال آسُن۔",
+  "sec": 0.7471702098846436,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/kas_4": {
+  "text": "ee",
+  "sec": 0.9958586692810059,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/kas_5": {
+  "text": "",
+  "sec": 0.5164241790771484,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "degraded_printed/lus_0": {
+  "text": "_Hebrew chhungkaw nundan chu pawn lamah hman ani",
+  "sec": 0.7044482231140137,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/lus_1": {
+  "text": "= pamdaw' inah sawn \\eh a NV",
+  "sec": 0.6896424293518066,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/lus_2": {
+  "text": "",
+  "sec": 0.5975525379180908,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/lus_3": {
+  "text": "",
+  "sec": 0.5461363792419434,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/lus_4": {
+  "text": "",
+  "sec": 0.49962353706359863,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/lus_5": {
+  "text": "ani chu Kum 2016 ah president nit",
+  "sec": 0.6785171031951904,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "degraded_printed/mai_0": {
+  "text": "“the मनभावन गाम टएलए TSH घंटाक रागय लगेत Sled |",
+  "sec": 0.6496310234069824,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mai_1": {
+  "text": "",
+  "sec": 1.0391948223114014,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mai_2": {
+  "text": "",
+  "sec": 1.0252275466918945,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mai_3": {
+  "text": "",
+  "sec": 0.9541685581207275,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mai_4": {
+  "text": "",
+  "sec": 1.0787382125854492,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mai_5": {
+  "text": "",
+  "sec": 0.6843147277832031,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "degraded_printed/mal_0": {
+  "text": "",
+  "sec": 2.25374174118042,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mal_1": {
+  "text": "ടം",
+  "sec": 1.6313724517822266,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mal_2": {
+  "text": "| Q oo ച",
+  "sec": 1.326920747756958,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mal_3": {
+  "text": "",
+  "sec": 0.7744457721710205,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mal_4": {
+  "text": "",
+  "sec": 1.5791511535644531,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mal_5": {
+  "text": "ee",
+  "sec": 1.6853225231170654,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "degraded_printed/mar_0": {
+  "text": "ley ay, Ad Yo Wade ,",
+  "sec": 0.8969511985778809,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mar_1": {
+  "text": "",
+  "sec": 1.634969711303711,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mar_2": {
+  "text": "",
+  "sec": 0.7294845581054688,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mar_3": {
+  "text": "म्हणून, पेन्सिल आली तेव्हा ती अनेक लोकांची चांगली मैत्रीण ठरली.",
+  "sec": 0.9465973377227783,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mar_4": {
+  "text": "इग्लंडमध्ये १६ व्या शकराच्या सुरुवातीला वॅगनवे बांधण्यात आले.",
+  "sec": 0.9093148708343506,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mar_5": {
+  "text": "a po TN “ :",
+  "sec": 0.7621114253997803,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "degraded_printed/mni_0": {
+  "text": "",
+  "sec": 0.785200834274292,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/mni_1": {
+  "text": "",
+  "sec": 0.652402400970459,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/mni_2": {
+  "text": "হক cg |",
+  "sec": 0.7362487316131592,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/mni_3": {
+  "text": "",
+  "sec": 0.6475348472595215,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/mni_4": {
+  "text": "",
+  "sec": 0.7135655879974365,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/mni_5": {
+  "text": "জট ORL RO RN হে নল oe oe",
+  "sec": 0.8894698619842529,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "degraded_printed/nep_0": {
+  "text": "पसियिनहरूको एलानात्मक रूपमा सजिलो es व्याकरण =",
+  "sec": 0.6665780544281006,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/nep_1": {
+  "text": "",
+  "sec": 0.7509405612945557,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/nep_2": {
+  "text": "",
+  "sec": 0.7717828750610352,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/nep_3": {
+  "text": "gor प्रदेश प्रहरीले चौरिएको gen TAIT ™",
+  "sec": 0.788475751876831,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/nep_4": {
+  "text": "",
+  "sec": 0.6660113334655762,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/nep_5": {
+  "text": "",
+  "sec": 0.6511373519897461,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "degraded_printed/ori_0": {
+  "text": "ଧା ଗଣା ସମଯ ।ଲ୍ଯବାନ ଅ\"୍‌।",
+  "sec": 0.6250290870666504,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/ori_1": {
+  "text": "",
+  "sec": 1.2324635982513428,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/ori_2": {
+  "text": "",
+  "sec": 0.9694945812225342,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/ori_3": {
+  "text": "“ବେ ସହରର ସମସ୍ତ ବାସୀ ରୋମାନ ଓ",
+  "sec": 0.6435635089874268,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/ori_4": {
+  "text": "",
+  "sec": 0.5337955951690674,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/ori_5": {
+  "text": "qoe Seqaea ଫଳାଫଳ ଗୋଟିଏ ସର୍ବସାଧାରଣ ଦେବସାଇଟରେ ପୋଷ୍ଟ କରାଯିବ।",
+  "sec": 0.8644049167633057,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "degraded_printed/pan_0": {
+  "text": "Sere",
+  "sec": 0.9123046398162842,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/pan_1": {
+  "text": "ਦਲ.",
+  "sec": 0.7560665607452393,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/pan_2": {
+  "text": "i ਜੀ",
+  "sec": 0.8237595558166504,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/pan_3": {
+  "text": "੍ਰਗ੍ਰਰੂਮ Ae 830 ਵਜੇ ਸ਼ੁਰੂ ਹੋਇਆ। ਸਥਾਨਕ ਸਮਾਂ 500 UTC).",
+  "sec": 0.8654570579528809,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/pan_4": {
+  "text": "",
+  "sec": 0.7493457794189453,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/pan_5": {
+  "text": "",
+  "sec": 0.9840741157531738,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "degraded_printed/san_0": {
+  "text": "",
+  "sec": 0.7785508632659912,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/san_1": {
+  "text": "",
+  "sec": 0.7700340747833252,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/san_2": {
+  "text": "यदा त्वं धारनां वर्हि गच्छन्न पुनः तरणं सामान्य",
+  "sec": 1.1324386596679688,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/san_3": {
+  "text": "",
+  "sec": 0.7114741802215576,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/san_4": {
+  "text": "1200 Gan वादनसमवे तिव दिवसे वाहनं अपधातस्थानात्‌ दूर नीम्‌",
+  "sec": 0.8205552101135254,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/san_5": {
+  "text": "",
+  "sec": 0.546147346496582,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "degraded_printed/sat_0": {
+  "text": "",
+  "sec": 0.8542540073394775,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/sat_1": {
+  "text": "TAMAS ALOMAR? BIOSUDY PER GAD QAVCY. BOGCIVGOCE GH CAE Ay",
+  "sec": 0.6911399364471436,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/sat_2": {
+  "text": "enn uze ozG Be @Bv a @av oe Qg0B or",
+  "sec": 0.9829390048980713,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/sat_3": {
+  "text": "",
+  "sec": 0.7680189609527588,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/sat_4": {
+  "text": "",
+  "sec": 0.5834612846374512,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/sat_5": {
+  "text": "",
+  "sec": 0.7186663150787354,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "degraded_printed/snd_0": {
+  "text": "اهرامن تي منظر ڏيکاريا ويندا آهن ۽ مختلف اهرام روشن ڪيا ويندا ‎“gal‏",
+  "sec": 0.9149043560028076,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/snd_1": {
+  "text": "ڇ َ‫ ؛ٌ يي ٳٌ : ڇ ‎ae‏ } : 7",
+  "sec": 1.1730680465698242,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/snd_2": {
+  "text": "",
+  "sec": 0.48880982398986816,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/snd_3": {
+  "text": "",
+  "sec": 0.9603512287139893,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/snd_4": {
+  "text": "",
+  "sec": 0.8342905044555664,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/snd_5": {
+  "text": "ارسحطو جا رابا نفسيات سميت ‎gaily‏ جي سڀني مفاملن تي ‎bg Waid‏",
+  "sec": 0.8661539554595947,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "degraded_printed/tam_0": {
+  "text": "ஹீப்ரு குடும்பத்தின்‌ பெரும்பகுதி வாழ்க்கை, இறந்த வெளியில்‌ நிகழ்ந்தது.",
+  "sec": 0.8786742687225342,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tam_1": {
+  "text": "ஹைக்‌ aT = 'தையைப்‌ போன்ற பனிச்சறுக்கு பாதையைப்‌ ப!",
+  "sec": 0.9390044212341309,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tam_2": {
+  "text": "",
+  "sec": 1.0801506042480469,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tam_3": {
+  "text": "",
+  "sec": 0.8277699947357178,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tam_4": {
+  "text": "வாடிகன்‌ நகரின்‌ அனைத்து குடிமக்களும்‌ ரோமானிய கத்தோலிக்கர்கள்‌ ஆவர்‌.",
+  "sec": 0.8339786529541016,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tam_5": {
+  "text": "",
+  "sec": 3.213571786880493,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "degraded_printed/tel_0": {
+  "text": "",
+  "sec": 1.3374228477478027,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/tel_1": {
+  "text": "అయితే, అది నిజ 10 కాదు. సత్రం వెనుక ఏదో రాసి ఉనా 1 అది నిధి పట ost.",
+  "sec": 1.0477428436279297,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/tel_2": {
+  "text": "",
+  "sec": 0.7431333065032959,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/tel_3": {
+  "text": "",
+  "sec": 0.7021265029907227,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/tel_4": {
+  "text": "",
+  "sec": 0.8181836605072021,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/tel_5": {
+  "text": "",
+  "sec": 0.7971372604370117,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "degraded_printed/urd_0": {
+  "text": "",
+  "sec": 0.7741334438323975,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "degraded_printed/urd_1": {
+  "text": ")100 فٹ چوڑے ‎nly‏ کے ‎il ual‏ پھیل رہا ہے۔",
+  "sec": 0.5619561672210693,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "degraded_printed/urd_2": {
+  "text": "",
+  "sec": 0.5569775104522705,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "degraded_printed/urd_3": {
+  "text": "مولڈوا ای کثیر ھک مہ ‎eae‏ کا شکار ‎Ww‏",
+  "sec": 0.7323486804962158,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "degraded_printed/urd_4": {
+  "text": "",
+  "sec": 1.2988879680633545,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "degraded_printed/urd_5": {
+  "text": "",
+  "sec": 0.7010641098022461,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/asm_0": {
+  "text": "নিহতসকল আছিল এলডেন, 25, আৰু জেখৰী কাডবেক, 211 কাডবেক চালক আছিল।",
+  "sec": 0.9661753177642822,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/asm_1": {
+  "text": "PLA এটা দীঘল কাহিনীৰ পটভূমি তথা সূত্ৰধাৰ হিচাপে নিযুক্ত |",
+  "sec": 0.8130996227264404,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/asm_2": {
+  "text": "বছৰৰ আন সময়ত সৰু টুৰ্ণামেণ্ট আৰু খেলবোৰো ইয়াত হোৱা দেখা যায়।",
+  "sec": 0.8075246810913086,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/asm_3": {
+  "text": "MDT অনুসৰি নিশা ১০:০০-১১:০০ বজাৰ ভিতৰত আবাসীসকলে চোতালত জুই জ্বলাইছিল।",
+  "sec": 0.9152381420135498,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/asm_4": {
+  "text": "1920 দশকত সৰহভাগ দেশ আৰু নাগৰিকৰ ভাৱ-ভংগী শান্তিবাদ আৰু একান্ত আছিল।",
+  "sec": 0.8107411861419678,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/asm_5": {
+  "text": "মালডোভা হৈছে এখন বহু-নৃতাত্বিক গণৰাজ্য যি নৃতাত্বিক সংঘাতত ভুগিছে।",
+  "sec": 0.7930910587310791,
+  "error": null,
+  "mode": "native",
+  "model": "asm"
+ },
+ "flores_synth/ben_0": {
+  "text": "সুন্দরবনের আয়তন ৩,৮৫০ বর্গ কিলোমিটার। এর এক-তৃতীয়াংশ এলাকা জলাভূমি।",
+  "sec": 0.679166316986084,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/ben_1": {
+  "text": "",
+  "sec": 0.5379061698913574,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/ben_2": {
+  "text": "টেলিভিশনের প্রতিবেদনগুলিতে উদ্ভিদ থেকে সাদা ধোঁয়া আসতে দেখা যায়।",
+  "sec": 0.6144099235534668,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/ben_3": {
+  "text": "",
+  "sec": 0.563601016998291,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/ben_4": {
+  "text": "আশেপাশে ছুটি কাটানোর জন্য অভ্যন্তরীণ জলপথগুলি ভাল বিষয় হতে পারে।",
+  "sec": 0.791107177734375,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/ben_5": {
+  "text": "বাবাকে অনুসরণ করে লিগিনস চিকিৎসার পেশায় এসেছিল।",
+  "sec": 0.8022546768188477,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "flores_synth/guj_0": {
+  "text": "બોટિંગ ફિનલેન્ડમાં રાષ્ટ્રીય આનંદ છે, જેમાં દર સાત-આઠ લોકોને બોટ મળે.",
+  "sec": 0.7211353778839111,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/guj_1": {
+  "text": "તે મને સમજાતું નહોતું; તે અચૂકપણે વાજબી નહોતું.",
+  "sec": 0.6901822090148926,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/guj_2": {
+  "text": "કાર્યક્રમ સવારે 8:30 વાગ્યે પ્રારંભ થયો. સ્થાનિક સમય (15.00 યુટીસી).",
+  "sec": 0.6699542999267578,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/guj_3": {
+  "text": "છેવટે, આખરે નેતા ટીમની સફળતા અને નિષ્ફળતા માટે જવાબદાર હોય છે.",
+  "sec": 0.709343671798706,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/guj_4": {
+  "text": "હ્ીપસમૂહો અને સરોવરોમાં તમારે યોટની જરૂર નથી.",
+  "sec": 0.7760484218597412,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/guj_5": {
+  "text": "સૂર્યોદય જોવા માટે કોઈ ખુલ્લા તબક્કે ઈસ્ટરની રાત્રે જાગવાની પરંપરા છે.",
+  "sec": 0.8242712020874023,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "flores_synth/hin_0": {
+  "text": "आप पिरामिड को शो शुरू होने से पहले अंधेरे में शांति से देख सकते हैं.",
+  "sec": 0.6876266002655029,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/hin_1": {
+  "text": "वेटिकन सिटी के सभी नागरिक रोमन कैथोलिक हैं.",
+  "sec": 0.6767652034759521,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/hin_2": {
+  "text": "मरीज नाइजीरिया गया था, जहाँ इबोला वायरस के कुछ मामले सामने आए हैं.",
+  "sec": 0.7404656410217285,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/hin_3": {
+  "text": "हालाँकि, ड्राइवर के सिर में गंभीर चोटें आई थी.",
+  "sec": 0.7593569755554199,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/hin_4": {
+  "text": "अंतर्देशीय जलमार्ग आनेवाली छुट्टियों के लिए एक अच्छा विषय हो सकता है।",
+  "sec": 0.6455762386322021,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/hin_5": {
+  "text": "इसी तरह, पुरुषों के लिए घुटनों को ढँकने वाले ट्राउज़र पहनना ज़रूरी है.",
+  "sec": 0.6679263114929199,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "flores_synth/kan_0": {
+  "text": "ಆದಾಗ್ಯೂ , ಚಾಲಕ ತಲೆಗೆ ಗಂಭೀರ ಗಾಯಗಳಾದರೂ ಸಹಿಸಿಕೊ೦ಡನು.",
+  "sec": 0.9615981578826904,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kan_1": {
+  "text": "ದ್ವೀಪಸಮೂಹ ಮತ್ತು ಸರೋವರಗಳಲ್ಲಿ ನಿಮಗೆ ವಿಹಾರ ನೌಕೆ ಇರಲೇಬೇಕು ಎ೦ಬ ಅಗತ್ಯವಿಲ್ಲ.",
+  "sec": 0.8355424404144287,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kan_2": {
+  "text": "ಅವರು ವೈಫೈ ಡೋರ್‌ ಬೆಲ್‌ ತಯಾರಿಸಿದ್ದಾರೆ ಎ೦ದು ಅವರು ಹೇಳಿದರು.",
+  "sec": 0.7103185653686523,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kan_3": {
+  "text": "ಮೂರು ಶತಮಾನಗಳವರೆಗೆ ನಡೆದ ವಸಾಹತುಶಾಹಿ ಅವಧಿಯನ್ನು ಸ್ಪೇನ್‌ ದೇಶದವರು ಆರ೦ಭಿಸಿದರು.",
+  "sec": 0.8539121150970459,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kan_4": {
+  "text": "ನಾಲ್ಕು ಮಿಲಿಯನ್‌ಗೂ ಹೆಚ್ಚು ಜನರು ಅ೦ತ್ಯಸ೦ಸ್ಕಾರಕ್ಕೆ ತೆರಳಿದ್ದರು.",
+  "sec": 0.7137479782104492,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kan_5": {
+  "text": "ಅಪಘಾತ ನಡೆದ ಸ್ಮಳದಿ೦ದ ಅವರೆಲ್ಲರೂ ವಾಪಸ್‌ ಓಡಿ ಬ೦ದರು.",
+  "sec": 0.6296515464782715,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "flores_synth/kas_0": {
+  "text": "مالڈوواپک بؤڑ مذہب چھ کٹر عیسأاے۔",
+  "sec": 0.8405778408050537,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/kas_1": {
+  "text": "‎gle‏ اسٹڈی گروپن کور از 12.00 ‎GMT‏ پیٹھ ‎ody‏ رپورٹ پیش۔",
+  "sec": 0.7087647914886475,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/kas_2": {
+  "text": "تموو گور افواہن \"سیأسی کتھن تہ بے گھٹیا پنس“ست تغبیر\"۔",
+  "sec": 0.716956377029419,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/kas_3": {
+  "text": "راسبی نمبر لوگٹ آیُن گو , میگیٹک ‎Cul‏ کہ حوالہ تاڑک کم فعال آسُن۔",
+  "sec": 0.8018577098846436,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/kas_4": {
+  "text": "pity ‏سیاخن‎ ail M16 will ‏چلأو‎ of ‏رونالڑو مینڑوزا‎",
+  "sec": 0.6355338096618652,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/kas_5": {
+  "text": "واٹکن سٹی ‎Vy‏ تمام شہری چھ رومن کیتھولک۔",
+  "sec": 0.5432138442993164,
+  "error": null,
+  "mode": "script",
+  "model": "urd"
+ },
+ "flores_synth/lus_0": {
+  "text": "Hebrew chhungkaw nundan chu pawn lamah hman a ni.",
+  "sec": 0.5824775695800781,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/lus_1": {
+  "text": "A hnuah Cambridge-a Addenbrooke Damdawi inah sawn leh a ni.",
+  "sec": 0.5651087760925293,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/lus_2": {
+  "text": "Nimahsela, a khalhtu ber chuan a IG ah hliam na tak a tuar a ni.",
+  "sec": 0.4800534248352051,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/lus_3": {
+  "text": "Kangthelhtu ten dar 11:35 velah kang an thelh mit.",
+  "sec": 0.4663074016571045,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/lus_4": {
+  "text": "U.S President George Bush chu thu puanah a lawm hle.",
+  "sec": 0.5321547985076904,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/lus_5": {
+  "text": "Ani chu Kum 2016 ah President ni turin a inpuahchah mek tia sawi a ni.",
+  "sec": 0.557830810546875,
+  "error": null,
+  "mode": "script",
+  "model": "eng"
+ },
+ "flores_synth/mai_0": {
+  "text": "एहि मनभावन गाम टहलए मे आधा घंटाक समय ala अछि।",
+  "sec": 0.8024163246154785,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mai_1": {
+  "text": "कनान देश में Oy जंगल ale Sale, एहि लेल लकड़ी बहुत महंगा Sal",
+  "sec": 0.8037104606628418,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mai_2": {
+  "text": "इंटरनेट जन संचार आ पारस्परिक संचार दुनू तत्व सभ केँ जोड़ैत अछि।",
+  "sec": 0.8129074573516846,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mai_3": {
+  "text": "मुदा हुनक खोजक बावजूद, एस्किमो जनजाति ओहि समय पहिले सँ ओतय we रहल छल।",
+  "sec": 0.7098915576934814,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mai_4": {
+  "text": "मोल्दोवा एकटा बहु-जातीय गणराज्य अछि जे जातीय टकराव सूँ पीड़ित रहल अछि।",
+  "sec": 0.8121063709259033,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mai_5": {
+  "text": "हुनक पूर्ववर्ती, आस्ट्रोलोपिथिकस आदतन सीधा नहि चलैत छलथि।",
+  "sec": 0.8895778656005859,
+  "error": null,
+  "mode": "script",
+  "model": "hin"
+ },
+ "flores_synth/mal_0": {
+  "text": "ഫയര്‍ റെസ്ക്യൂ സേനാംഗങ്ങള്‍ രാത്രി 11:35 ഓടെ തീ കെടുത്തി .",
+  "sec": 0.7489771842956543,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mal_1": {
+  "text": "അതിനാല്‍, നൊട്ടേഷന്‍ ഒരു ലളിതമായി ഒരു ലേബല്‍ ചേര്‍ത്തു സാധ്യത.",
+  "sec": 0.9200475215911865,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mal_2": {
+  "text": "അപകടത്തില്‍ 64 വയസ്സായ, ട്രക്ക്‌ ഡ്രൈവര്‍ക്ക്‌ പരിക്കേറ്റിട്ടില്ല.",
+  "sec": 0.7257444858551025,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mal_3": {
+  "text": "പ്രഖ്യാപനത്തെ യുഎസ്‌ പ്രസിഡന്റ്‌ ജോര്‍ജ്ജ്‌ ഡബ്ല്യു ബുഷ്‌ സ്വാഗതം ചെയ്തു.",
+  "sec": 0.7913041114807129,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mal_4": {
+  "text": "പേര്‍ഷ്യന്‍ ഭാഷയ്ക്ക്‌ എളുപ്പവും ക്രമമാര്‍ന്നതുമായ വ്യാകരണം ഉണ്ട്‌.",
+  "sec": 0.7144880294799805,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mal_5": {
+  "text": "\"ഒരു കറി ചാറിന്റെ അളവ്‌ അനുസരിച്ച്‌ \"വരണ്ടതോ” \"നനവുള്ളതോ”” ആകാം.\"",
+  "sec": 0.7323784828186035,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "flores_synth/mar_0": {
+  "text": "eg कुटुंबाने आपले बहुतेक आयुष्य मोकळ्या हवेत घालवले.",
+  "sec": 0.6367204189300537,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mar_1": {
+  "text": "स्पॅनिश लोकांनी वसाहतवादाचा काळाची सुरवात केली, जो काळ 3 शतके टिकला.",
+  "sec": 0.7685973644256592,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mar_2": {
+  "text": "त्याच धर्तीवर पुरुषांना गुडघे झाकणारे ट्राउझर्स घालणे आवश्यक आहे.",
+  "sec": 0.7493433952331543,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mar_3": {
+  "text": "म्हणून, पेन्सिल आली तेव्हा ती अनेक लोकांची चांगली मैत्रीण ठरली.",
+  "sec": 0.6555697917938232,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mar_4": {
+  "text": "इग्लंडमध्ये १६ व्या शकराच्या सुरुवातीला वॅगनवे बांधण्यात आले.",
+  "sec": 0.6508743762969971,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mar_5": {
+  "text": "ते 2016 मध्ये राष्ट्रपतीपदासाठी waa करतील याचा अंदाज होता.",
+  "sec": 0.6964213848114014,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "flores_synth/mni_0": {
+  "text": "মখোয় খুদিংনা এক্সিদেন্ত থোকফ মদগী CoAT |",
+  "sec": 0.6975061893463135,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/mni_1": {
+  "text": "ফ্রেঞ্চ ইলেক্তোরেলগী আইন অসিনা প্রোসীদিংশিং অসি চেকশিন্না কোদিফাই তৌই।",
+  "sec": 0.7711565494537354,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/mni_2": {
+  "text": "ভেতিকান frst নাগ্রিক খুদিংমক রোমান কেখোলিরি।",
+  "sec": 0.6616411209106445,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/mni_3": {
+  "text": "অদুমওইনমক, দ্রাইভর অদুদি মকোক অদু শাখিনা শোকখি।",
+  "sec": 0.733649492263794,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/mni_4": {
+  "text": "আচিপেলাগো অমসুং পাৎশিংদা অদোন্না য়াৎকী ACA তাদে।",
+  "sec": 0.6189785003662109,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/mni_5": {
+  "text": "35mm ফোর্মেৎ অসি চমন্ননীংঙাই ওই তশেংবগীদি 36mm APM 24mm বাংই।",
+  "sec": 0.765923023223877,
+  "error": null,
+  "mode": "script",
+  "model": "ben"
+ },
+ "flores_synth/nep_0": {
+  "text": "पर्सियनहरूको तुलानात्मक रूपमा सजिलो र सामान्य व्याकरण हुन्छ।",
+  "sec": 0.6469855308532715,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/nep_1": {
+  "text": "यस व्यवहारले धेरैजसो नेताहरू र बाँकी अन्यका बिचमा मनमुटाव गराउँछ।",
+  "sec": 0.9132342338562012,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/nep_2": {
+  "text": "लोकप्रिय पैदल र साइकल यात्राको मार्ग तिनीहरूले परिभाषित गर्छन्‌।",
+  "sec": 1.0322141647338867,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/nep_3": {
+  "text": "मध्य प्रदेश प्रहरीले चोरिएको ल्यापटप र मोबाइल फोन पुन: प्राप्त ग-यो।",
+  "sec": 1.1458427906036377,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/nep_4": {
+  "text": "इन्टरनेटले दुवै सामूहिक र पारस्परिक सञ्चारका तत््वहरूलाई जोड्दछ।",
+  "sec": 0.6699092388153076,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/nep_5": {
+  "text": "802.11n मानक 2.4Ghz र 5.0017 दुवै फ्रिक्केन्सीमा कार्य गर्दछ।",
+  "sec": 0.6631968021392822,
+  "error": null,
+  "mode": "native",
+  "model": "nep"
+ },
+ "flores_synth/ori_0": {
+  "text": "ଚିତ୍ତାକର୍ଷକ ଗାଁରେ ବୁଲିବା ପାଇଁ ଅଧା ଘଣ୍ଟା ସମୟ ମୂଲ୍ୟବାନ ଅଟେ।",
+  "sec": 0.7935175895690918,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/ori_1": {
+  "text": "ଏରୋସ୍ମିଥ୍‌ ତାଙ୍କର ଭ୍ରମଣରେ ବାକି AIS] କନସର୍ଟଗୁଡ଼ିକୁ ATC କରିଛନ୍ତି।",
+  "sec": 0.7506451606750488,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/ori_2": {
+  "text": "ତେଣୁ, ସମ୍ଭବତଃ ଉକ୍ତ ସଙ୍କେତ କେବଳ ଏକ ଲେବଲ୍‌ ଭାବରେ ଯୋଗ କରାଯାଇଥୁଲା।",
+  "sec": 0.7213571071624756,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/ori_3": {
+  "text": "ଭାଟିକନ୍‌ ସହରର ସମସ୍ତ ନଗରବାସୀ ରୋମାନ୍‌ କ୍ୟାଥୋଲିକ୍‌ ଅଟନ୍ତା",
+  "sec": 0.7601017951965332,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/ori_4": {
+  "text": "ଏହା ମାରିଆ ତଳେ ପତଳା ଓ ଉଚ୍ଚଭୁମି ତଳେ ANG ମୋଟା ହୋଇଥାଏ।",
+  "sec": 0.7053947448730469,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/ori_5": {
+  "text": "ପ୍କଟିଙ୍ଗ ବିଶ୍ଟେଷଣର ଫଳାଫଳ ଗୋଟିଏ ସର୍ବସାଧାରଣ ଓେବସାଇଟରେ ପୋଷ୍ଟ କରାଯିବ।",
+  "sec": 0.7521331310272217,
+  "error": null,
+  "mode": "native",
+  "model": "ori"
+ },
+ "flores_synth/pan_0": {
+  "text": "ਹਿਬਰੂ ਪਰਿਵਾਰ ਦੀ ਜ਼ਿਆਦਾਤਰ ਜਿੰਦਗੀ ਖੁੱਲ੍ਹੇ ਅਸਮਾਨ ਥੱਲੇ ਗੁਜ਼ਰਦੀ ਸੀ।",
+  "sec": 0.6262893676757812,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/pan_1": {
+  "text": "ਛੁੱਟੀ ਮਨਾਉਣ ਲਈ ਜ਼ਮੀਨੀ ਜਲਮਾਰਗ ਇੱਕ ਵਧੀਆ ਥੀਮ ਹੋ ਸਕਦੇ ਹਨ।",
+  "sec": 0.6145546436309814,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/pan_2": {
+  "text": "ਪੁਲਿਸ ਨੇ ਕਿਹਾ ਕਿ ਲੱਗਦਾ ਹੈ ਕਿ ਸਰੀਰ ਉੱਥੇ ਲਗਭਗ ਇੱਕ ਦਿਨ ਤੋਂ ਪਿਆ ਹੈ।",
+  "sec": 0.5492095947265625,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/pan_3": {
+  "text": "ਪ੍ਰੋਗਰਾਮ ਸਵੇਰੇ 8:30 ਵਜੇ ਸ਼ੁਰੂ ਹੋਇਆ। ਸਥਾਨਕ ਸਮਾਂ (15.00 UTC).",
+  "sec": 0.6658389568328857,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/pan_4": {
+  "text": "ਰੋਲੈਂਡੋ ਮੈਂਡੋਜ਼ਾ ਨੇ ਸੈਲਾਨੀਆਂ ਉੱਪਰ ਆਪਣੀ।#16 ਰਾਈਫਲ ਨਾਲ ਫਾਇਰ ਕੀਤਾ।",
+  "sec": 0.8107712268829346,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/pan_5": {
+  "text": "ਉਸਨੇ ਅਫਵਾਹਾਂ ਨੂੰ \"ਰਾਜਨੀਤਕ ਬਕਵਾਸ ਅਤੇ ਮੂਰਖਤਾ\" ਵੱਜੋਂ ਲਿਆ।",
+  "sec": 0.8557963371276855,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "flores_synth/san_0": {
+  "text": "फरेञ्चनिर्वाचननियमः प्रक्रियां किञ्चित्‌ क टोरतया संहिताबद्धां करोति।",
+  "sec": 0.5964884757995605,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/san_1": {
+  "text": "रक्षिकाः अवदन्‌ यत्‌ मृतशरीरं तत्र एकदिवसपर्यन्तम्‌ आसीत्‌।",
+  "sec": 0.6985862255096436,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/san_2": {
+  "text": "यदा त्वं धारानां वर्हि गच्छति, पुनः तरणं सामान्य अधिक कठिनं न भवति |",
+  "sec": 0.6279296875,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/san_3": {
+  "text": "एतत्‌ अवधारणा चिनतः आगतः यत्र फिम्‌ ब्लासम्‌ ममनोग्राही पुष्पः आसीत्‌।",
+  "sec": 0.7568442821502686,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/san_4": {
+  "text": "1200 GMT वादनसमये तस्मिन्नेव दिवसे वाहनं अपघातस्थानात्‌ दूरं नीतम्‌।",
+  "sec": 0.8127121925354004,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/san_5": {
+  "text": "हिब्रू परिवारस्य अधिकांश जीवनः मुक्त वायुषु अभवत्‌ |",
+  "sec": 0.7577173709869385,
+  "error": null,
+  "mode": "native",
+  "model": "san"
+ },
+ "flores_synth/sat_0": {
+  "text": "CO2.Ln LNZZODIO 2.6Ghz DY 6.0OGhz DALAY DAYADIVCZLLA YZEZe 6B).UA(CS):",
+  "sec": 0.5784111022949219,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/sat_1": {
+  "text": "NAVAS BLOWLIZ PHDIUD PB.GAE DALZL DVDACAHIBONCD OBWZ OAL!",
+  "sec": 0.642906665802002,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/sat_2": {
+  "text": "UBPAL ULE OZG-AC GOV WYAUD OY UAG OAL HHVL VSbB UZTAG- OH",
+  "sec": 0.5381648540496826,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/sat_3": {
+  "text": "2082 UNGD.E YZ, VAUALVUS AZLZZPBU BALZP QVC YZ AZP ZV",
+  "sec": 0.5123257637023926,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/sat_4": {
+  "text": "LOYD AQ PB OD.9 OONVD.9 SDAZCHE-B; LHWD VAESID OYOAD OZ DAE NYA0D)",
+  "sec": 0.4693470001220703,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/sat_5": {
+  "text": "OBPALA LAUDS YZLAHGC PYPD WIC EG YZ, VADG NL.6 bAAL WHS OBDWZ HALA!",
+  "sec": 0.5884757041931152,
+  "error": null,
+  "mode": "none",
+  "model": "eng"
+ },
+ "flores_synth/snd_0": {
+  "text": "اهرامن تي منظر ڏيکاريا ويندا آهن ۽ مختلف اهرام روشن ڪيا ويندا آهن.",
+  "sec": 0.6901736259460449,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/snd_1": {
+  "text": "زلزلو صبح جو 07:19 مقامي وقت )09:19 ‎p.m. GMT‏ جمعي تي) ماريانا ۾ آيو.",
+  "sec": 0.7286648750305176,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/snd_2": {
+  "text": "ڪجه۔ہ فعلن ۽ شين جي وچ ۾ فرق ڪرڻ لاءِ اهو اهم طريقو آهي.",
+  "sec": 0.7151553630828857,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/snd_3": {
+  "text": "پوليس چيو تہ مليل لاش هتي اٽڪل هڪ ڏينهن کان موجود آهي.",
+  "sec": 0.8611063957214355,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/snd_4": {
+  "text": "گورنر جي آفيس ٻڌايو تہ زخمي ٿيل ماڻهن ۾ اُڻويهہ پوليس وارا هئا.",
+  "sec": 0.7184991836547852,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/snd_5": {
+  "text": "",
+  "sec": 0.5987308025360107,
+  "error": null,
+  "mode": "native",
+  "model": "snd"
+ },
+ "flores_synth/tam_0": {
+  "text": "ஹீப்ரு குடும்பத்தின்‌ பெரும்பகுதி வாழ்க்கை, இறந்த வெளியில்‌ நிகழ்ந்தது.",
+  "sec": 0.7072176933288574,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tam_1": {
+  "text": "ஹை $ூங்‌ பாதையைப்‌ போன்ற பனிச்சறுக்கு பாதையைப்‌ பற்றிச்‌ சந்‌இயுங்கள்‌.",
+  "sec": 0.8906610012054443,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tam_2": {
+  "text": "ஈராக்‌ ஆய்வுக்‌ குழு, தனது அறிக்கையை இன்று 12.00 GMT-HG வழங்‌இயது.",
+  "sec": 0.8856215476989746,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tam_3": {
+  "text": "பின்னர்‌, பஜன்களைப்‌ பாடுவதில்‌ லக்கா Am முன்னிலை வஒூத்தார்‌.",
+  "sec": 0.774055004119873,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tam_4": {
+  "text": "வாடிகன்‌ நகரின்‌ அனைத்து குடிமக்களும்‌ ரோமானிய கத்தோலிக்கர்கள்‌ ஆவர்‌.",
+  "sec": 0.6530272960662842,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tam_5": {
+  "text": "கோபுரத்தின்‌ மேற்புறத்தில்‌, கடவுளுக்குச்‌ சிறப்பு சன்னதி ஒன்று இருந்தது.",
+  "sec": 0.7052686214447021,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "flores_synth/tel_0": {
+  "text": "ఆ విషానికి తగిన [ప్రథమ చికిత్సు సూచనల కోసం లేబుల్‌ పై చూడండి.",
+  "sec": 0.6473464965820312,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/tel_1": {
+  "text": "అయితే, అది నిజం కాదు. పత్రం వెనుక ఏదో రాసి ఉన్నా, అది నిధి పటం కాదు.",
+  "sec": 0.7952356338500977,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/tel_2": {
+  "text": "మధ్యప్రాచ్యం యొక్క వెచ్చని వాతావరణంలో ఇల్లు అంత ముఖ్యమైనది కాదు.",
+  "sec": 0.7519264221191406,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/tel_3": {
+  "text": "అంతర్జాతీయ ఆంక్షలు OB కొత్త విమానాలను కొనుగోలు చేయడం సాధ్యం కాదు.",
+  "sec": 0.735203742980957,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/tel_4": {
+  "text": "తన పర్యటన సందర్భంగా ఇవాసాకి పలు HOSTS చిక్కుల్లో పడ్డారు.",
+  "sec": 0.5816023349761963,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/tel_5": {
+  "text": "గవర్నర్‌ జనరల్‌ కార్యాలయం వెలుపల 1 బాంబు పేలింది.",
+  "sec": 0.5206761360168457,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "flores_synth/urd_0": {
+  "text": "اس نے کہا کہ اس نے ایک وائی فائی ڈور بیل اختراع کیا ہے۔",
+  "sec": 0.6300795078277588,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/urd_1": {
+  "text": "‎4s 100‏ چوڑے پشتہ کے اوپر ‎Wik‏ پھیل رہا ہے۔",
+  "sec": 0.6333105564117432,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/urd_2": {
+  "text": "پولیس نے کہا کہ لگتا ہے کہ لاش تقریباً ایک دن سے وہاں پر ہے۔",
+  "sec": 0.7715528011322021,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/urd_3": {
+  "text": "",
+  "sec": 0.6077568531036377,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/urd_4": {
+  "text": "اپنے دورے کے دوران ایواساکی کو کئی دفعہ مشکلات کا سامنا کرنا پڑا۔",
+  "sec": 0.5187506675720215,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "flores_synth/urd_5": {
+  "text": "ایروسمتھ نے اپنے ٹور کے باقی کنسرٹس کو رد کر دیا۔",
+  "sec": 0.5741662979125977,
+  "error": null,
+  "mode": "native",
+  "model": "urd"
+ },
+ "funsd/funsd_0": {
+  "text": "AIT. GEN, ADMIN, OFFICE Fax:614-~466-S087 Dec 10 '98 17:06 P.Ot\n\nEAA Attomey General\n\nCONFIDENTIAL FACSIMILE\nTRANSMISSION COVER SHEET\n\nFAX NO, (614) 466-5087\n\nTO: _George Baroody\nFAX NUMBER: __(336) 335-7392 _ PHONE NUMBER: (336) 335-7363\n\nDATE:\n\n1210/98\n\nNUMBER OF PAGES INCLUDING COVER SHEET: 3\nSENDER/PHONE NUMBER: ___June Flynn for Erie Brows/(614) 466.9980\n\n‘SPECIAL INSTRUCTIONS:\n\nYou. OF OP}\nELEASE CONTACT SENDER\nAS: LE\n\n‘THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE INDIVIDUAL OR ENTITY 7O|\nWHOM IT IS ADDRESSED AND MAY CONTAIN INFORMATION THAT IS PRIVILEGED, |\nCONFIDENTIAL, AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW. If the]\nreader of this message isnot the intended recipient of the employee or agent responsible for delivering |\nthe message to the intended reciplent, you are hereby notified that any dissemination, diseibuson,\ncopying. or conveying of this communication in axy manner is strictly prohibited. \"If you. ave}\nreceived this communication ia eror, please notify us immediately by telephone end feaura the}\ncriginal message to us at the address below via the USS. Postal Service, Thank you for your\n\n_coopéfatoa.\n\n‘State Office Tower / $0 East Broad Sireet / Columbus, Ohio 43215-9428\nwwwag.state.oh.us\n‘An Equal Opportunity Employer\n\nLL LZ6028\n\nDorian on enratod reper",
+  "sec": 1.8008334636688232,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_1": {
+  "text": "09/17/97 10:88 *PBOS 641 1898 LORTLLARD PTLD Boor\n\nTo: A. Sparraw\n\nFROM: 7.0, etacnty\n\n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISIONIS! SCOPE)\n\nDMvision:\nDIVISION: Portland —-# REPS: 6 DIVISION: Seatde South REPS: 7\nDIVISION: Boise # REPS: 2.5 DIVISION: Seale Nonh REPS: 4\n\nDIVISION: Eugene REPS: 5 DIVISION: Helena REPS: 6\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION\n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 10'S\n\nPaget of 3 Pages\n\n2900078",
+  "sec": 1.1775023937225342,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_10": {
+  "text": "(CASE NAME:\n\ncourt:\n\nLORILLARD\nENTITIES:\n\nDATE FILED:\n\nDATE SERVED:\n\nCASE TYPE:\n\nPLAINTIFF'S\nCOUNSEL:\n\nLORILLARD\n‘COUNSEL:\n\nsuDGE:\n\n‘TRIAL DATE:\n\nCASE FORM\nDonald D. Sellers and Robin J. Sellers v. Raybestos-Manhattan, etal.\n\n‘San Francisco Superior Court - No. 996382\n\nLorillard Tobacco Company\n\nAugust 3, 1998\n\nAsbestos\n\nWartnick, Chaber, Harowitz, Smith& Tigerman\n‘StephenM.Tigerman\n\n101 California Street, Site 2200\n\n‘San Franciseo, California 94111\n\n415)986-5866\n\nC98 P0528\n\nSLIS29h6",
+  "sec": 0.9112813472747803,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_11": {
+  "text": "= 05/01/00\n\n1o:21 Tez $94 9690 LORILLARD_RGNWLL\n\nFax\n\nTo: _Mr. Randy Spell From: Rick Redfield\n\noorroos\n\nFox: Date: May 1,2000\n\nCc: Mr. Fred Patemosiro Fac 952 894-9690\n\nRe: __Legal—lowa Pages: 4\n\nClurgent ([lrorReview [}PteaseComment (Jplease Reply (_]Pteazo Recycle\n\n‘Comments:\n\nAttached is the lowa Department of Revenue and Finance Minimum Legal Prices\non Cigarettes as of April 3, 2000. | am attempting to obtain a copy of the actual\nFair Trade Law and will forward as soon as obtained.\n\nRick\n\n‘Ti aca may coin pega and contsetlfoton rtrd ofr Bo so of ha nial railyramed\nabove. Ihe reader fhe csi isnt he ended ecplent or employee or agent responsible fr defy tothe\nIntmded reper yu ae ey robe ta ary scerinaton copying Usenet protd. you hav\n‘ceived tis acs nemo, please nc us rea by takchone (nano icated eon) and rtf nal\n‘scsi ous a he addres bow va US, Postal Sone.\n\n208 River Ridge Cle\n7.0. Bot 1538\numevito, WN SSSS7\n\n“Telephone: (052) 0942238\n\n0579528",
+  "sec": 1.2714736461639404,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_12": {
+  "text": "xe: RBS\n1269-99\n\nPham eRSENED\nCOVINGTON & BURLING  pg¢-9.1999\nR. B. SPELL\n\n1201 Pennsylvania Avenue, N.W.\nP.O. Box 7566\n‘Washington, D.C. 20044-7566\n(202) 662-6000\nFax Numbers (202) 662-6291 or (202) 737-0528\nFax Operator: (202) 662-6280\n\nTHIS FACSIMILE TRANSMISSION IS INTENDED ONLY FOR THE ADORESSEE SHOWN\nBELOW. IT MAY CONTAIN INFORMATION THAT IS PRIVILEGED, CONFIDENTIAL OR OTHERWISE\nPROTECTED FROM DISCLOSURE. ANY REVIEW, DISSEMINATION OR USE OF THIS TRANSMISSION\nOR ITS CONTENTS BY PERSONS OTHER THAN THE ADDRESSEE IS STRICTLY PROWIBITED. IF\nYOU HAVE RECENED THIS TRANSMISSION IN ERROR, PLEASE NOTIFY US IMMEDIATELY AND\n[MAIL THE ORIGINAL TO US AT THE ABOVE ADORI\n\nDate: December 9, 1999\nTo: Haney H. Bell, Esq.\nFrom: David H. Remes\n\n(202) 778-5212 — direct fax\n\nRoom: 803E\n\nMU, Pages (including cover)\n\nMESSAGE:\n\nVOLELS%8\n\n00m SNTTUNE ¥ NOIONTAGD x¥d 60:TT 66/60/27 “—",
+  "sec": 1.301161289215088,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_13": {
+  "text": "NEW COMPETITIVE PRODUCTS\n\nBOBBY MILLS, REGIONAL SALES MGR., INDIANAPOLIS, IN\n\nDATE:_8/10/90\n\nTIME:\n\nHALL RODECAP, NOBLESVILLE, IN\n\nVICEROY KING BOK AND VICEROY LIGHTS KING BOX\noF \\\nRODUCT: !\nIZE OR SIZES:\nIST PRICE:\nEXTENT OF\nISTRIBUTION:\nER\nINFORMATION: SEE ATTACKED INFORMATION SHEET\n\\ H. Tisch .Tottord 4.3, Tetut\nH. Orcutt F.u.Schute LH, Kersh 2\nPeterson AWspeas SU Stter 8\n-H. Mau NP. Rufio 8\nGordon T. Lachey S.T. Jones n\nR. S. Goldbrenner x\nEB Harrow N",
+  "sec": 0.8871955871582031,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_14": {
+  "text": "JAN 11 199 16:29 FR 8220\n\nFAX TRANSMISSION\n\nDATE: January 11, 1999\nCLIENTNO: _L8557.002\n\nTo seramizess7Heean Pot\n\nDICKSTEIN\nSHAPIRO\n\nMORIVG\nOSHINSKY\n\nMESSAGE T\n\n1: Dewey Tedder\n\nCOMPANY: Lorillard Tobacco Compan\n\nFAXNUMBER: 336/373-6917\n\nPHONE: 336/373-6750\n\nFROM: Andy Zausner and Rob Mangas\n\nPHONE: 202/828-2259 and 202/828-2241\n\nPAGES (Including Cover Sheet): __2_ HARD COPY TO FOLLOW:\n\nMESSAGE: [The following is for your review,\n\nwa 12 1999\n\nIfyour receipt ofthis transmission isin error, please notify this fiem immediately by\n\ncollect call to our Facsimile Department at 202-861-9106, and send the or\n\nal\n\ntransmission to us by cetum mail at the address below.\n\n“This transmission is inteaded for the sole use ofthe individual an entity to Whom ils addeesed, and\nmay contin information dst i peileged, coubdental and exempt from dielomire under applicable\nJay. You are hereby notified that any Gsseminadon, isozbution or duplication ofthis wansassion by\nsonicone other than the intended addesee ort designated agent is sey probibited.\n\n21011 Steet NW Washington, DC 20087-1628 Tel 202-785-700 Fax 202-867-0089\n\nLO8fHS8",
+  "sec": 1.2155365943908691,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_15": {
+  "text": "DAVis POLK & WARDWELL\n\nEe\n\nFax Transmittal Sender\n450 Avene Charles Duggan\nAe Yo 10077 Daw ‘Number of Pages (is page included)\nNovember 12, 1999 6\n‘Sender Voice Number Trproblems receiving this fx, call\n212-450-4785 212-450-4785\nSender Fax Number Reference\n212-450-3788 17555-002\nTe Fax Number Company TReciptent Phone Number\nThomas M.Sobol 617-439-3278 Brown Rudnick Freed 617-330-8000\n& Gesmer\nJoseph F. Rice 843-720-9290 Ness, Motley, 848-720-8000\nLoadholt,\nRichardson &\nPoole\nRobert V. Costello 617-722-0286 Schneider, Reilly, 617-227-7500\nJeffrey D. Woolf Zabin & Costello\nRichard M. Heimann 418-956-1008 Lieff, Cabraser & 415-956-1000\nHeimann\nMichael P. Thornton 617-720-2445 Thomton, Early & 617-720-1333\nNaumes:\no\now\na\na\noO\nw\na\na\nrare ay cea cion\n\ner copying of ts fens of i infrmaton her by avons othe tan te ide\n‘apm we tu eupleyes a age ropentle ur Slvrng Se mesage ended resin prohibit You have aeeive thistle in eon,\nlease oy ws ineaely Wythe nd rete the fale by ral.",
+  "sec": 1.3916730880737305,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_16": {
+  "text": "—y/14g98 18:58 FAK 208 635 05:\n\n‘TeLEPHONE (208) 653-7293,\n\ne HAGENS BERMAN\n\ntera AVENUE, SUITE age - SEATTEE, WA 08103\n\nSiMe (306) 628-0898\n\nWA Fee-Pr\noor!\n\nXe: Gad\n\nFACSIMILE COVER SHEET\n\nDate: January 14, 1999 No. of Pages 27 Goctaig is pgs)\n\nFrom: Steve W. Berman. File No.: L a a\n\nRet__ Tobacco - Fee Payment Agreement and Release\n\n‘COMMENTS:\n\nRecipient(s): ‘Company: Phone No.: Fax No.:\n\n‘Mr, Meyer G. Koplow ‘Wachtel, Lipton, Rosen (212) 403-1000 (212) 403-2000\n‘& Katz\n\n‘Mr. Arthur F. Golden Davis, Polk & Wardwell (212) 450-4000 (212) 450-4800\n\n‘Mr. Martin Barrington Philip Morris Inc. (917) 663-5399\n\n‘Mr. F. Anthony Burke Brown & Williamson (502) 568-7297\nTobacco Corp.\n\n‘Mr. Ronald Milstein Lorillard Tobacco Co. (336) 335-7707\n\n‘Mr. Charles A. Blixt RJ. Reynolds Tobacco (336) 741-2998\nCo.\n\n‘Mr. Stephen R. Patton Kirkland & Ellis (312) 861-2000 (312) 861-2200\n\nPlease call the Support Center at (206) 268-9312 or\n\nUrgent! Deliver Immediately.\n\nnot receive all of these pages or if there is a problem.\n\natext,\n\nifyoudo\n\n“The nation coed In is fei conte and may als be atareyrivieged. he infruton send only for he we of\n{he individual or ene whom i dese. yon a at the ended ecieco th emplayes oc gent spol fr dling ies\n‘Geen cia, you thy ied th ny wm, semi, driven or spying a command is ty prosb.\nyo ive recived is fen cor, lainey oly ws By a ale teepboae eal 200) 237292, wed eum be xiga\nracing to slit res shove i tu US Pol Service. Thank you\n\nAgree,\n\nZBTLLGEB",
+  "sec": 1.5302774906158447,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_17": {
+  "text": "99/22/97\n\nBoor\n\nrARCH ron\n\nMON 15:35 FAK an ha ROPER ST!\n\nav ae\n\nTURKING DATA 1HTO INTELLD\n\nCE WORLDWIDE™\n\nDate: September 22, 1997\nTo: Ron Milstein\nCompany: Lorillard\n\nFax Number: (910) 335-707\n\nRoper Starch Wordle\n203 Edda Soak\n\nNow Yr NY 07\nziasso0n0 Te\n212057708 Fx\n\nFrom:\n\nPages (Including cover page): 3\n\nape sn sd Pat Ope Read\nSee bya Rees\nFaken hat Svs\n\nTha Rates\n\n6896558",
+  "sec": 0.9000494480133057,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_18": {
+  "text": "J Fe 25 v9 10:25 Fe @p 10 QD eizessrceet Pot\n\nFAX TRANSMISSION\n\nDICKSTEIN\nSHAPIRO\n\nMORIN@\nOSHINSKY\n\nDATE: February 25, 1998 .\nCLIENT NO: 8557.02.\n\nMESSAGE TO: Ronald S. Milstein\n\nCOMPANY: Lorillard ‘Tobacco Company\n\nFAX NUMBER: 910/335-7707\n\nPHONE: 910/338-7718\n\nFROM: Andy Zausner\n\nPHONE: 202/828-2259\n\nPAGES (Including Cover Sheet): _12_ HARD COPYTO FOLLOW: __YES NO\n\nMESSAGE: [Scc attached fax om the Committee on Commerce just received in my\nloffice, Call me to discuss.\n\n‘your receipt ofthis transmission isin error, please notify this firm immediately by\n‘eollect call to our Facsimile Department at 202-861-9106, and send the original\n‘ransmiscion to us by return mail atthe address below.\n\n\"This cransmision is intcrdd fo the sole use ofthe individual and cuit to whom iis addres, and\n‘may contain information thst is prveges, confidential and exempt from dsclosare wader applicable\nlaw. You ae hereby notifed that any discminaton,disbution or duplication of this tarumtsion by\nsomcone other than the intended addtesee or its dedignted agents sticly prabibted.\n\n2101 L Sueet NW Washington, DC 20087-1828 Tel 202-785-9700 Fax 202-887-0680\n\nce\n\na\n\nB6LbS",
+  "sec": 1.2261290550231934,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_19": {
+  "text": "Pie\n\nBN 2s *37 eeseern ar iad LeoAL e\n\nLOBWS\n\n(857 Madison Avenue, New York, NY, 10021-8087 (212) 586-2020 Fax (212) 995-6801\n\nBARRY HSCH\n‘Sarit Vie Present\n‘Secretary & Goneral Counes, FAX\nCONFIDENTIAL\nDATE: —June 4, 197\nTO: Dr. Spearw/A.J Stevens/R. Milstein\n\nFROM: —Bany Hirsch\n\n‘TOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET - 6\nIF YOU DO NOT RECEIVE ALL THE PAGES, PLEASE CALL\nCAROL DOKTORSKI AT (212) 545.2934.\n\nOUR FAX NUMBER IS (212) 935-6801,\n\n‘nee TUMNCSEION 16 TENROED ORE POR TE DEN OF 255 ZENSVISEN om OETTY TO MO 27 75 ROORBEGED, 290 YY\n‘YOO ARK NOT TES WRTAMDKD RECTPIENT, YOU ARK HARSDY MUTIFIXD THAT ANY DIEEDCAATION, DISTRIBUTOR OR COPED\n(x cats Goecncariew J GTRICTIY THORIDETEO. \"2¥ £00 EAI RECKON SICH COMELONTION 2 KARR, SLARSE\n\nSOrnrY Us emoDAtuur Ay FeLanat A0D RETO TH9 GRIODOL yassaog 70 UE AT Nun ARoMx ROORDGO VIR Tad B.S.\n\nS£6SS9¢8",
+  "sec": 1.1223948001861572,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_2": {
+  "text": "COMPETITIVE PRODUCT INTRODUCTION\n\nPROGRESS REPORT\nTo: SamZolot MANUFACTURER: __BaW\nFROM: D.J. Lando BRAND: Kool Waterfall\nDATE: “2.08e97 TYPE OF PACKINGS: Al Packing\nREPORTING PERIODS: oot Now X ee. Jan.\n‘TEST MARKET GEOGRAPHY: oivisonse21 andsar  (Cwsiscomsim)\nPRICE POINT: FULLS _PIVS (indicat Distrbutor’s Cost Per Caron)\n\nSALES FORCE INVOLVEME?\n\nThey have ctew-worked distribution, and itis reported that they may crew-workit again. Sales force has been busy\n\npromoting old style packs to clean up inventory. All POS is being converted to \"B* Kool\n\nDISTRIBUTORS - ACCEPTANCEMNTRO TERMS/INTRO DEALS/INVOLVEMENT:\n\n‘Allaccounts have the new packaging. Itwas not a problem obtaining new distribution. All accounts appear\n\nto have 100% distribution of new packings.\n\nCHAINS - ACCEPTANCE/MERCHANDISING:\n\n‘This has not been a problem. New packaging is just following up on the old ‘packaging’.\n\nINDEPENDENTS - ACCEPTANCE/MERCHANDISING:\n\nVery well received. The old packs are boing consolidated and promoted in select retail cations at 40¢\n\nCoff$4.00 off cartons.\n\nADVERTISING - EFFECTIVENESS OF P.0.S.:\n\n“The theme \"B* Koo! has replaced all previous POS. They have effectively replaced al old POS. New\n\n‘door signage, hour signs. poster mats, and clocks have the new design. “B* Kool also appears on billboards\n\nin Winois.\n\nPAGE 1 OF 2\n\nL290S228",
+  "sec": 1.5486295223236084,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_3": {
+  "text": "“11/08/07 11:03 tpe1a 884 oses LORILLARD TAMPA. +++ GREENSBOR @o02/003\n\nRetail Excel Progress Report\n\nSubmission for: Distribution by/to:\nsly 37 ) OM to RSM 1st of Month\nAugust29() To: B.W.Caldarella RSM to RW.C, 10th\nSeptember 30 ( ) oo: DOS.\n\nOctober31— (K) From: Kent B, Mills\n\nNovember28 ( )\n\nDecember30 ( ) Area: § Region: 17\n\nAcceptance/Response: What\nMerchandising pian?\n\nthe retailers response to Lorillard's Excel\n\nHardware Evaluation/Effectiveness: Comment on the essembly of displays and\n\napplication of shields:\n\n+7\n\nvOSLSZZ8",
+  "sec": 0.9482343196868896,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_4": {
+  "text": "FROM:\n\n‘SUBJECT:\n\nKA, Sparrow\n\nD. J. Landro\n\nMAY 4[\n\naus 4|\n\nJUN 23)\n\nSEP 45\n\nOLD GOLD MENTHOL LIGHTS & ULTRA LIGHTS 1900'S - PROGRESS REPORT\n\nREGION:\n\n(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\n\nDIVISION:\nDIVISION NAME: Milw. South DIVISION NAME: #REP z\nDIVISION NAME: Milw. North _ DIVISION NAME: #REP z\nDIVISION NAME: DIVISION NAME: # REPS\n\nDIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION\n(15 + STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S\n\nGe\n\nie\n\nae\n\n[Walgreen Drug naa,\n\n93]\n\nPaget of 3 Pages\n\n95675208",
+  "sec": 0.9059000015258789,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_5": {
+  "text": "he\n\nAz/t0/26 09:81 @a17 s4s0971 LORILLARD\n\nCOMPETITIVE PRODUCT INTRODUCTION\nPROGRESS REPORT\n\nTO: MRS. K. A, SPARROW MANUFACTURER: R, J. Reynolds .\nFROM: RG. Ryan BRAND: Camel Menthol __\nDATE: ¥2H0/96 ‘TYPE OF PACKINGS: Full Flavor Box and Light Box\nREPORTING PERIODS: AUG SEPT oct Nov _x\n\n(Forward by the 10th of the following month.)\n\nMARKET GEOGRAPHY: _AllofRegion7,\n\nPRICE POINT: FULLS11.89 PS indicate\n\ntibutor’s Cost Per Carton)\n\nSALES FORCE INVOLVEMENT: _Merchanclsing the top tay of permanent counter dlsplays and labeling\n{carton fixtures inthe Camel section, Also placing metal signs and temporary Counter display\n\nDISTRIBUTORS ~ ACCEPTANCE/INTRO TERMS/INTRO DEALS: a\nProduct is being introduced to al Direct Accounts in the Region. Acceptance is spotty at this time,\n\nDISTRIBUTOR INVOLVEMENT:\n‘Assembly of promotional products and shipment fo\n‘esehing BIGIF product\n\nCHAINS — ACCEPTANCE/MERCHANDISING ALLOWANCE\nhain acceptance has been very good.\n\nINDEPENDENTS ~ ACCEPTANCE/MERCHANDISING ALLOWANCE\nAcceptance is better t high volume locations than at lower volume retail cals.\n\n(CAMEL. /EMT PAGE 1 OF 2\n\nBoorvo02",
+  "sec": 1.530099868774414,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_6": {
+  "text": "To: KA Sparrow\nFROM: RE Lane\nSUBJECT: STYLE LOW PRICI\n\nJUNE 30]\n\nAUG 14\n\n>ROGRESS REPORT\n\n‘SUBMISSION DATE]\n\noR\noO\n\nsep22\n\nNov1o\n\nEE SREERGIVENESS Onsirandiiion BISA\n\n(Repart on June 30 only)\nPRE-SELL Overall pre-sell\n\nforts were successful, Retall accounts that previously stocked\n\nStyle Full Price accepted the introduction ofthe low price\n\nBIGIF/2 FOR\n\nProved to be an excellent oo! for pulling the balance of Style Ful Price packs through\n\nthe system. This alded the field greatly during the transition.\n\n$7.00 CARTON COUPON/BUYDOWN: —_Erfective in those retal calls that we could not exchange product out of\n\n“Those situations were limited\n\n(DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION\n\n(15 + STORES) STOCKING NO LOW PRICE STYLE\n\n: Tn nn; UNDEOR I NGIOF TWOILOR'| “NOT OF\nWalle oF ACcoUNT “| voLUMe |’ SToRES | ‘Naw GFACCOUNT | voLUME | sToREs|\nIM. Maskos & Sons\nPollock Candy and Cigar\nMcKeesport Candy Co.\nSico Serve area Ty\nSheetz 521/42 450\n[rhvitséckord 137/20 188\nDIRECT ASCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION\n{18+ STORES) STOCKING NO LOW PRICE STYLE\nee WOR] NONOF TWOILOR | NO. OF]\nNAME OF ACCOUNT | VOLUME: |. STORES NAME OF ACCOUNT | VoLUME | sToREs|\nKroger 24\nRich Oi 82\n[Super America 105:\njovs 7.\nWH Smith 5\n[71 318 Zon 23\nDairy Marts 35.\n|Widman Drugs 3\n\nsmexis\n\nPage of 3 Pages\n\nSv7ZS778",
+  "sec": 1.605726957321167,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_7": {
+  "text": "To. KA Sparow ‘SUBNISSION DATE\n\nFROM JL Meine may 19 ave 14)\nuso (=) SEP 22\n‘SUBJECT: MAVERICK SPECIALS MENTHOL - PROGRESS REPORT\n\nPARTIAL\n(ONLY F PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)\npivision: Fuu, PARTIAL,\n\nDIVISION NAME: DIVISION NAME: REPS\n\nDIVISION NAME: DIVISION NAME: BREPS\n\nDIVISION NAME: DIVISION NAME: REPS\n\ns REG\nfre bReS SToGHIS Ho NAYERENSreCUAS ENT\n\nWiuoehocou\nDen & ene\n\nhese Beeage\n[send stm\nJone-co [\netaySharvockc\n[aeeroars = Housen\nMi at\n\neats one Stop\nShopper art\n\nWDLOR NO. GF\nVoutite | STORES\n\n752. 2\n\nNRE s HEAn ou\n(15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL\n\n‘iiieoraccour | Notun | eros |v\nleneron 15\n2\n27\n\n‘PRE\nSTORES,\n\nlooker Breve\n\n[Eckerd Drugs 8. Texas\n\nleeon\n\nJena 65\n\nstar Ererrse\nagrees\n\n8\nz\n7\n\nid\n\nsvPROsaiu Paget of 3 Pages\n\nT9EESTCS",
+  "sec": 1.398693323135376,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_8": {
+  "text": "To:\nFROM:\nDIV. NAME / NO: Nassau 107\n\n1991 SPECIAL EVENT REQUEST FORM\nNAMEOFEVENT: _H. Levinson Tradeshow\n“DATE OF EVENT: 3/18/97\n\n‘SAMPLES /ITEMS REQUIRED: SAMPLE 10'S (400 PACKS PER CASE)\n\n#.CASES\n\nNEWPORTKS. KENTINKS,\nNEWPORT 107 KENT 101100\nNEWPORTLTS. Ks. ‘TRUEKS. LT\n‘NEWPORTLTS. 100 KENTKS. ae\n\n_ KENT 100 =\n\n_ ITEMS\n. BASEBALL CAP\n_ _WATER BOTTLES\n\nSHIP TO:\n(CUSTOMER SHIPPING NUMBER 198-1160006\nNYO ONLY:\nDATE FORWARDED TO PROMOTION SERVICES: lola\n\n* PLEASE ALLOW 6 WEEKS FOR PROCESSING OF YOUR REQUEST.\n\nREFORM\n\nDATETONYO: 1/24/97\n\nKENTGLLISKS,\nKENTGL 100\n\nGOLYS72B\n\nouter",
+  "sec": 1.5195066928863525,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "funsd/funsd_9": {
+  "text": "‘CASE FORM\nWanda G. Robinson and Carroll Robinson v. Raybestos-Manhattan, etal.\n\nCASE NAME:\ncourt: ‘San Francisco Superior Court - No. 996378\nLORILLARD\nENTITIES: Lorillard Tobacco Company\nDATE FILED: Suly 23, 1998\nDATE SERVED: August 3, 1998,\nCASE TYPE: Asbestos\nPLAINTIFF'S,\nCOUNSEL: Wartnick, Chaber, Harowitz, Smith& Tigerman\nMadelyn J. Chaber\n101 California Street, Suite 2200\nSan Francisco, California 94111\n415/986-5866\nLORILLARD\n‘COUNSEL:\nSUDGE:\n‘TRIAL DATE:\n\n957 L6¢z8\n666hZ9h6",
+  "sec": 0.9263613224029541,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "handwritten/hin_0": {
+  "text": "tected",
+  "sec": 0.832430362701416,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_1": {
+  "text": "पक",
+  "sec": 0.7575333118438721,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_10": {
+  "text": "tre",
+  "sec": 0.7187201976776123,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_11": {
+  "text": "avery",
+  "sec": 0.7892317771911621,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_12": {
+  "text": "सिमठ",
+  "sec": 0.8015339374542236,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_13": {
+  "text": "ote",
+  "sec": 1.0536141395568848,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_14": {
+  "text": "ae",
+  "sec": 0.9107286930084229,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_15": {
+  "text": "anda",
+  "sec": 1.4469940662384033,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_16": {
+  "text": "| OV aera",
+  "sec": 0.8633022308349609,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_17": {
+  "text": "कि",
+  "sec": 0.9041075706481934,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_18": {
+  "text": "Ry",
+  "sec": 0.6026153564453125,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_19": {
+  "text": "wy - eo",
+  "sec": 1.153113842010498,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_2": {
+  "text": "ar",
+  "sec": 0.8444616794586182,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_20": {
+  "text": "YR",
+  "sec": 0.9052588939666748,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_21": {
+  "text": "(Borer",
+  "sec": 1.153477430343628,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_22": {
+  "text": "Peer",
+  "sec": 1.2132740020751953,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_23": {
+  "text": "ad",
+  "sec": 0.6540694236755371,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_24": {
+  "text": "AVIV ALTE",
+  "sec": 0.8873317241668701,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_25": {
+  "text": "awa",
+  "sec": 0.9195132255554199,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_26": {
+  "text": "aI",
+  "sec": 0.6224265098571777,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_27": {
+  "text": "ped y",
+  "sec": 0.9951350688934326,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_28": {
+  "text": "| Ry",
+  "sec": 0.6717197895050049,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_29": {
+  "text": "चर.",
+  "sec": 1.043579339981079,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_3": {
+  "text": "ana",
+  "sec": 1.027033805847168,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_4": {
+  "text": "बिता",
+  "sec": 1.0211153030395508,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_5": {
+  "text": "- शर्मा -ब्षत्रा",
+  "sec": 1.2306702136993408,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_6": {
+  "text": "USS",
+  "sec": 0.9557754993438721,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_7": {
+  "text": "cee",
+  "sec": 0.8305323123931885,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_8": {
+  "text": "SE",
+  "sec": 0.8848998546600342,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/hin_9": {
+  "text": "aa",
+  "sec": 0.8723084926605225,
+  "error": null,
+  "mode": "native",
+  "model": "hin"
+ },
+ "handwritten/tam_0": {
+  "text": "தமய",
+  "sec": 1.8228607177734375,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_1": {
+  "text": "ப.",
+  "sec": 1.3513212203979492,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_10": {
+  "text": "ரரி...",
+  "sec": 1.02437424659729,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_11": {
+  "text": "அட ௧௮2.2 ௮௮௮",
+  "sec": 1.4231750965118408,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_12": {
+  "text": "கதத",
+  "sec": 1.8518688678741455,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_13": {
+  "text": "ட.",
+  "sec": 1.1621267795562744,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_14": {
+  "text": "பம.",
+  "sec": 1.7544846534729004,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_15": {
+  "text": "ச...",
+  "sec": 1.5509352684020996,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_16": {
+  "text": "அல",
+  "sec": 1.4967622756958008,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_17": {
+  "text": "ச...",
+  "sec": 1.5036561489105225,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_18": {
+  "text": "| வெளிப்படுத்தி.",
+  "sec": 1.2281925678253174,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_19": {
+  "text": "ப teeet eeeet",
+  "sec": 1.6181728839874268,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_2": {
+  "text": "| வர்க.",
+  "sec": 1.0558886528015137,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_20": {
+  "text": "| Mew கித்‌.",
+  "sec": 1.6293549537658691,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_21": {
+  "text": "- பல்கலைக்கழ கரு ககரில்‌",
+  "sec": 5.409894227981567,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_22": {
+  "text": "| MUAH OMI HI தத்து.",
+  "sec": 1.6639680862426758,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_23": {
+  "text": "கண.",
+  "sec": 0.9748990535736084,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_24": {
+  "text": "| அடுப்படியில்‌",
+  "sec": 1.3905913829803467,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_25": {
+  "text": "| fy bev",
+  "sec": 1.5203516483306885,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_26": {
+  "text": "அசிசசிதம்‌",
+  "sec": 1.6681830883026123,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_27": {
+  "text": "| ADEs",
+  "sec": 1.9325575828552246,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_28": {
+  "text": "| இட்போரிநகீலாம்‌.",
+  "sec": 1.7496461868286133,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_29": {
+  "text": "ஒங்கி",
+  "sec": 1.553668737411499,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_3": {
+  "text": "சதை",
+  "sec": 1.6743507385253906,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_4": {
+  "text": "ரகுல்‌.",
+  "sec": 1.0201773643493652,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_5": {
+  "text": "ப்ச்‌",
+  "sec": 1.118056058883667,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_6": {
+  "text": "Specub |",
+  "sec": 1.1347692012786865,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_7": {
+  "text": "| ஜகம்‌",
+  "sec": 1.5319750308990479,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_8": {
+  "text": "ட le Bir Damion",
+  "sec": 1.413214921951294,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten/tam_9": {
+  "text": "2௮௭2 bongs",
+  "sec": 1.325873851776123,
+  "error": null,
+  "mode": "native",
+  "model": "tam"
+ },
+ "handwritten_wild/ben_0": {
+  "text": "তে",
+  "sec": 0.4709439277648926,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_1": {
+  "text": "sh",
+  "sec": 0.40650057792663574,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_10": {
+  "text": "সপন ee ee",
+  "sec": 0.4077138900756836,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_11": {
+  "text": "্সজছো!",
+  "sec": 0.3170468807220459,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_12": {
+  "text": "(SPAR",
+  "sec": 0.3689258098602295,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_13": {
+  "text": "ফির",
+  "sec": 0.3422129154205322,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_14": {
+  "text": "re ko kal",
+  "sec": 0.38174962997436523,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_15": {
+  "text": "০৫/2",
+  "sec": 0.5044546127319336,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_16": {
+  "text": "Saya",
+  "sec": 0.41141295433044434,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_17": {
+  "text": "vcore",
+  "sec": 0.45761537551879883,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_18": {
+  "text": "ESS",
+  "sec": 0.33594369888305664,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_19": {
+  "text": "RIAD,",
+  "sec": 0.39084744453430176,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_2": {
+  "text": "‘(Ome",
+  "sec": 0.40305590629577637,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_20": {
+  "text": "Siew",
+  "sec": 0.295198917388916,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_21": {
+  "text": "AS",
+  "sec": 0.4579198360443115,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_22": {
+  "text": "০",
+  "sec": 0.4928114414215088,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_23": {
+  "text": "GITtsr",
+  "sec": 0.34540700912475586,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_24": {
+  "text": "185০",
+  "sec": 0.5008807182312012,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_25": {
+  "text": "মগ",
+  "sec": 0.44313478469848633,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_26": {
+  "text": "ABTA",
+  "sec": 0.36505675315856934,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_27": {
+  "text": "বটি",
+  "sec": 0.36265110969543457,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_28": {
+  "text": "“yg fT OCT",
+  "sec": 0.36408305168151855,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_29": {
+  "text": "প্রা য়াঠি নীল",
+  "sec": 0.5658910274505615,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_3": {
+  "text": "্চ্ত",
+  "sec": 0.473773717880249,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_30": {
+  "text": "TEC)",
+  "sec": 0.4257934093475342,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_31": {
+  "text": "বা০শেিত।",
+  "sec": 0.3969240188598633,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_32": {
+  "text": "Har",
+  "sec": 0.3797876834869385,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_33": {
+  "text": "TTT AR AT",
+  "sec": 0.38378286361694336,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_34": {
+  "text": "CASA",
+  "sec": 0.5025537014007568,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_35": {
+  "text": "See,",
+  "sec": 0.5262100696563721,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_4": {
+  "text": "Ge",
+  "sec": 0.4365217685699463,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_5": {
+  "text": "a",
+  "sec": 0.38115501403808594,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_6": {
+  "text": "MATEY",
+  "sec": 0.4315156936645508,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_7": {
+  "text": "INSU",
+  "sec": 0.4235212802886963,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_8": {
+  "text": "aur চু",
+  "sec": 0.3888697624206543,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/ben_9": {
+  "text": "ms)’",
+  "sec": 0.44831228256225586,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "handwritten_wild/guj_0": {
+  "text": "પાત",
+  "sec": 0.3937203884124756,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_1": {
+  "text": "ee)",
+  "sec": 0.39882993698120117,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_10": {
+  "text": "મળી",
+  "sec": 0.49437904357910156,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_11": {
+  "text": "૩37",
+  "sec": 0.5098276138305664,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_12": {
+  "text": "Yycanaistl",
+  "sec": 0.48205018043518066,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_13": {
+  "text": "Se",
+  "sec": 0.40661168098449707,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_14": {
+  "text": "તાક્યો",
+  "sec": 0.38431477546691895,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_15": {
+  "text": "TE",
+  "sec": 0.4823613166809082,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_16": {
+  "text": "WIE",
+  "sec": 0.4943654537200928,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_17": {
+  "text": "જશન",
+  "sec": 0.5013251304626465,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_18": {
+  "text": "કળ",
+  "sec": 0.5591254234313965,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_19": {
+  "text": "a)",
+  "sec": 0.38144540786743164,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_2": {
+  "text": "gel.",
+  "sec": 0.412015438079834,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_20": {
+  "text": "ow lS",
+  "sec": 0.4428117275238037,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_21": {
+  "text": "GAG",
+  "sec": 0.4786086082458496,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_22": {
+  "text": "od\"",
+  "sec": 0.5544359683990479,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_23": {
+  "text": "DSA",
+  "sec": 0.5415019989013672,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_24": {
+  "text": "શત્દ્લમયૂતી.",
+  "sec": 0.5747201442718506,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_25": {
+  "text": "wisi",
+  "sec": 0.4620792865753174,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_26": {
+  "text": "રજને",
+  "sec": 0.43196606636047363,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_27": {
+  "text": "બટ્ટવ્થનનો",
+  "sec": 0.545156717300415,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_28": {
+  "text": "નીડ",
+  "sec": 0.4467494487762451,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_29": {
+  "text": "Fein",
+  "sec": 0.5335285663604736,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_3": {
+  "text": "ANIA",
+  "sec": 0.5409979820251465,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_30": {
+  "text": "૭.",
+  "sec": 0.43038201332092285,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_31": {
+  "text": "ભદ્નઝા",
+  "sec": 0.4761848449707031,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_32": {
+  "text": "UES)",
+  "sec": 0.4756143093109131,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_33": {
+  "text": "અબિડક્રન7",
+  "sec": 0.39418482780456543,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_34": {
+  "text": "હ",
+  "sec": 0.40898871421813965,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_35": {
+  "text": "લિંકને",
+  "sec": 0.48511505126953125,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_4": {
+  "text": "CWS.",
+  "sec": 0.4137558937072754,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_5": {
+  "text": "છલ”",
+  "sec": 0.43283653259277344,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_6": {
+  "text": "MHoldled",
+  "sec": 0.49230360984802246,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_7": {
+  "text": "C42) wy 2",
+  "sec": 0.44732666015625,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_8": {
+  "text": "espera)",
+  "sec": 0.4389500617980957,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/guj_9": {
+  "text": "ઉળવિ",
+  "sec": 0.45714473724365234,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "handwritten_wild/kan_0": {
+  "text": "KIO GH) ReB",
+  "sec": 0.6552436351776123,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_1": {
+  "text": "ಪುಥಾನಿ",
+  "sec": 0.6295547485351562,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_10": {
+  "text": "Ent",
+  "sec": 0.7009038925170898,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_11": {
+  "text": "ಔಯ)",
+  "sec": 0.775146484375,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_12": {
+  "text": "BISHARLT",
+  "sec": 0.3764338493347168,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_13": {
+  "text": "\"ಗಣಗಳ",
+  "sec": 0.46146130561828613,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_14": {
+  "text": "ಇವರಿಗೆ",
+  "sec": 0.515300989151001,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_15": {
+  "text": "ಶ್‌",
+  "sec": 0.6211972236633301,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_16": {
+  "text": "ಶಯತ.",
+  "sec": 0.545769453048706,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_17": {
+  "text": "WS",
+  "sec": 0.6385369300842285,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_18": {
+  "text": "ಗ್‌",
+  "sec": 0.49025559425354004,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_19": {
+  "text": "ಬಕಿಯಲ್ಲ",
+  "sec": 0.4037292003631592,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_2": {
+  "text": "Juma.",
+  "sec": 0.43732452392578125,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_20": {
+  "text": "CU, ದಿ.",
+  "sec": 0.5678684711456299,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_21": {
+  "text": "ಕ್ರಿಯೆಯ",
+  "sec": 0.5764272212982178,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_22": {
+  "text": "ಸ್ರ",
+  "sec": 0.4604156017303467,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_23": {
+  "text": "oad",
+  "sec": 0.44730377197265625,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_24": {
+  "text": "ಅಶ್‌",
+  "sec": 0.4588475227355957,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_25": {
+  "text": "(COLE",
+  "sec": 0.5273981094360352,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_26": {
+  "text": "Sass",
+  "sec": 0.7459492683410645,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_27": {
+  "text": "ಓರ ನರ್ಸು",
+  "sec": 0.9673061370849609,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_28": {
+  "text": "jana ow\"",
+  "sec": 0.6332807540893555,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_29": {
+  "text": "ಕುರಿತು",
+  "sec": 0.5689992904663086,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_3": {
+  "text": "ಸತರ ತ್ರ",
+  "sec": 0.5082099437713623,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_30": {
+  "text": "NOS",
+  "sec": 0.4540278911590576,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_31": {
+  "text": "ROI)",
+  "sec": 0.5545272827148438,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_32": {
+  "text": "D209)",
+  "sec": 0.47602081298828125,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_33": {
+  "text": "esdds",
+  "sec": 0.4620349407196045,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_34": {
+  "text": "ಲಗಿ",
+  "sec": 0.4823930263519287,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_35": {
+  "text": "TMS",
+  "sec": 0.6664464473724365,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_4": {
+  "text": "Awog) aw",
+  "sec": 0.5723457336425781,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_5": {
+  "text": "ಡಾಗು?",
+  "sec": 0.5369408130645752,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_6": {
+  "text": "ಬುದ್ಧನ",
+  "sec": 0.5549592971801758,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_7": {
+  "text": "ದಿರು",
+  "sec": 0.43311285972595215,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_8": {
+  "text": "ಐಲಯ್ಯ",
+  "sec": 0.4815199375152588,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/kan_9": {
+  "text": "ಸರ",
+  "sec": 0.6591994762420654,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "handwritten_wild/mal_0": {
+  "text": "ayn)",
+  "sec": 0.6488010883331299,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_1": {
+  "text": "പ൧൪ ൬൯.",
+  "sec": 0.5881350040435791,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_10": {
+  "text": "൧",
+  "sec": 0.4278867244720459,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_11": {
+  "text": "NOE",
+  "sec": 0.4162321090698242,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_12": {
+  "text": "Mont",
+  "sec": 0.47225522994995117,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_13": {
+  "text": "BoBRSS",
+  "sec": 0.48653531074523926,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_14": {
+  "text": "teacher",
+  "sec": 0.46666455268859863,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_15": {
+  "text": "൫",
+  "sec": 0.5663309097290039,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_16": {
+  "text": "൭).",
+  "sec": 0.4247171878814697,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_17": {
+  "text": "ഭാര്യ",
+  "sec": 0.46480226516723633,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_18": {
+  "text": "ശു",
+  "sec": 0.538766622543335,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_19": {
+  "text": "സ്റ്റിദ്വദിക്",
+  "sec": 0.5408411026000977,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_2": {
+  "text": "ഡഘടഴ്യഗ്രസപ്ഥന്നതിസ",
+  "sec": 0.475055456161499,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_20": {
+  "text": "രി",
+  "sec": 0.5031845569610596,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_21": {
+  "text": "ny",
+  "sec": 0.597186803817749,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_22": {
+  "text": "Marre",
+  "sec": 0.4842686653137207,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_23": {
+  "text": "me",
+  "sec": 0.42848682403564453,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_24": {
+  "text": "ജീപന്ുലമിന്ന",
+  "sec": 0.6352448463439941,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_25": {
+  "text": "ഭലാ",
+  "sec": 0.4539179801940918,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_26": {
+  "text": "pore",
+  "sec": 0.5204896926879883,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_27": {
+  "text": "൨ തക",
+  "sec": 0.5869898796081543,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_28": {
+  "text": "ന്ന",
+  "sec": 0.468189001083374,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_29": {
+  "text": "എത്ത",
+  "sec": 0.4741814136505127,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_3": {
+  "text": ".അതിന്‍െറ",
+  "sec": 0.46872425079345703,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_30": {
+  "text": "DOALE2 A",
+  "sec": 0.5575354099273682,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_31": {
+  "text": "Noxth",
+  "sec": 0.4270296096801758,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_32": {
+  "text": "O63 12",
+  "sec": 0.45725083351135254,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_33": {
+  "text": "DS) eo1 2061),",
+  "sec": 0.6261487007141113,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_34": {
+  "text": "കാ",
+  "sec": 0.5672857761383057,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_35": {
+  "text": "23904 2K 0",
+  "sec": 0.5657756328582764,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_4": {
+  "text": "ACH",
+  "sec": 0.49388599395751953,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_5": {
+  "text": "ADS",
+  "sec": 0.3966069221496582,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_6": {
+  "text": "AP) mony”",
+  "sec": 0.3845534324645996,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_7": {
+  "text": "ഹ്‌ ഒ്ലീ",
+  "sec": 0.6486070156097412,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_8": {
+  "text": "Oro,",
+  "sec": 0.5269911289215088,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/mal_9": {
+  "text": "Mya HLLO",
+  "sec": 0.48371458053588867,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "handwritten_wild/tel_0": {
+  "text": "చరా ౮8",
+  "sec": 0.4254176616668701,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_1": {
+  "text": "we oad",
+  "sec": 0.3968679904937744,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_10": {
+  "text": "ods",
+  "sec": 0.37058591842651367,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_11": {
+  "text": "—Hrodnd B20",
+  "sec": 0.3805263042449951,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_12": {
+  "text": "AMod",
+  "sec": 0.4382896423339844,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_13": {
+  "text": "Boao",
+  "sec": 0.3861219882965088,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_14": {
+  "text": "విభంగా",
+  "sec": 0.37107181549072266,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_15": {
+  "text": "అని",
+  "sec": 0.3529384136199951,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_16": {
+  "text": "సొడుక్రేము,",
+  "sec": 0.5091869831085205,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_17": {
+  "text": "av&ab",
+  "sec": 0.45545077323913574,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_18": {
+  "text": "యోలాం-అనణనయ",
+  "sec": 0.4063868522644043,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_19": {
+  "text": "Fag",
+  "sec": 0.3906896114349365,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_2": {
+  "text": "౨౩౭౧౦౧",
+  "sec": 0.4909391403198242,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_20": {
+  "text": "MLA:",
+  "sec": 0.4317657947540283,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_21": {
+  "text": "oy Se tu",
+  "sec": 0.3627133369445801,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_22": {
+  "text": "9లో",
+  "sec": 0.3647332191467285,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_23": {
+  "text": "abolish",
+  "sec": 0.39325380325317383,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_24": {
+  "text": "కాళి",
+  "sec": 0.4805130958557129,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_25": {
+  "text": "పాబ్పిడనస్రడు",
+  "sec": 0.5709595680236816,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_26": {
+  "text": "(భాగనతుల",
+  "sec": 0.43726420402526855,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_27": {
+  "text": "Bd",
+  "sec": 0.44772958755493164,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_28": {
+  "text": "ర్మమ.",
+  "sec": 0.4084951877593994,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_29": {
+  "text": "హారం",
+  "sec": 0.4445228576660156,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_3": {
+  "text": "raps",
+  "sec": 0.43982982635498047,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_30": {
+  "text": "WB LO OL, OG,",
+  "sec": 0.42632031440734863,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_31": {
+  "text": "Bxcedllence",
+  "sec": 0.43733787536621094,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_32": {
+  "text": "గంలో ౧౨",
+  "sec": 0.5051403045654297,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_33": {
+  "text": "అప్పు",
+  "sec": 0.5236165523529053,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_34": {
+  "text": "రథ",
+  "sec": 0.48616838455200195,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_35": {
+  "text": "cell",
+  "sec": 0.41782259941101074,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_4": {
+  "text": "రెయుడ్సె",
+  "sec": 0.46554994583129883,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_5": {
+  "text": "A:q:",
+  "sec": 0.4257628917694092,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_6": {
+  "text": "@aplo",
+  "sec": 0.40640997886657715,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_7": {
+  "text": "180",
+  "sec": 0.36957764625549316,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_8": {
+  "text": "rug,",
+  "sec": 0.33729052543640137,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "handwritten_wild/tel_9": {
+  "text": "లీడన",
+  "sec": 0.34548377990722656,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/ben_0": {
+  "text": "ভিটামিন বি৯",
+  "sec": 0.44453001022338867,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_1": {
+  "text": "এখন",
+  "sec": 0.45304250717163086,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_10": {
+  "text": "পিছিয়ে।",
+  "sec": 0.4810750484466553,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_11": {
+  "text": "ইউরোপে কি একটু গরম লাগছে?",
+  "sec": 0.5508828163146973,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_12": {
+  "text": "- আলোকসজ্জা",
+  "sec": 0.6029579639434814,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_13": {
+  "text": "জন্ম দেখ |",
+  "sec": 0.41848087310791016,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_14": {
+  "text": "রেডিও",
+  "sec": 0.4452812671661377,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_15": {
+  "text": "রুূপান্তরমূলক শিক্ষা এবং আগ্রপাতি gens করার",
+  "sec": 0.4739105701446533,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_16": {
+  "text": "",
+  "sec": 0.38739943504333496,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_17": {
+  "text": "এই প্রকল্পুগুলে৷ দেখায় Cx একটি সোলার কার গার্কের",
+  "sec": 0.49399280548095703,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_18": {
+  "text": "অবশ্যই রেশনিং করতে ছবে |",
+  "sec": 0.4909534454345703,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_19": {
+  "text": "আগনার ডেন্টিস্টের সাথে কথা বলা উচিত।",
+  "sec": 0.5306131839752197,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_2": {
+  "text": "ভারতীন্র আইনি ব্যবস্থায়",
+  "sec": 0.609375,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_20": {
+  "text": "Ily PC",
+  "sec": 0.46515512466430664,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_21": {
+  "text": "",
+  "sec": 0.4028136730194092,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_22": {
+  "text": "বিদ্যুৎ শিল্প বিশেষত্ব",
+  "sec": 0.42021632194519043,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_23": {
+  "text": "সরে যাচ্ছে।",
+  "sec": 0.3522176742553711,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_24": {
+  "text": "গোবল, এবং SHS US.",
+  "sec": 0.46036314964294434,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_25": {
+  "text": "ফুলের কুঁড়ি এবং ফল Te)",
+  "sec": 0.39031314849853516,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_26": {
+  "text": "প্রতিবন্ধী শিক্ষার্থীর সংখ্যা ক্রমবর্ধমান দেখতে",
+  "sec": 0.46399497985839844,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_27": {
+  "text": "TATRA GUMS ভিজ SI",
+  "sec": 0.611086368560791,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_28": {
+  "text": "জীবনযাত্রার মান।",
+  "sec": 0.47840094566345215,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_29": {
+  "text": "বেছে নেওয়া যেতে পারে।",
+  "sec": 0.4178140163421631,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_3": {
+  "text": "ডাবল বেস",
+  "sec": 0.35936880111694336,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_4": {
+  "text": "১৫১৪-২৪৬৯।",
+  "sec": 0.3668234348297119,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_5": {
+  "text": "মানুষ অন্ধকারে চলছিল",
+  "sec": 0.3873918056488037,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_6": {
+  "text": "যার সাথে আপোস করা উচিত নয়।",
+  "sec": 0.5633430480957031,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_7": {
+  "text": "হাইড্রোথেরাপির ব্যবহার গ্রন্থি Sars উদ্দীপিত",
+  "sec": 0.538440465927124,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_8": {
+  "text": "",
+  "sec": 0.46234750747680664,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/ben_9": {
+  "text": "OFFS রয়েছে।",
+  "sec": 0.42929744720458984,
+  "error": null,
+  "mode": "native",
+  "model": "ben"
+ },
+ "printed_indic/guj_0": {
+  "text": "નો ઉપયોગ કરે છે.",
+  "sec": 0.4031963348388672,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_1": {
+  "text": "ઘટક રહેશે.",
+  "sec": 0.4011542797088623,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_10": {
+  "text": "alta */ટ agli આહારમાં ચિનચિલા ગોળીઓનો",
+  "sec": 0.509270429611206,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_11": {
+  "text": "નિર્માતાઓ અને કામદારો તકનીકી પ્રગતિને કેવી રીતે",
+  "sec": 0.5128331184387207,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_12": {
+  "text": "કરો! - પ્રોટીન સામગ્રીઃ કુમિ સારો માત્રામાં",
+  "sec": 0.6511256694793701,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_13": {
+  "text": "opal મદદરૂપ છે?",
+  "sec": 0.8090298175811768,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_14": {
+  "text": "એન્કીલોઝિંગ સ્પોડિલાઇટિસનું કારણ શું છે?",
+  "sec": 0.6472060680389404,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_15": {
+  "text": "ઉપયોગ કરીને પાક પર પરાગ રજ સેવાઓને ઓષ્ટિમાઇઝ",
+  "sec": 0.6246621608734131,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_16": {
+  "text": "ડિમેન્શિયા આરોગ્યસભાળ અસગાનતારઓ Gara તઅક્કે શરૂ",
+  "sec": 0.49399399757385254,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_17": {
+  "text": "કપડાં દૂષિત થાય છે",
+  "sec": 0.3506429195404053,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_18": {
+  "text": "ala તરફ દોરી જાય છે.",
+  "sec": 0.35944628715515137,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_19": {
+  "text": "રીતે પ્રક્રિયા કરી શકયા.",
+  "sec": 0.4060945510864258,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_2": {
+  "text": "પેટ્રોગ્લિફ્સ અથવા Briand ખૂબ પ્રાચીન હોય,",
+  "sec": 0.696143388748169,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_20": {
+  "text": "\"ચીનના દરિયાકાંઠાના શહેરો જાણીતા છે",
+  "sec": 0.5473341941833496,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_21": {
+  "text": "સજા.",
+  "sec": 0.48894476890563965,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_22": {
+  "text": "વિસ્તારમાં રહેશે.",
+  "sec": 0.5562272071838379,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_23": {
+  "text": "સમયસરતા",
+  "sec": 0.39415597915649414,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_24": {
+  "text": "લીધી.",
+  "sec": 0.4259984493255615,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_25": {
+  "text": "જેમ કે aha wis અને we (સ્ટયરફ્ેમ).",
+  "sec": 0.5243391990661621,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_26": {
+  "text": "જુઓ]",
+  "sec": 0.38262248039245605,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_27": {
+  "text": "\"જય\" નામના મૂળ વિવિધ WEA WA ્યપ્સખેેપે૧",
+  "sec": 0.5839669704437256,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_28": {
+  "text": "ઉદાહરણ,”",
+  "sec": 0.41046762466430664,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_29": {
+  "text": "- તણાવ, ધૂમ્રપાન અને અન્ય ઝેરી તત્વોના સંપર્કમાં",
+  "sec": 0.5899062156677246,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_3": {
+  "text": "સંભવિત રીતે ઉપચારને નકામું બનાવે છે.",
+  "sec": 0.4526970386505127,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_4": {
+  "text": "બેઠેલા જોવા મળે છે.",
+  "sec": 0.5534701347351074,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_5": {
+  "text": "ગમશે!",
+  "sec": 0.40561532974243164,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_6": {
+  "text": "",
+  "sec": 0.4960296154022217,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_7": {
+  "text": "કેઝ્યુઅલ કોફી પ્રેમી.",
+  "sec": 0.39235663414001465,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_8": {
+  "text": "ભલે તમે શિખાઉ માણસ હોવ.",
+  "sec": 0.4166066646575928,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/guj_9": {
+  "text": "ત્રણ-સ્તરીય અભિગમ બનાવ્યો: બેરલનો નીચેનો ભાગ,",
+  "sec": 0.5150189399719238,
+  "error": null,
+  "mode": "native",
+  "model": "guj"
+ },
+ "printed_indic/kan_0": {
+  "text": "ಗತ ಸತಾ Sees ae",
+  "sec": 0.6500227451324463,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_1": {
+  "text": "Ando 398 ಮಾಡಬಾರದು.",
+  "sec": 0.5301673412322998,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_10": {
+  "text": "ಇದು ಹೆಚ್ಚು ದಟ್ಟವಾದ",
+  "sec": 0.5227246284484863,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_11": {
+  "text": "ಆಸ್ತಿಯ ಗಾತ್ರ",
+  "sec": 0.4298725128173828,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_12": {
+  "text": "ಪುರುಷ ಲಿಂಗ",
+  "sec": 0.45033860206604004,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_13": {
+  "text": "ಆತಂಕಗಳು ಮತ್ತು ನೈತಿಕ ಪಾಠಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+  "sec": 0.5300278663635254,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_14": {
+  "text": "ಹೊರತೆಗೆಯುವ ಸಮಯ ಕಡಿಮೆ",
+  "sec": 0.5556800365447998,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_15": {
+  "text": "de ಮತ್ತು ಸಮೃದ್ಧಿ",
+  "sec": 0.5540182590484619,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_16": {
+  "text": "- ಹಂಟರ್‌",
+  "sec": 0.5907092094421387,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_17": {
+  "text": "ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಗಾಲ್ವಾಲ್ಯೂಮ್‌ ಸ್ಟ್ಯಾಂಡಿಂಗ್‌-ಸೀಮ್‌",
+  "sec": 0.7023739814758301,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_18": {
+  "text": "ಪ್ರಾಚೀನ ಗ್ರಂಥಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುವ",
+  "sec": 0.5217885971069336,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_19": {
+  "text": "ಊಟಿ",
+  "sec": 0.5500218868255615,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_2": {
+  "text": "ತುಣುಕುಗಳು",
+  "sec": 0.49883198738098145,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_20": {
+  "text": "ಬಹುಶಃ",
+  "sec": 0.47820377349853516,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_21": {
+  "text": "ಸೂಕ್ಷ್ಮ",
+  "sec": 0.44439244270324707,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_22": {
+  "text": "ಈ ವಿಧಾನ ಸಾಂಪ್ರದಾಯಿಕ ಇಮ್ಯುನೊತೆರಪಿಕ್‌ ಸಮಾನವಾಗಿದೆ,",
+  "sec": 0.6065323352813721,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_23": {
+  "text": "HDLC",
+  "sec": 0.469968318939209,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_24": {
+  "text": "ಸದ್ಗುಣ ನೀತಿಶಾಸ್ತ್ರ.",
+  "sec": 0.503227710723877,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_25": {
+  "text": "ಉದಯೋನ್ಮುಖ ಸೂಕ್ಷ್ಮಜೀವಿಯ ಜೈವಿಕ ಉತ್ತೇಜಕಗಳ",
+  "sec": 0.4607415199279785,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_26": {
+  "text": "ಬೆಂಬಲಿಸುತ್ತಲೇ ಇದ್ದರೂ, ಭಾಗವಹಿಸುವವರ ಕೊರತೆಯಿಂದಾಗಿ",
+  "sec": 0.5285739898681641,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_27": {
+  "text": "ಗೋಪುರ ಗಮ್ಯಸ್ಥಾನ",
+  "sec": 0.49081993103027344,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_28": {
+  "text": "ಬೆಂಕಿಗೆ ಹೊಂದಾಣಿಕೆಗಳು ಬೇಕಾಗುತ್ತವೆ.",
+  "sec": 0.5127837657928467,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_29": {
+  "text": "ವೈಯಕ್ತಿಕಗೊಳಿಸಿದ ಔಷಧ ಎಂದರೆ ರೋಗಿಯ ನಿರ್ದಿಷ್ಟ",
+  "sec": 0.5163781642913818,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_3": {
+  "text": "ಸುಮಾರು 1600 ವರ್ಷಗಳು.",
+  "sec": 0.5818824768066406,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_4": {
+  "text": "ಆಯೋಜಕರು",
+  "sec": 0.6294012069702148,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_5": {
+  "text": "ಯುಎಸ್‌ನಲ್ಲಿ ಇನ್ನೊಂದನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಿದ್ಧವಾಗಿದೆ.",
+  "sec": 0.7981553077697754,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_6": {
+  "text": "ಅನುಭವವನ್ನಾಗಿ ಮಾಡಿ.",
+  "sec": 0.5024521350860596,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_7": {
+  "text": "",
+  "sec": 0.391589879989624,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_8": {
+  "text": "7 ಶತಮಾನಗಳಲ್ಲಿ",
+  "sec": 0.4952988624572754,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/kan_9": {
+  "text": "ಸೆಲ್ವ್‌ಗಳು",
+  "sec": 0.40489625930786133,
+  "error": null,
+  "mode": "native",
+  "model": "kan"
+ },
+ "printed_indic/mal_0": {
+  "text": "ഗാര്‍ഹികാന്തരീക്ഷത്തില്‍ നടത്തപ്പെടുന്ന ആഘോഷങ്ങളും",
+  "sec": 0.4304516315460205,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_1": {
+  "text": "ദീനാവനപരായണ = ദീനന്മാരെ അവനം ചെയ്യുന്നതില്‍",
+  "sec": 0.5576310157775879,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_10": {
+  "text": "തെയ്യാന്‍ വ.",
+  "sec": 0.5618252754211426,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_11": {
+  "text": "ഓന്യാര്ക്കും - അവനെ ആര്‍ക്കും",
+  "sec": 0.49579548835754395,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_12": {
+  "text": "ഇണവസ്ത്രം.",
+  "sec": 0.6075925827026367,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_13": {
+  "text": "അവസാനം രണ്ടുംകൂട്ടി",
+  "sec": 0.5631206035614014,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_14": {
+  "text": "PAGE 52",
+  "sec": 0.39108800888061523,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_15": {
+  "text": "ഒല്ലിമലര്‍",
+  "sec": 0.30495429039001465,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_16": {
+  "text": "പുതിയങ്കം",
+  "sec": 0.3495662212371826,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_17": {
+  "text": "കേന്ദ്രത്തിന്‌ വിളക്ക്‌",
+  "sec": 0.49400925636291504,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_18": {
+  "text": "ഉയര്‍ന്ന പ്രദേശം.",
+  "sec": 0.45937538146972656,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_19": {
+  "text": "വടക്കന്‍ കേരളത്തില്‍ ആദ്യകാലത്ത്‌",
+  "sec": 0.5384805202484131,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_2": {
+  "text": "മറ്റൊരു ലക്ഷണം. ത്രിപതാകസ്യ മധ്യതു നിമനം യറി",
+  "sec": 0.45023369789123535,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_20": {
+  "text": "\"ശരിയാ, ഒരറഷ്‌.”",
+  "sec": 0.39659595489501953,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_21": {
+  "text": "പ്രയോഗിക്കപ്പടെണം",
+  "sec": 0.4023597240447998,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_22": {
+  "text": "പാറകളില്‍ പറ്റിഷിടിയു വളരുന്ന ഒരു മ്മിവി.",
+  "sec": 0.5330111980438232,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_23": {
+  "text": "മന്ത്രവാദി.",
+  "sec": 0.3631429672241211,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_24": {
+  "text": "ആനുഷ്ഠാനികധര്‍മമുള്ള",
+  "sec": 0.5827326774597168,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_25": {
+  "text": "ട്ട",
+  "sec": 0.543673038482666,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_26": {
+  "text": "ധൈധയ്യമുണ്ടു.",
+  "sec": 0.46672892570495605,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_27": {
+  "text": "ആധുനിക പേര്‍ഷ്യനിലെ 'പീല്‍'",
+  "sec": 0.5333833694458008,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_28": {
+  "text": "കെരഷ്ടമഹമേദാണ്‌ സിംഹം.",
+  "sec": 0.5404856204986572,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_29": {
+  "text": "Pans സര്‍വ്വസാധാരണമാണ്‌.",
+  "sec": 0.4410395622253418,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_3": {
+  "text": "വിടുന്ന ആട.",
+  "sec": 0.4225142002105713,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_4": {
+  "text": "ഈ തിറ കെട്ടിയാടിവരുന്നു.",
+  "sec": 0.5085701942443848,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_5": {
+  "text": "പൂര്‍വ്വപക്ഷത്തില്‍ ചതുര്‍ത്ഥിയും ഏകാദശിയും",
+  "sec": 0.5179018974304199,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_6": {
+  "text": "6011)",
+  "sec": 0.5684754848480225,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_7": {
+  "text": "അച്ചിപ്പറ",
+  "sec": 0.4834754467010498,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_8": {
+  "text": "ദുര്‍ഗ്ഗാചക്രം",
+  "sec": 0.4845595359802246,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mal_9": {
+  "text": "മധുരമുള്ളതാണത്‌.",
+  "sec": 0.4019138813018799,
+  "error": null,
+  "mode": "native",
+  "model": "mal"
+ },
+ "printed_indic/mar_0": {
+  "text": "later",
+  "sec": 0.4254894256591797,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_1": {
+  "text": "एरुष आणि स्त्रिया दोघेही",
+  "sec": 0.40264105796813965,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_10": {
+  "text": "उत्तरे SAHA जशीच्या तशी घेतली जात नाहीत",
+  "sec": 0.42113161087036133,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_11": {
+  "text": "छाटणीची कात्री",
+  "sec": 0.37110400199890137,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_12": {
+  "text": "चाड",
+  "sec": 0.48059773445129395,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_13": {
+  "text": "आल्यावर कॅप्टनने शिशाचा वापर केला, आणि ५० फूट",
+  "sec": 0.6000359058380127,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_14": {
+  "text": "पाहत होतो.",
+  "sec": 0.47937560081481934,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_15": {
+  "text": "",
+  "sec": 0.5108067989349365,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_16": {
+  "text": "२२०१ मध्ये",
+  "sec": 0.5032045841217041,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_17": {
+  "text": "ठेवणे उत्तम.",
+  "sec": 0.44722414016723633,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_18": {
+  "text": "करून पोषण स्थिती सुधारणे.",
+  "sec": 0.49443960189819336,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_19": {
+  "text": "लाउण्यांसाठी aed,",
+  "sec": 0.4841749668121338,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_2": {
+  "text": "ऑनलाइन पोस्ट केला जाईल.",
+  "sec": 0.6799025535583496,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_20": {
+  "text": "",
+  "sec": 0.7655243873596191,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_21": {
+  "text": "भेटीचा एकूण वेळ सारखाच असतो.",
+  "sec": 0.4171891212463379,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_22": {
+  "text": "> औषध घेण्याची वेळ बदला",
+  "sec": 0.4708845615386963,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_23": {
+  "text": "",
+  "sec": 0.40128159523010254,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_24": {
+  "text": "लोकांसाठी लिहिले जाते.",
+  "sec": 0.4943835735321045,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_25": {
+  "text": "26495854.",
+  "sec": 0.5681943893432617,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_26": {
+  "text": "८ अणि ९ वर्षांनी).",
+  "sec": 0.4912397861480713,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_27": {
+  "text": "सार्वजनिक ग्रंथालये हे वर्षभर वापरण्यासाठी एक",
+  "sec": 0.47691965103149414,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_28": {
+  "text": "- Suite मार्गदर्शक.",
+  "sec": 0.733405590057373,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_29": {
+  "text": "अधिक सुतभ दाली आहे.",
+  "sec": 0.6084933280944824,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_3": {
+  "text": "चला एक उदाहरण घेऊया.",
+  "sec": 0.6626698970794678,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_4": {
+  "text": "असलेल्या लोकांना जास्त वेळ लागू शकतो.",
+  "sec": 0.5427291393280029,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_5": {
+  "text": "स्य",
+  "sec": 0.48659181594848633,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_6": {
+  "text": "मोनो मटेरियल: आम्ही खोटं बोलणार नाही...",
+  "sec": 0.6224715709686279,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_7": {
+  "text": "मुलांपैकी पहिला होता.",
+  "sec": 0.4455878734588623,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_8": {
+  "text": "साइन अप करू शकता.",
+  "sec": 0.5694718360900879,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/mar_9": {
+  "text": "वेर्ळ्रस््ज",
+  "sec": 0.6367859840393066,
+  "error": null,
+  "mode": "native",
+  "model": "mar"
+ },
+ "printed_indic/pan_0": {
+  "text": "",
+  "sec": 0.3821854591369629,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_1": {
+  "text": "ਅਤੇ ਜੀਵਨ ਸ਼ੈਲੀ ਵਰਗੇ ਵਿਹਾਰਕ ਕਾਰਕਾਂ ਨੂੰ ਨਿੱਜੀ",
+  "sec": 0.5503401756286621,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_10": {
+  "text": "",
+  "sec": 0.6862072944641113,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_11": {
+  "text": "Cue",
+  "sec": 0.53017258644104,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_12": {
+  "text": "",
+  "sec": 0.6265532970428467,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_13": {
+  "text": "ਜਾਤ",
+  "sec": 0.4191770553588867,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_14": {
+  "text": "ਹਾਲਾਂਕਿ, ਡਿਪਰੈਸ਼ਨ ਤੋਂ ਬਚਣ ਜਾਂ ਠੀਕ ਹੋਣ ਲਈ ਕੋਈ ਕੀ ਕਰ",
+  "sec": 0.42151594161987305,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_15": {
+  "text": "ਵਿਆਹ ਜਵੀ ਕਾਨੂੰਨੀ ਜੋੜਾਂ",
+  "sec": 0.3813493251800537,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_16": {
+  "text": "",
+  "sec": 0.3953819274902344,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_17": {
+  "text": "ਇਹ ਸੇਰੋਟੋਨਿਨ",
+  "sec": 0.40468692779541016,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_18": {
+  "text": "",
+  "sec": 0.37067699432373047,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_19": {
+  "text": "=ਫ ਤਤ ਰਾਵ ਦੇਤ",
+  "sec": 0.45288562774658203,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_2": {
+  "text": "ਹੱਲ ਕਰਨ 'ਤੇ ਧਿਆਨ ਕੇਂਦਰਿਤ ਕੀਤਾ ਗਿਆ ti\"",
+  "sec": 0.4111204147338867,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_20": {
+  "text": "ਉਦਾਹਰਣ: tans Shes tans ਬੇਸਝਾਲ ਪਿੱਚ ਕੀਤੇ",
+  "sec": 0.7742352485656738,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_21": {
+  "text": "ਹੈ, ਤਾਂ ਅਸੀਂ ਤਿਆਰ ਹਾਂ ਅਤੇ ਉਸ ਅਨੁਸਾਰ ਕੰਮ ਕਰਦੇ Til",
+  "sec": 0.5309436321258545,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_22": {
+  "text": "ਸਬੂਤਾਂ ਤੋਂ ਮੁਕਤ ਹਨ/",
+  "sec": 0.4557199478149414,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_23": {
+  "text": "2504 Ue!",
+  "sec": 0.41806483268737793,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_24": {
+  "text": "",
+  "sec": 0.4463653564453125,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_25": {
+  "text": "ਹਿਸਟੋਗ੍ਰਾਮ",
+  "sec": 0.5067825317382812,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_26": {
+  "text": "",
+  "sec": 0.5933330059051514,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_27": {
+  "text": "8 ਹੀ ਬੁਰੇ ਹੁੰਦੇ ਗਏ।",
+  "sec": 0.6768910884857178,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_28": {
+  "text": "ਇਹ ਤਾਰੇ ਆਪਣੇ ਵਿਕਾਸ ਦੇ ਬਹੁਤ ਸ਼ੁਰੂਆਤੀ we ਟਿੱਚ",
+  "sec": 0.47591567039489746,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_29": {
+  "text": "",
+  "sec": 0.5221958160400391,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_3": {
+  "text": "2021 ਕੀ ਬਹੂਤ ਜ਼ਿਆਦਾ ਦਹੀਂ ਖਾਣਾ ਤੁਹਾਡੇ ਲਈ ਮਾੜਾ ਹੈ?",
+  "sec": 0.46902036666870117,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_4": {
+  "text": "ਦੇਸ ਬੇਬੁਨਿਆਦ ਸੀ",
+  "sec": 0.45841550827026367,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_5": {
+  "text": "ਅਕਤੂਬਰ 2021 ਵਿੱਚ",
+  "sec": 0.6489088535308838,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_6": {
+  "text": "",
+  "sec": 0.5522110462188721,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_7": {
+  "text": "- ਬਜਟ ਫੰਡ",
+  "sec": 0.3324558734893799,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_8": {
+  "text": "ਮਜ਼ੇਦਾਰ ਅਤੇ ਵੱਖਰਾ ਸੀ",
+  "sec": 0.3781571388244629,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/pan_9": {
+  "text": "",
+  "sec": 0.4301304817199707,
+  "error": null,
+  "mode": "native",
+  "model": "pan"
+ },
+ "printed_indic/tel_0": {
+  "text": "వాటిని సంరక్షించడం",
+  "sec": 0.33452939987182617,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_1": {
+  "text": "మందికి పైగా పాదచారులు మరణించారు.",
+  "sec": 0.6096978187561035,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_10": {
+  "text": "ముగ్గురు సిబ్బందితో",
+  "sec": 0.45476651191711426,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_11": {
+  "text": "“బ్యాంచ్‌",
+  "sec": 0.4026176929473877,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_12": {
+  "text": "మానసిక సవాళ్లు ఉన్నాయి.",
+  "sec": 0.562736988067627,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_13": {
+  "text": "అభివృద్ధి లేదా జిహాద్‌",
+  "sec": 0.3964698314666748,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_14": {
+  "text": "శాక్టమెంటో",
+  "sec": 0.36779165267944336,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_15": {
+  "text": "OG",
+  "sec": 0.39371418952941895,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_16": {
+  "text": "FADD SAD తప్పుగా సమౌధాసం Ts",
+  "sec": 0.48487377166748047,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_17": {
+  "text": "దాని ప్రకారం, Dar ఆశ్చర్యకరమైన వేగంతో పునరుత్పాదక",
+  "sec": 0.6043052673339844,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_18": {
+  "text": "అతను సైనిక విజయాల ద్వారా అధికారాన్ని",
+  "sec": 0.43199872970581055,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_19": {
+  "text": "మేల్కొలుపుతాయి.",
+  "sec": 0.42077064514160156,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_2": {
+  "text": "మరియు యానిమేషన్‌ కోసం ఎంచుకున్న విభిన్న",
+  "sec": 0.47680187225341797,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_20": {
+  "text": "- జనవరిలో",
+  "sec": 0.331676721572876,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_21": {
+  "text": "SSR DAK DPSS VN",
+  "sec": 0.48044657707214355,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_22": {
+  "text": "లావుగా",
+  "sec": 0.36986780166625977,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_23": {
+  "text": "మనం వేళ్లు కలుపుతున్నష్ప్పుడు, మనం ఏదో విశ్వ శృంఖల",
+  "sec": 0.4809744358062744,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_24": {
+  "text": "19116",
+  "sec": 0.3313257694244385,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_25": {
+  "text": "",
+  "sec": 0.4926466941833496,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_26": {
+  "text": "సెట్స్‌",
+  "sec": 0.37146925926208496,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_27": {
+  "text": "",
+  "sec": 0.3741788864135742,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_28": {
+  "text": "అబెర్జీన్‌",
+  "sec": 0.4275808334350586,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_29": {
+  "text": "Mad పోకడలు",
+  "sec": 0.4033055305480957,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_3": {
+  "text": "ఇవి వైవిధ్యభరితమైన జీవులు మరియు వీటిలో",
+  "sec": 0.5781991481781006,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_4": {
+  "text": "గమనించాయి.",
+  "sec": 0.35347533226013184,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_5": {
+  "text": "కనెక్టివిజం",
+  "sec": 0.4187347888946533,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_6": {
+  "text": "సాంకేతిక సాధ్యాసాధ్యాలు",
+  "sec": 0.4055502414703369,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_7": {
+  "text": "",
+  "sec": 0.38190674781799316,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_8": {
+  "text": "దీనికి చర్య మరియు ప్రతిబింబం, ఉద్రిక్తత మరియు",
+  "sec": 0.4700453281402588,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "printed_indic/tel_9": {
+  "text": "కోఫుజి పి,, అరాక్‌ ఎ,",
+  "sec": 0.611640453338623,
+  "error": null,
+  "mode": "native",
+  "model": "tel"
+ },
+ "synthetic/eng_0_blur": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 0.39976024627685547,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_0_clean": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 0.3440067768096924,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_0_noise": {
+  "text": "",
+  "sec": 0.33230113983154297,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_0_rotate": {
+  "text": "The quick brown fox jumps over the lazy dog",
+  "sec": 0.4112257957458496,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_1_blur": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 0.3722825050354004,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_1_clean": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 0.4122328758239746,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_1_noise": {
+  "text": "",
+  "sec": 0.37068629264831543,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_1_rotate": {
+  "text": "Invoice total due within thirty days of receipt",
+  "sec": 0.3420531749725342,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_2_blur": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 0.3985326290130615,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_2_clean": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 0.3990042209625244,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_2_noise": {
+  "text": "",
+  "sec": 0.3794591426849365,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_2_rotate": {
+  "text": "Optical character recognition converts images to text",
+  "sec": 0.3938107490539551,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_3_blur": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 0.3771345615386963,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_3_clean": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 0.3918170928955078,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_3_noise": {
+  "text": "",
+  "sec": 0.34871959686279297,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_3_rotate": {
+  "text": "Meeting scheduled for Monday at 10:30 in room 4B",
+  "sec": 0.3768184185028076,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_4_blur": {
+  "text": "Please keep this receipt for your records",
+  "sec": 0.5024433135986328,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_4_clean": {
+  "text": "Please keep this receipt for your records",
+  "sec": 0.3505215644836426,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_4_noise": {
+  "text": "",
+  "sec": 0.3925588130950928,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ },
+ "synthetic/eng_4_rotate": {
+  "text": "Please keep this receipt for your records",
+  "sec": 0.427837610244751,
+  "error": null,
+  "mode": "native",
+  "model": "eng"
+ }
+}
